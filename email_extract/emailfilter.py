@@ -1,6 +1,6 @@
 import sys,re
 g,u=[],{}
-r=r"(^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$)"
+r=r"[\w\+\._-]+@\w+[\w*\.]+\w+"
 f=open(sys.argv[1],'r')
 for l in f:
     g+=re.findall(r,l)
