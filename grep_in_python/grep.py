@@ -15,7 +15,10 @@ def grep_file(filename, pattern, color, ignore_case, p_headers, p_lineno, p_line
     
     if p_headers:    
         while line:
-            result = re.findall(pattern, linet)
+            if ignore_case:
+                result = re.findall(pattern, linet)
+            else:
+                result = re.findall(pattern, line)
             if (len(result)>0):
                 flagh = 1
                 break
@@ -25,7 +28,10 @@ def grep_file(filename, pattern, color, ignore_case, p_headers, p_lineno, p_line
             lineno += 1
         if p_lines:
             while line:
+                if ignore_case:
                 result = re.findall(pattern, linet)
+                else:
+                result = re.findall(pattern, line)
                 if (len(result)>0):
                     if p_lineno:
                         sys.stdout.write(str(lineno) + ' : ' + line + '\n')
@@ -38,7 +44,10 @@ def grep_file(filename, pattern, color, ignore_case, p_headers, p_lineno, p_line
     
     elif p_lines:
         while line:
-            result = re.findall(pattern, linet)
+            if ignore_case:
+                result = re.findall(pattern, linet)
+            else:
+                result = re.findall(pattern, line)
             if (len(result)>0):
                 if p_lineno:
                     sys.stdout.write(str(lineno) + ' : ' + line + '\n')
@@ -51,7 +60,10 @@ def grep_file(filename, pattern, color, ignore_case, p_headers, p_lineno, p_line
     
     else:
         while line:
-            result = re.findall(pattern, linet)
+            if ignore_case:
+                result = re.findall(pattern, linet)
+            else:
+                result = re.findall(pattern, line)
             if (len(result)>0):
                 for item in result:
                     sys.stdout.write('%s\n' % item)
