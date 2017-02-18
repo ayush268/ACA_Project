@@ -29,9 +29,9 @@ def grep_file(filename, pattern, color, ignore_case, p_headers, p_lineno, p_line
         if p_lines:
             while line:
                 if ignore_case:
-                result = re.findall(pattern, linet)
+                    result = re.findall(pattern, linet)
                 else:
-                result = re.findall(pattern, line)
+                    result = re.findall(pattern, line)
                 if (len(result)>0):
                     if p_lineno:
                         sys.stdout.write(str(lineno) + ' : ' + line + '\n')
