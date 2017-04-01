@@ -12,3 +12,6 @@ Date - 18th Feb, 2017
 Date - 19th Feb, 2017
     Use the zeroMQ or zmq library of python
     Create game Passing_the_Parcel with other scripts and Collatz Conjecture
+
+Date - 21st Mar, 2017
+    Started with Linux from Scratch.
