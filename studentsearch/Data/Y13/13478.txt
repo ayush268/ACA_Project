@@ -1,0 +1,14 @@
+Roll No - 13478
+Name - POOJA
+Gender - Female
+Dept. - ECONOMICS
+Program - BS
+Address - GH, GHTB-502
+E-mail - poojakmr@iitk.ac.in
+Blood Group - A-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13478_0.jpg
+																	

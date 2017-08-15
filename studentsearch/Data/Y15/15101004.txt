@@ -1,0 +1,14 @@
+Roll No - 15101004
+Name - ABHISHEK  DUBEY
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - MTech
+Address - HALLXI, B-130
+E-mail - abidubey@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15101004_0.jpg
+																	

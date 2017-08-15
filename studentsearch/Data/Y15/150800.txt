@@ -1,0 +1,14 @@
+Roll No - 150800
+Name - VIKASH KUMAR GUPTA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 216
+E-mail - vikashkg@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150800_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13468
+Name - PAWAN  KUMAR
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL9, F-115
+E-mail - pawannir@iitk.ac.in
+Blood Group - A+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13468_0.jpg
+																	

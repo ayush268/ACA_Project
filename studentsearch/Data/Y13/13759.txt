@@ -1,0 +1,14 @@
+Roll No - 13759
+Name - VAIBHAV  BASWAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, D-303
+E-mail - vbaswal@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13759_0.jpg
+																	

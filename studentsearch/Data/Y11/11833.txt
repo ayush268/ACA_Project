@@ -1,0 +1,14 @@
+Roll No - 11833
+Name - YOGESHWAR  PAL
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D210
+E-mail - yogipal@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11833_0.jpg
+																	

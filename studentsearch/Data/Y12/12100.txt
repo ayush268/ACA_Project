@@ -1,0 +1,14 @@
+Roll No - 12100
+Name - AMIT  PRABHAT
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL5
+E-mail - amitpra@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12100_0.jpg
+																	

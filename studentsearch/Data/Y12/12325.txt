@@ -1,0 +1,14 @@
+Roll No - 12325
+Name - JITENDRA KUMAR NAGAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL12, D-604
+E-mail - jnagar@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12325_0.jpg
+																	

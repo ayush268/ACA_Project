@@ -1,0 +1,14 @@
+Roll No - 12621
+Name - SANKIT  SAINI
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL9, H-307
+E-mail - ssaini@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12621_0.jpg
+																	

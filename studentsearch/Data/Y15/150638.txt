@@ -1,0 +1,14 @@
+Roll No - 150638
+Name - SARANSH  SHARMA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 236
+E-mail - saranshd@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150638_0.jpg
+																	

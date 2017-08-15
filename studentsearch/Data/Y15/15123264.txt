@@ -1,0 +1,14 @@
+Roll No - 15123264
+Name - MANAB  MUKHERJEE
+Gender - Male
+Dept. - EARTH SCIENCES
+Program - PhD
+Address - HALL8, D-213
+E-mail - manab@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15123264_0.jpg
+																	

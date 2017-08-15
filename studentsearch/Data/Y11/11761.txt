@@ -1,0 +1,14 @@
+Roll No - 11761
+Name - TANMAY SANJAY JAIPURKAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, A-318
+E-mail - tanmayj@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11761_0.jpg
+																	

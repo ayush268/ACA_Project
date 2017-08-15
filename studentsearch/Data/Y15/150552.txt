@@ -1,0 +1,14 @@
+Roll No - 150552
+Name - RAHUL  SHEKHAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL5, C-313
+E-mail - shekharr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150552_0.jpg
+																	

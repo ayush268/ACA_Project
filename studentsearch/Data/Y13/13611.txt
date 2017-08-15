@@ -1,0 +1,14 @@
+Roll No - 13611
+Name - SANCHIT PRAKASH MALL
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, C-320
+E-mail - msanchit@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13611_0.jpg
+																	

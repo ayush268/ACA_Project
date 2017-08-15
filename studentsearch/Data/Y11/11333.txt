@@ -1,0 +1,14 @@
+Roll No - 11333
+Name - JATIN  GARG
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL1, F307
+E-mail - jgarg@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11333_0.jpg
+																	

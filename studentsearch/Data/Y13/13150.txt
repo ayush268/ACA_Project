@@ -1,0 +1,14 @@
+Roll No - 13150
+Name - ARUSHI  AGRAWAL
+Gender - Female
+Dept. - MATHEMATICS
+Program - BS
+Address - GH, C-202
+E-mail - aarushi@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13150_0.jpg
+																	

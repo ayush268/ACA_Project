@@ -1,0 +1,14 @@
+Roll No - 13712
+Name - SRISHTI  CHATURVEDI
+Gender - Female
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - GH, GHTA-608
+E-mail - srishtic@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13712_0.jpg
+																	

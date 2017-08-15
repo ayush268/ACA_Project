@@ -1,0 +1,14 @@
+Roll No - 150164
+Name - ATUL KUMAR PANDEY
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 376
+E-mail - atulp@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150164_0.jpg
+																	

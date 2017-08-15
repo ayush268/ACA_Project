@@ -1,0 +1,14 @@
+Roll No - 150153
+Name - ASHUTOSH  CHANDRA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, A-405
+E-mail - ashuch@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150153_0.jpg
+																	

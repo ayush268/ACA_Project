@@ -1,0 +1,14 @@
+Roll No - 12181
+Name - AVINASH BHAWNANI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, A-205
+E-mail - avibhaw@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12181_0.jpg
+																	

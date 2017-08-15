@@ -1,0 +1,14 @@
+Roll No - 14388
+Name - MOHAMMAD AFROZ ALAM
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL3, 144
+E-mail - afrozalm@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14388_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11490
+Name - PARTH  MITTAL
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, E-304
+E-mail - parthmi@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11490_0.jpg
+																	

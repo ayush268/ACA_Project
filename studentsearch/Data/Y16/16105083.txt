@@ -1,0 +1,14 @@
+Roll No - 16105083
+Name - RISHABH  GARG
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, A-337
+E-mail - rgarg@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105083_0.jpg
+																	

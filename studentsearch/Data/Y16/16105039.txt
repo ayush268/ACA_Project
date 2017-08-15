@@ -1,0 +1,14 @@
+Roll No - 16105039
+Name - HATKAR  RAJU
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, A-202
+E-mail - hatkar@iitk.ac.in
+Blood Group - B+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105039_0.jpg
+																	

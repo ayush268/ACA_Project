@@ -1,0 +1,14 @@
+Roll No - 12040
+Name - ADHIRAJ  ARORA
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, B-319
+E-mail - adhiraj@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12040_0.jpg
+																	

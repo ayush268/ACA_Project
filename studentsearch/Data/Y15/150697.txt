@@ -1,0 +1,14 @@
+Roll No - 150697
+Name - SHUBHAM  CHOUHAN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 233
+E-mail - cshubham@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150697_0.jpg
+																	

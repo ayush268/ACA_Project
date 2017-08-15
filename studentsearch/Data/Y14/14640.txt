@@ -1,0 +1,14 @@
+Roll No - 14640
+Name - SHASHWAT  PANDEY
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, B-437
+E-mail - spandey@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14640_0.jpg
+																	

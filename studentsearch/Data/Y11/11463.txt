@@ -1,0 +1,14 @@
+Roll No - 11463
+Name - NILANJAN  MAITI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, D118
+E-mail - nilan@iitk.ac.in
+Blood Group - B-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11463_0.jpg
+																	

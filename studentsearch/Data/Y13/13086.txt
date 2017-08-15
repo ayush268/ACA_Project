@@ -1,0 +1,14 @@
+Roll No - 13086
+Name - AMAN  SAXENA
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL9, E-207
+E-mail - amansa@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13086_0.jpg
+																	

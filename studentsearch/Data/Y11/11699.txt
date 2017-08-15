@@ -1,0 +1,14 @@
+Roll No - 11699
+Name - SHRUTI  AGRAWAL
+Gender - Female
+Dept. - MATHEMATICS
+Program - BS
+Address - GH, C-104
+E-mail - shruagr@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11699_0.jpg
+																	

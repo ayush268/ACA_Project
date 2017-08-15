@@ -1,0 +1,14 @@
+Roll No - 11289
+Name - GUNUPUDI  NISHANTH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL12, E-105
+E-mail - nishanth@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11289_0.jpg
+																	

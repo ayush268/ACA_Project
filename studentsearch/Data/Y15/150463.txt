@@ -1,0 +1,14 @@
+Roll No - 150463
+Name - NISHKARSH  AGARWAL
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 119
+E-mail - nishk@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150463_0.jpg
+																	

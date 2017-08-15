@@ -1,0 +1,14 @@
+Roll No - 15104026
+Name - MANJIT  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL8, F-103
+E-mail - manjitk@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104026_0.jpg
+																	

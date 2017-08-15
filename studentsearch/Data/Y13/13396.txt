@@ -1,0 +1,14 @@
+Roll No - 13396
+Name - MAYANK  AGRAWAL
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, C-107
+E-mail - mayanka@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13396_0.jpg
+																	

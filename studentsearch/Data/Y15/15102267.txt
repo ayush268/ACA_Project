@@ -1,0 +1,14 @@
+Roll No - 15102267
+Name - MOHIT  TRIVEDI
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - PhD
+Address - HALLXI, C-435
+E-mail - mtrivedi@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15102267_0.jpg
+																	

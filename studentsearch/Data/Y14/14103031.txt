@@ -1,0 +1,14 @@
+Roll No - 14103031
+Name - NITIN  BANSAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALL4, G-118
+E-mail - nitinb@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14103031_0.jpg
+																	

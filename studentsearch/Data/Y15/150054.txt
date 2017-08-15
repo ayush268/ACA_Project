@@ -1,0 +1,14 @@
+Roll No - 150054
+Name - ADITYA  RAJ
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL5, D-216
+E-mail - adiraj@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150054_0.jpg
+																	

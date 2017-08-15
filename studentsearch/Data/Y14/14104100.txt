@@ -1,0 +1,14 @@
+Roll No - 14104100
+Name - NUNE  RAJENDER
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL8, G-310
+E-mail - rnune@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104100_0.jpg
+																	

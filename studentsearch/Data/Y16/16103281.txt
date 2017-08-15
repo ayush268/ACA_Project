@@ -1,0 +1,14 @@
+Roll No - 16103281
+Name - VARUN  KUMAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - PhD
+Address - HALL8, C-211
+E-mail - varunkr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103281_0.jpg
+																	

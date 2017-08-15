@@ -1,0 +1,14 @@
+Roll No - 150236
+Name - DIVYANSH  KRISHANA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, A-347
+E-mail - krishana@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150236_0.jpg
+																	

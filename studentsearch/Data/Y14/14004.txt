@@ -1,0 +1,14 @@
+Roll No - 14004
+Name - AAKASH  BHATIA
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL3, 257
+E-mail - aakashak@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14004_0.jpg
+																	

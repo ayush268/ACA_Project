@@ -1,0 +1,14 @@
+Roll No - 150559
+Name - RAJVEER  MEENA
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL3, 336
+E-mail - rajveer@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150559_0.jpg
+																	

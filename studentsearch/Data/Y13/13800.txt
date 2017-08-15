@@ -1,0 +1,14 @@
+Roll No - 13800
+Name - VISHWAJIT KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, E-314
+E-mail - vishwk@iitk.ac.in
+Blood Group - O-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13800_0.jpg
+																	

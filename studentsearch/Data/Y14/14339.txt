@@ -1,0 +1,14 @@
+Roll No - 14339
+Name - KUMAR NISHANT VIVEK
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 328
+E-mail - knishant@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14339_0.jpg
+																	

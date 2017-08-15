@@ -1,0 +1,14 @@
+Roll No - 14052
+Name - AKHIL  AMOD
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL2, 164
+E-mail - amod@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14052_0.jpg
+																	

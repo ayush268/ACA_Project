@@ -1,0 +1,14 @@
+Roll No - 16104020
+Name - AZEEM AHMAD KHAN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, B-240
+E-mail - akhan@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104020_0.jpg
+																	

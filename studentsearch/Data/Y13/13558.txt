@@ -1,0 +1,14 @@
+Roll No - 13558
+Name - RAVI KOTHARI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, E-307
+E-mail - ravik@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13558_0.jpg
+																	

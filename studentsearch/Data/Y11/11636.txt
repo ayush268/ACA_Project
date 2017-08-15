@@ -1,0 +1,14 @@
+Roll No - 11636
+Name - SANDEEP  KUMAR
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, H-119
+E-mail - sandk@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11636_0.jpg
+																	

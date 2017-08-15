@@ -1,0 +1,14 @@
+Roll No - 150466
+Name - NITIN  GAUTAM
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 112
+E-mail - gnitin@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150466_0.jpg
+																	

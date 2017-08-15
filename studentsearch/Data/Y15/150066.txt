@@ -1,0 +1,14 @@
+Roll No - 150066
+Name - AJIT  YADAV
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 106
+E-mail - ajitya@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150066_0.jpg
+																	

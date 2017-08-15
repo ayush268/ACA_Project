@@ -1,0 +1,14 @@
+Roll No - 16103060
+Name - RADHIKA  MUNDRA
+Gender - Female
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALL6, A-202
+E-mail - radhikam@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103060_0.jpg
+																	

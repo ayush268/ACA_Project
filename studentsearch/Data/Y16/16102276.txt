@@ -1,0 +1,14 @@
+Roll No - 16102276
+Name - SHADMAN HASAN KHAN
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - PhD
+Address - HALL7, B-317
+E-mail - shadman@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16102276_0.jpg
+																	

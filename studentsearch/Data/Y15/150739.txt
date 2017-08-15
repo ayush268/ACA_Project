@@ -1,0 +1,14 @@
+Roll No - 150739
+Name - SUNKARI PREETHAM PAUL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL2, 170
+E-mail - preeth@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150739_0.jpg
+																	

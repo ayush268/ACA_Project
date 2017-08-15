@@ -1,0 +1,14 @@
+Roll No - 12615
+Name - SANDIP  KUMAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, A-123
+E-mail - ksandip@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12615_0.jpg
+																	

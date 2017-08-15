@@ -1,0 +1,14 @@
+Roll No - 12151
+Name - ARCHISH  MAZUMDAR
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, C-121
+E-mail - archish@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12151_0.jpg
+																	

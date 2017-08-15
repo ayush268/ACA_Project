@@ -1,0 +1,14 @@
+Roll No - 12631
+Name - SATISH KUMAR YADAV
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, C-438
+E-mail - satishy@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12631_0.jpg
+																	

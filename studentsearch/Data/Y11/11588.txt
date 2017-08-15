@@ -1,0 +1,14 @@
+Roll No - 11588
+Name - RAVI  CHOUDHARY
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, G-206
+E-mail - ravich@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11588_0.jpg
+																	

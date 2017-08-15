@@ -1,0 +1,14 @@
+Roll No - 11538
+Name - PREM NATH BHARTI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, A-322
+E-mail - premnath@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11538_0.jpg
+																	

@@ -1,0 +1,16 @@
+Roll No - 14843
+Name - BHASKAR  RANA
+Gender - Male
+Dept. - CHEMISTRY
+Program - MSc
+2
+yr
+Address - HALL7, H-305
+E-mail - brana@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14843_0.jpg
+																	

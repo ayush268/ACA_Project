@@ -1,0 +1,14 @@
+Roll No - 14204263
+Name - ANIL  GAMBHIR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL7, F-215
+E-mail - agambhir@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14204263_0.jpg
+																	

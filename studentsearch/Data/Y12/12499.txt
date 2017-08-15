@@ -1,0 +1,14 @@
+Roll No - 12499
+Name - PRANJUL  YADAV
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL1, D-307
+E-mail - prany@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12499_0.jpg
+																	

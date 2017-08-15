@@ -1,0 +1,14 @@
+Roll No - 12417
+Name - MOHIT MEENA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, B-216
+E-mail - mohitmn@iitk.ac.in
+Blood Group - B-
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12417_0.jpg
+																	

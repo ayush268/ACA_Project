@@ -1,0 +1,14 @@
+Roll No - 11766
+Name - TARUN  CHAUHAN
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, B105
+E-mail - tarunch@iitk.ac.in
+Blood Group - AB+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11766_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12081
+Name - ALOK  RANJAN
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL1, C-109
+E-mail - alokran@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12081_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150665
+Name - SHASHANK  VERMA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALLX, A-117
+E-mail - vermasnk@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150665_0.jpg
+																	

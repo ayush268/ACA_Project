@@ -1,0 +1,14 @@
+Roll No - 160408
+Name - MOHIT  BAGARIA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, A-440
+E-mail - mohitbg@iitk.ac.in
+Blood Group - O+
+Category - ON
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160408_0.jpg
+																	

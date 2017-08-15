@@ -1,0 +1,14 @@
+Roll No - 13135
+Name - ANUSHANK  JAIN
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, C-113
+E-mail - anushank@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13135_0.jpg
+																	

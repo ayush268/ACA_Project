@@ -1,0 +1,14 @@
+Roll No - 13146
+Name - ARPIT AGRAWAL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, G-319
+E-mail - agarpit@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13146_0.jpg
+																	

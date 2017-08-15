@@ -1,0 +1,14 @@
+Roll No - 160722
+Name - SUPREET  AGRAWAL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL2, 121
+E-mail - supreeta@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160722_0.jpg
+																	

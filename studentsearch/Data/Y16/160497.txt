@@ -1,0 +1,14 @@
+Roll No - 160497
+Name - PRANSHU  TRIPATHI
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL3, 236
+E-mail - pranshut@iitk.ac.in
+Blood Group - B-
+Category - null
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160497_0.jpg
+																	

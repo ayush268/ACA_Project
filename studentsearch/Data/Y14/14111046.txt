@@ -1,0 +1,14 @@
+Roll No - 14111046
+Name - VIVEK ANAND T KALLAMPALLY
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL4, A-311
+E-mail - vivekana@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14111046_0.jpg
+																	

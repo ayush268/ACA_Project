@@ -1,0 +1,14 @@
+Roll No - 13792
+Name - VIKRAM KUMAR SAINI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, F-309
+E-mail - sainiv@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13792_0.jpg
+																	

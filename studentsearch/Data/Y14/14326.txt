@@ -1,0 +1,14 @@
+Roll No - 14326
+Name - KRITAGYA  DABI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, C-440
+E-mail - kdabi@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14326_0.jpg
+																	

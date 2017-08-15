@@ -1,0 +1,14 @@
+Roll No - 16105009
+Name - AKASH  YADAV
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALL7, B-304
+E-mail - akashy@iitk.ac.in
+Blood Group - B+
+Category - ON
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105009_0.jpg
+																	

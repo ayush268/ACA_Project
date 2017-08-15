@@ -1,0 +1,14 @@
+Roll No - 14123010
+Name - SANA  KHAN
+Gender - Female
+Dept. - EARTH SCIENCES
+Program - MTech
+Address - HALL6, A-108
+E-mail - sanakhan@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14123010_0.jpg
+																	

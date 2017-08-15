@@ -1,0 +1,14 @@
+Roll No - 13740
+Name - TANYA  BATRA
+Gender - Female
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - GH, GHTA-411
+E-mail - tanyab@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13740_0.jpg
+																	

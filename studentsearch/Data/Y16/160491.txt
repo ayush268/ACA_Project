@@ -1,0 +1,14 @@
+Roll No - 160491
+Name - PRAGYA  JATAV
+Gender - Female
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL6, A-210
+E-mail - pragya@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160491_0.jpg
+																	

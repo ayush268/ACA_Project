@@ -1,0 +1,14 @@
+Roll No - 13290
+Name - HARSH  SHAH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, E-305
+E-mail - hshah@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13290_0.jpg
+																	

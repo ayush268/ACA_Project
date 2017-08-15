@@ -1,0 +1,14 @@
+Roll No - 13602
+Name - SAIKAT  MONDAL
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL2, 335
+E-mail - saikatm@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13602_0.jpg
+																	

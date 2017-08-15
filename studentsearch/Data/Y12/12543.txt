@@ -1,0 +1,14 @@
+Roll No - 12543
+Name - RAJAT CHAUDHARY
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, B-119
+E-mail - rajatch@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12543_0.jpg
+																	

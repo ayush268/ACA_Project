@@ -1,0 +1,14 @@
+Roll No - 14766
+Name - TUSHAR  VATSAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, B-405
+E-mail - tvatsal@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14766_0.jpg
+																	

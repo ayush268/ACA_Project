@@ -1,0 +1,15 @@
+Roll No - 150458
+Name - NIPUN  GUPTA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL5, D-308
+E-mail - nipun@iitk.ac.in
+Blood Group - Not
+Available
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150458_0.jpg
+																	

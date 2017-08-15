@@ -1,0 +1,14 @@
+Roll No - 11564
+Name - RAHUL KUMAR YADAV
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL9, G-310
+E-mail - rahuly@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11564_0.jpg
+																	

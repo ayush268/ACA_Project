@@ -1,0 +1,14 @@
+Roll No - 14305
+Name - KARTIK
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 270
+E-mail - kartk@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14305_0.jpg
+																	

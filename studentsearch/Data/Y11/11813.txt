@@ -1,0 +1,14 @@
+Roll No - 11813
+Name - VISHAL  KOTWAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, E-212
+E-mail - vishalmk@iitk.ac.in
+Blood Group - B+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11813_0.jpg
+																	

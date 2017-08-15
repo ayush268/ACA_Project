@@ -1,0 +1,14 @@
+Roll No - 16111022
+Name - SOUMIK  DASGUPTA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL8, A-105
+E-mail - soumikdg@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111022_0.jpg
+																	

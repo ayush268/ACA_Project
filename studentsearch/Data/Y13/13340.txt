@@ -1,0 +1,14 @@
+Roll No - 13340
+Name - KARANDEEP  SHARMA
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL9, F-102
+E-mail - shkaran@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13340_0.jpg
+																	

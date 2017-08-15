@@ -1,0 +1,14 @@
+Roll No - 11706
+Name - SHUBHAM  SINGH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, F-212
+E-mail - shubhams@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11706_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13181
+Name - AYUSH  AGRAWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, C-114
+E-mail - docayush@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13181_0.jpg
+																	

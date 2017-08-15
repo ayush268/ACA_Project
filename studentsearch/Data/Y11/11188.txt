@@ -1,0 +1,14 @@
+Roll No - 11188
+Name - Neha Banoth Prasad
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - GH, B-301
+E-mail - nprasad@iitk.ac.in
+Blood Group - A+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11188_0.jpg
+																	

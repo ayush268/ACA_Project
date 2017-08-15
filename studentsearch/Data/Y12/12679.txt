@@ -1,0 +1,14 @@
+Roll No - 12679
+Name - SHREESH  LADDHA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, F-105
+E-mail - shreeshl@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12679_0.jpg
+																	

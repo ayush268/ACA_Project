@@ -1,0 +1,14 @@
+Roll No - 11233
+Name - DARSHIL ATUL DHAROD
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, G214
+E-mail - darshil@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11233_0.jpg
+																	

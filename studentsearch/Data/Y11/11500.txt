@@ -1,0 +1,14 @@
+Roll No - 11500
+Name - PRABHASH KUMAR MISHRA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, C305
+E-mail - prabhas@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11500_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13760
+Name - VAIBHAV  KUMAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, B-337
+E-mail - vaibhvk@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13760_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 15103042
+Name - SWATHY J PRAKASH
+Gender - Female
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - GH, A-108
+E-mail - swathy@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15103042_0.jpg
+																	

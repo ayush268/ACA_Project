@@ -1,0 +1,14 @@
+Roll No - 16103065
+Name - RAJAT  MANGOTRA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALL7, C-104
+E-mail - mrajat@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103065_0.jpg
+																	

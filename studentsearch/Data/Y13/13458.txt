@@ -1,0 +1,14 @@
+Roll No - 13458
+Name - SAI KISHAN PAMPANA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, G-109
+E-mail - pkishan@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13458_0.jpg
+																	

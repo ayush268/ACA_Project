@@ -1,0 +1,14 @@
+Roll No - 150523
+Name - PRATYUSH  SINGH
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL5, C-113
+E-mail - pransus@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150523_0.jpg
+																	

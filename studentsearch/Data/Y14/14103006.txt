@@ -1,0 +1,14 @@
+Roll No - 14103006
+Name - AMITA  AGGERWAL
+Gender - Female
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - GH, GHTA-611
+E-mail - amitaagg@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14103006_0.jpg
+																	

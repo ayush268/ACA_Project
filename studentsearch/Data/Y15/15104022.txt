@@ -1,0 +1,14 @@
+Roll No - 15104022
+Name - KRATI
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - GH, B-108
+E-mail - kratigp@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104022_0.jpg
+																	

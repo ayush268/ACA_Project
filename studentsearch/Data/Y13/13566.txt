@@ -1,0 +1,14 @@
+Roll No - 13566
+Name - RICHA  AGRAWAL
+Gender - Female
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - GH, GHTA-505
+E-mail - richaagr@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13566_0.jpg
+																	

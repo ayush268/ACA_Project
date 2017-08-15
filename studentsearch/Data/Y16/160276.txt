@@ -1,0 +1,14 @@
+Roll No - 160276
+Name - HARDIK  HARSH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, A-319
+E-mail - hhard@iitk.ac.in
+Blood Group - B+
+Category - null
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160276_0.jpg
+																	

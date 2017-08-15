@@ -1,0 +1,14 @@
+Roll No - 13459
+Name - PANKAJ  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 210
+E-mail - pankajkk@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13459_0.jpg
+																	

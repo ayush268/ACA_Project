@@ -1,0 +1,14 @@
+Roll No - 14671
+Name - SHUBHAM  AGRAWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 271
+E-mail - shubhm@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14671_0.jpg
+																	

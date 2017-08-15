@@ -1,0 +1,14 @@
+Roll No - 12719
+Name - SIDDHARTH  TRIPATHI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, E-116
+E-mail - sidtri@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12719_0.jpg
+																	

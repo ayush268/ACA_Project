@@ -1,0 +1,14 @@
+Roll No - 16104067
+Name - POOJA  CHUNEKAR
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL6, B-102
+E-mail - chunekar@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104067_0.jpg
+																	

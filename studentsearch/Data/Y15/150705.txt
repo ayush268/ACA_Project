@@ -1,0 +1,14 @@
+Roll No - 150705
+Name - SHUBHANSHU  KHANDELWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, C-207
+E-mail - shubhke@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150705_0.jpg
+																	

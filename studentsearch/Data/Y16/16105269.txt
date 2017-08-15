@@ -1,0 +1,14 @@
+Roll No - 16105269
+Name - ARUN KUMAR MISHRA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - PhD
+Address - DAY, -9999
+E-mail - akmishra@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105269_0.jpg
+																	

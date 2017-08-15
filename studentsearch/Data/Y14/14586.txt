@@ -1,0 +1,14 @@
+Roll No - 14586
+Name - SAKET  KUMAR
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, D-116
+E-mail - saketk@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14586_0.jpg
+																	

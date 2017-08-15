@@ -1,0 +1,14 @@
+Roll No - 12570
+Name - RAVI  SEHARE
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, F-122
+E-mail - ravise@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12570_0.jpg
+																	

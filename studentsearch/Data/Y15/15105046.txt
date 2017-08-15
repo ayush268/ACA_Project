@@ -1,0 +1,14 @@
+Roll No - 15105046
+Name - RAVI  SHARMA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALL8, G-315
+E-mail - ravisha@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15105046_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150733
+Name - SUDHANSHU  TRIPATHI
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, D-303
+E-mail - stripati@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150733_0.jpg
+																	

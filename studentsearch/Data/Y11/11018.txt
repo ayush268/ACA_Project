@@ -1,0 +1,14 @@
+Roll No - 11018
+Name - ABHINAV  MEHTA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, B204
+E-mail - abhinm@iitk.ac.in
+Blood Group - B-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11018_0.jpg
+																	

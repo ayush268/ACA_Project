@@ -1,0 +1,14 @@
+Roll No - 16111017
+Name - PHANI RAJ GOUTHAM KOTCHARLAKOTA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL4, C-316
+E-mail - goutham@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111017_0.jpg
+																	

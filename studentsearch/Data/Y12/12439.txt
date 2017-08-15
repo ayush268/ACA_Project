@@ -1,0 +1,14 @@
+Roll No - 12439
+Name - NEERAJ  SATTAWAT
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL3, 245
+E-mail - neerunj@iitk.ac.in
+Blood Group - O+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12439_0.jpg
+																	

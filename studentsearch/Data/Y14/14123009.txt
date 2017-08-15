@@ -1,0 +1,14 @@
+Roll No - 14123009
+Name - R  CHANDRASEKARAN
+Gender - Male
+Dept. - EARTH SCIENCES
+Program - MTech
+Address - HALL8, D-217
+E-mail - rchandr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14123009_0.jpg
+																	

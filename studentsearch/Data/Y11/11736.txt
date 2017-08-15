@@ -1,0 +1,14 @@
+Roll No - 11736
+Name - SUMEDH  MASULKAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, F-205
+E-mail - sumedh@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11736_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12444
+Name - NIKHIL KUMAR SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, G-220
+E-mail - nikhils@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12444_0.jpg
+																	

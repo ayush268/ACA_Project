@@ -1,0 +1,14 @@
+Roll No - 14092
+Name - AMUR  GHOSE
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALLX, C-315
+E-mail - amur@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14092_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 160196
+Name - BHOOPENDRA SINGH SHAKYA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL2, 132
+E-mail - bshakya@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160196_0.jpg
+																	

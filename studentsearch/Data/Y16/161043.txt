@@ -1,0 +1,16 @@
+Roll No - 161043
+Name - ANITA  ARORA
+Gender - Female
+Dept. - MATHEMATICS
+Program - MSc
+2
+yr
+Address - HALL6, GHTB-104
+E-mail - anitaa@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/161043_0.jpg
+																	

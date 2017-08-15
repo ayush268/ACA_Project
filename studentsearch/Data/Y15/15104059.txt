@@ -1,0 +1,14 @@
+Roll No - 15104059
+Name - TARUN  TRIPATHI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - ACES, 2089
+E-mail - tarunt@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104059_0.jpg
+																	

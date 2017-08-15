@@ -1,0 +1,14 @@
+Roll No - 160031
+Name - ABHISHEK KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 125
+E-mail - krabhis@iitk.ac.in
+Blood Group - O+
+Category - ON*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160031_0.jpg
+																	

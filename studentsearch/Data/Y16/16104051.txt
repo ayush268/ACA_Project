@@ -1,0 +1,15 @@
+Roll No - 16104051
+Name - MEHAK  BANSAL
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL6, 5-507
+E-mail - mehakb@iitk.ac.in
+Blood Group - Not
+Available
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104051_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 160499
+Name - PRASHANT  KARDAM
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, B-343
+E-mail - pkardam@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160499_0.jpg
+																	

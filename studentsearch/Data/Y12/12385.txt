@@ -1,0 +1,14 @@
+Roll No - 12385
+Name - M  ARVIND
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, A-310
+E-mail - arvram@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12385_0.jpg
+																	

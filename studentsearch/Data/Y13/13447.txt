@@ -1,0 +1,14 @@
+Roll No - 13447
+Name - NISHANT  GUPTA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, F-224
+E-mail - nishgu@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13447_0.jpg
+																	

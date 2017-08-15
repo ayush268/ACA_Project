@@ -1,0 +1,14 @@
+Roll No - 12105
+Name - ANADI CHAMAN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, A-307
+E-mail - achaman@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12105_0.jpg
+																	

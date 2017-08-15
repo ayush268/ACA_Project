@@ -1,0 +1,14 @@
+Roll No - 15109263
+Name - ARVIND KUMAR MISHRA
+Gender - Male
+Dept. - PHYSICS
+Program - PhD
+Address - HALLXI, B-410
+E-mail - arvindm@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15109263_0.jpg
+																	

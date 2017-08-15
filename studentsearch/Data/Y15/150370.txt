@@ -1,0 +1,14 @@
+Roll No - 150370
+Name - MAHARSHI  KUMAR
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL3, 227
+E-mail - maharshi@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150370_0.jpg
+																	

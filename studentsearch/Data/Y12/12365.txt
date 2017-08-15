@@ -1,0 +1,14 @@
+Roll No - 12365
+Name - KULDEEP  MEROTTHA
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, G-112
+E-mail - kuldme@iitk.ac.in
+Blood Group - AB+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12365_0.jpg
+																	

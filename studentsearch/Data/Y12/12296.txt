@@ -1,0 +1,14 @@
+Roll No - 12296
+Name - HEMANT  SINGH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, D-208
+E-mail - hemants@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12296_0.jpg
+																	

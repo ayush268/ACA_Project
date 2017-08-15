@@ -1,0 +1,14 @@
+Roll No - 12705
+Name - SHUBHAM SINGH KUTIYAL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, C-107
+E-mail - skutiyal@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12705_0.jpg
+																	

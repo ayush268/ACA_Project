@@ -1,0 +1,14 @@
+Roll No - 14101012
+Name - ARCHANA
+Gender - Female
+Dept. - AEROSPACE ENGG.
+Program - MTech
+Address - HALL6, GHTA-401
+E-mail - archna@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14101012_0.jpg
+																	

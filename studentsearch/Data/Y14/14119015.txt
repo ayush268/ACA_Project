@@ -1,0 +1,14 @@
+Roll No - 14119015
+Name - PRABHAT  KUMAR
+Gender - Male
+Dept. - MASTER OF DESIGN
+Program - MDes
+Address - HALL8, F-309
+E-mail - prabhaat@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14119015_0.jpg
+																	

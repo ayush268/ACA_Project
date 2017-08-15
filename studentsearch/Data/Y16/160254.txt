@@ -1,0 +1,14 @@
+Roll No - 160254
+Name - DIVYANSHU  SHUKLA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 131
+E-mail - shuklad@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160254_0.jpg
+																	

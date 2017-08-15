@@ -1,0 +1,14 @@
+Roll No - 13369
+Name - KURUSETTI VINAY GUPTA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL12, E-206
+E-mail - vinayg@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13369_0.jpg
+																	

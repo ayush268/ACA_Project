@@ -1,0 +1,14 @@
+Roll No - 16103022
+Name - ATUL  KUMAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - ACES, -2073
+E-mail - sharanya@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103022_0.jpg
+																	

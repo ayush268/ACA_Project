@@ -1,0 +1,14 @@
+Roll No - 13813
+Name - YASHWANT  SINGH
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, E-201
+E-mail - ysingh@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13813_0.jpg
+																	

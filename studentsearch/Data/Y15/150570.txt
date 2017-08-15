@@ -1,0 +1,14 @@
+Roll No - 150570
+Name - RATNESH  SWARNKAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL12, E-605
+E-mail - sratnesh@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150570_0.jpg
+																	

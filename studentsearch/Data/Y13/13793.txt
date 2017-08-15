@@ -1,0 +1,14 @@
+Roll No - 13793
+Name - VIKRAM  SHREE
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, B-119
+E-mail - vikshree@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13793_0.jpg
+																	

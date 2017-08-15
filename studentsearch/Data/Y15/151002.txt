@@ -1,0 +1,16 @@
+Roll No - 151002
+Name - AJAY KUMAR PRAJAPATI
+Gender - Male
+Dept. - CHEMISTRY
+Program - MSc
+2
+yr
+Address - HALLXI, B-213
+E-mail - ajaykp@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/151002_0.jpg
+																	

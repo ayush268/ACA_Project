@@ -1,0 +1,14 @@
+Roll No - 150090
+Name - AMEY  CHATURVEDI
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, C-335
+E-mail - ameychat@iitk.ac.in
+Blood Group - O-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150090_0.jpg
+																	

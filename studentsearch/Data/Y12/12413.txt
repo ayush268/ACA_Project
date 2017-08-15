@@ -1,0 +1,14 @@
+Roll No - 12413
+Name - MOHAMMAD ASIF KHAN
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, C-202
+E-mail - asifkhan@iitk.ac.in
+Blood Group - A+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12413_0.jpg
+																	

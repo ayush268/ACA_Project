@@ -1,0 +1,14 @@
+Roll No - 13787
+Name - VIKAS BHARTI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, G-303
+E-mail - vikasbh@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13787_0.jpg
+																	

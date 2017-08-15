@@ -1,0 +1,14 @@
+Roll No - 15111024
+Name - NISHIT  MAJITHIA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL12, C-112
+E-mail - nishitm@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15111024_0.jpg
+																	

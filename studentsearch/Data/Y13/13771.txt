@@ -1,0 +1,14 @@
+Roll No - 13771
+Name - VARUN  GUPTA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, A-108
+E-mail - gvarun@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13771_0.jpg
+																	

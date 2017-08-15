@@ -1,0 +1,14 @@
+Roll No - 11449
+Name - NAMIT  MITTAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, D-207
+E-mail - namit@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11449_0.jpg
+																	

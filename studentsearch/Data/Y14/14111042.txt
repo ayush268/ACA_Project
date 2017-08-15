@@ -1,0 +1,14 @@
+Roll No - 14111042
+Name - UMASHANKAR  LAHRE
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL8, A-310
+E-mail - lahre@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14111042_0.jpg
+																	

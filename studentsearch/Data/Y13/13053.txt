@@ -1,0 +1,14 @@
+Roll No - 13053
+Name - AJAY KUMAR GAUTAM
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, F-212
+E-mail - kgajay@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13053_0.jpg
+																	

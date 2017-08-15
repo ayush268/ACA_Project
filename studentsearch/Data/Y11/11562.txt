@@ -1,0 +1,14 @@
+Roll No - 11562
+Name - RAHUL  KUMAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, G-318
+E-mail - rahulk@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11562_0.jpg
+																	

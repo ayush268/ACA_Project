@@ -1,0 +1,14 @@
+Roll No - 13113
+Name - ANIRBAN  MANNA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, C-108
+E-mail - amanna@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13113_0.jpg
+																	

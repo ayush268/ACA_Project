@@ -1,0 +1,14 @@
+Roll No - 160630
+Name - SATYAM  BHARTIYA
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL2, 320
+E-mail - satyambh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160630_0.jpg
+																	

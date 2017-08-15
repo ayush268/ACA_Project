@@ -1,0 +1,14 @@
+Roll No - 11748
+Name - SURENDRA  KUMAR MEENA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, A-329
+E-mail - surendra@iitk.ac.in
+Blood Group - O+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11748_0.jpg
+																	

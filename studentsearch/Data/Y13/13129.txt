@@ -1,0 +1,14 @@
+Roll No - 13129
+Name - ANSHUL GAUTAM
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, B-217
+E-mail - agautam@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13129_0.jpg
+																	

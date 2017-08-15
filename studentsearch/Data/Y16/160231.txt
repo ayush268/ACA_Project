@@ -1,0 +1,14 @@
+Roll No - 160231
+Name - DEVANSHU  SOMANI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, B-425
+E-mail - devanshu@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160231_0.jpg
+																	

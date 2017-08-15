@@ -1,0 +1,14 @@
+Roll No - 16105072
+Name - PARVEEN  KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALL7, D-208
+E-mail - pkrajain@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105072_0.jpg
+																	

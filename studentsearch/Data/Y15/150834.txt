@@ -1,0 +1,14 @@
+Roll No - 150834
+Name - YASH  BAJAJ
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALLX, A-331
+E-mail - ybajaj@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150834_0.jpg
+																	

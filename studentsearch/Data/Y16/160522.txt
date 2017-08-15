@@ -1,0 +1,14 @@
+Roll No - 160522
+Name - PRIYESH  ZALANI
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL3, 241
+E-mail - zalanip@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160522_0.jpg
+																	

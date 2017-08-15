@@ -1,0 +1,14 @@
+Roll No - 11475
+Name - NITIN  YADAV
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, G318
+E-mail - nitiny@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11475_0.jpg
+																	

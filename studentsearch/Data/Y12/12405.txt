@@ -1,0 +1,14 @@
+Roll No - 12405
+Name - MAYANK  JAIN
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, B-307
+E-mail - jmayank@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12405_0.jpg
+																	

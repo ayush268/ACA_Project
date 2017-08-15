@@ -1,0 +1,14 @@
+Roll No - 12530
+Name - RAHUL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, C-305
+E-mail - rahulcs@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12530_0.jpg
+																	

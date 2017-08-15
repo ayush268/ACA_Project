@@ -1,0 +1,14 @@
+Roll No - 14338
+Name - KUMAR  GAURAV
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL12, C-207
+E-mail - kugaurav@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14338_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12678
+Name - SHOURYA  UMANG
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, G-201
+E-mail - shourya@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12678_0.jpg
+																	

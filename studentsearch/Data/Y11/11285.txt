@@ -1,0 +1,14 @@
+Roll No - 11285
+Name - GOVIND  SINGH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, C318
+E-mail - sgovind@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11285_0.jpg
+																	

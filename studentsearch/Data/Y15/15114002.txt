@@ -1,0 +1,14 @@
+Roll No - 15114002
+Name - ASHISH  BHARTI
+Gender - Male
+Dept. - IND. & MANAGEMENT ENGG.
+Program - MTech
+Address - HALL4, A-311
+E-mail - ashisb@iitk.ac.in
+Blood Group - AB+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15114002_0.jpg
+																	

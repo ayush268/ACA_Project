@@ -1,0 +1,15 @@
+Roll No - 14610
+Name - SATYA PRAKASH PANUGANTI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 101
+E-mail - satyapp@iitk.ac.in
+Blood Group - Not
+Available
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14610_0.jpg
+																	

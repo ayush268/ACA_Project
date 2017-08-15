@@ -1,0 +1,14 @@
+Roll No - 15105032
+Name - NITISH  DALAI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, B-424
+E-mail - nitishd@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15105032_0.jpg
+																	

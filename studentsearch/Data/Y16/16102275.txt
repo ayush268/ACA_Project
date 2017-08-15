@@ -1,0 +1,14 @@
+Roll No - 16102275
+Name - SATYABRATA  PATRO
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - PhD
+Address - HALL7, I-312
+E-mail - sbpatro@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16102275_0.jpg
+																	

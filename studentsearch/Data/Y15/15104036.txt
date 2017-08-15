@@ -1,0 +1,15 @@
+Roll No - 15104036
+Name - NITESH  AGRAWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL4, E-206
+E-mail - nitesha@iitk.ac.in
+Blood Group - Not
+Available
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104036_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 14104112
+Name - SREENADH  PERAMSETTY
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL4, E-314
+E-mail - sreepe@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104112_0.jpg
+																	

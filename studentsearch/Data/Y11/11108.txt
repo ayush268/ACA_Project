@@ -1,0 +1,14 @@
+Roll No - 11108
+Name - ANKIT  KUMAR
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, C-104
+E-mail - kmrankit@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11108_0.jpg
+																	

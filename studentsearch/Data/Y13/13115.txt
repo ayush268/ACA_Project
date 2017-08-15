@@ -1,0 +1,14 @@
+Roll No - 13115
+Name - ANKIT BANSAL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, H-204
+E-mail - bankit@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13115_0.jpg
+																	

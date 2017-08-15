@@ -1,0 +1,14 @@
+Roll No - 11414
+Name - MASSAND SAGAR SUNIL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, D-308
+E-mail - sagarm@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11414_0.jpg
+																	

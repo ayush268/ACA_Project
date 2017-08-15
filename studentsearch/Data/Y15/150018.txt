@@ -1,0 +1,14 @@
+Roll No - 150018
+Name - ABHINAV KUMAR SINGH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, B-315
+E-mail - singhabh@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150018_0.jpg
+																	

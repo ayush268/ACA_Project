@@ -1,0 +1,14 @@
+Roll No - 11453
+Name - NAVIN  LALWANI
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, G308
+E-mail - navinl@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11453_0.jpg
+																	

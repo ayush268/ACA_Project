@@ -1,0 +1,14 @@
+Roll No - 11379
+Name - KUMARI RASHMI BALA
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - GH, D-116
+E-mail - rbala@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11379_0.jpg
+																	

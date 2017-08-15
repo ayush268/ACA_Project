@@ -1,0 +1,14 @@
+Roll No - 11024
+Name - ABHISHEK  GAURAV
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, G209
+E-mail - abhishg@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11024_0.jpg
+																	

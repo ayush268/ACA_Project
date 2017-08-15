@@ -1,0 +1,14 @@
+Roll No - 14730
+Name - SURAJ  SARKAR
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL12, C-304
+E-mail - ssuraj@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14730_0.jpg
+																	

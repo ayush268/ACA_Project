@@ -1,0 +1,14 @@
+Roll No - 14107291
+Name - SAGARMOY  MANDAL
+Gender - Male
+Dept. - CHEMISTRY
+Program - PhD
+Address - HALL7, H-214
+E-mail - sagar@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14107291_0.jpg
+																	

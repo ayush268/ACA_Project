@@ -1,0 +1,14 @@
+Roll No - 150783
+Name - UTKARSH  MISHRA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, C-343
+E-mail - utmishra@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150783_0.jpg
+																	

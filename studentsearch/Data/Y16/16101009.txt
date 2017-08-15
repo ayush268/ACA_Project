@@ -1,0 +1,14 @@
+Roll No - 16101009
+Name - DEEPAK  PATIDAR
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - MTech
+Address - HALL8, A-304
+E-mail - deepakp@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16101009_0.jpg
+																	

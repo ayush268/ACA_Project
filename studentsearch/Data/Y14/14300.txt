@@ -1,0 +1,14 @@
+Roll No - 14300
+Name - KANCHERLA NAVEEN KUMAR REDDY
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL5, A-112
+E-mail - naveenk@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14300_0.jpg
+																	

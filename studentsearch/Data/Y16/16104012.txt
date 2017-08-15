@@ -1,0 +1,14 @@
+Roll No - 16104012
+Name - ANGAD  SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, C-431
+E-mail - angads@iitk.ac.in
+Blood Group - O+
+Category - ON
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104012_0.jpg
+																	

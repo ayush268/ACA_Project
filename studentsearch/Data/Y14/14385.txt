@@ -1,0 +1,14 @@
+Roll No - 14385
+Name - MEESALA  KALYAN
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL3, 321
+E-mail - mkalyan@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14385_0.jpg
+																	

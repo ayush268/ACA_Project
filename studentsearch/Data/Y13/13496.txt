@@ -1,0 +1,14 @@
+Roll No - 13496
+Name - PRASHANT  KUMAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D-321
+E-mail - prshntk@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13496_0.jpg
+																	

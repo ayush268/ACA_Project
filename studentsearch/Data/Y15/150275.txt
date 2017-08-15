@@ -1,0 +1,14 @@
+Roll No - 150275
+Name - HARSHIT  BHALLA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL2, 176
+E-mail - bharshit@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150275_0.jpg
+																	

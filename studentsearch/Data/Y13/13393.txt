@@ -1,0 +1,14 @@
+Roll No - 13393
+Name - MANUJYA  GHOSH
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, F-214
+E-mail - manujya@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13393_0.jpg
+																	

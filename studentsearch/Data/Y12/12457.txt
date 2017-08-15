@@ -1,0 +1,14 @@
+Roll No - 12457
+Name - NOVNIT  KASHYAP
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, H-310
+E-mail - novnitk@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12457_0.jpg
+																	

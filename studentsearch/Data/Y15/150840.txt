@@ -1,0 +1,14 @@
+Roll No - 150840
+Name - YASH SURESH PINJARKAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, A-410
+E-mail - ysuresh@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150840_0.jpg
+																	

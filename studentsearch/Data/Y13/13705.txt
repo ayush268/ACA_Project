@@ -1,0 +1,14 @@
+Roll No - 13705
+Name - SONAL  YADAV
+Gender - Female
+Dept. - ECONOMICS
+Program - BS
+Address - GH, GHTB-501
+E-mail - sonal@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13705_0.jpg
+																	

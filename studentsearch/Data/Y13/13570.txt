@@ -1,0 +1,14 @@
+Roll No - 13570
+Name - RISHABH  ANAND
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, G-219
+E-mail - anandr@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13570_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150396
+Name - MAYANK  SHAKYA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL3, 247
+E-mail - mshakya@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150396_0.jpg
+																	

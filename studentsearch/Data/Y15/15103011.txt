@@ -1,0 +1,14 @@
+Roll No - 15103011
+Name - DEEPTI  SHARMA
+Gender - Female
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - GH, D-107
+E-mail - dptshrma@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15103011_0.jpg
+																	

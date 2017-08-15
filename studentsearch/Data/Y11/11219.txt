@@ -1,0 +1,14 @@
+Roll No - 11219
+Name - CHETAN KUMAR GARG
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, C110
+E-mail - cgarg@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11219_0.jpg
+																	

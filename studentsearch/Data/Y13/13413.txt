@@ -1,0 +1,14 @@
+Roll No - 13413
+Name - MUKESH  KUMAR
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL9, H-313
+E-mail - kumukesh@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13413_0.jpg
+																	

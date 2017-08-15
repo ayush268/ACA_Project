@@ -1,0 +1,14 @@
+Roll No - 160754
+Name - UMANG  GARG
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 122
+E-mail - ugarg@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160754_0.jpg
+																	

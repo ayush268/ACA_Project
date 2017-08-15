@@ -1,0 +1,14 @@
+Roll No - 16101262
+Name - ARUN KUMAR C
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - PhD
+Address - HALL8, B-312
+E-mail - arun@iitk.ac.in
+Blood Group - O+
+Category - ON
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16101262_0.jpg
+																	

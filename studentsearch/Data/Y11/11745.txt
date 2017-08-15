@@ -1,0 +1,14 @@
+Roll No - 11745
+Name - SURAJ  JAMRA
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL5, E-311
+E-mail - jmsuraj@iitk.ac.in
+Blood Group - O+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11745_0.jpg
+																	

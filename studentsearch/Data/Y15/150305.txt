@@ -1,0 +1,14 @@
+Roll No - 150305
+Name - JAYA ADITYA C
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, C-208
+E-mail - jayaa@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150305_0.jpg
+																	

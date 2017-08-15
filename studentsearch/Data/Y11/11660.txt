@@ -1,0 +1,14 @@
+Roll No - 11660
+Name - SATYENDRA  YADAV
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, F-311
+E-mail - satyendy@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11660_0.jpg
+																	

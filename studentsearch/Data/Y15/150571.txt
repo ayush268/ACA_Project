@@ -1,0 +1,14 @@
+Roll No - 150571
+Name - RAUSHAN  KUMAR
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALLX, C-239
+E-mail - kraushan@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150571_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12833
+Name - YASH  BANWANI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, G-203
+E-mail - yashbanw@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12833_0.jpg
+																	

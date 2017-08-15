@@ -1,0 +1,14 @@
+Roll No - 13202
+Name - BHUSHAN LAXMAN SHAHARE
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, F-209
+E-mail - bhussion@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13202_0.jpg
+																	

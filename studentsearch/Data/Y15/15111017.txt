@@ -1,0 +1,14 @@
+Roll No - 15111017
+Name - GANGURDE MAYURI LAXMAN
+Gender - Female
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - GH, A-108
+E-mail - mayurig@iitk.ac.in
+Blood Group - O-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15111017_0.jpg
+																	

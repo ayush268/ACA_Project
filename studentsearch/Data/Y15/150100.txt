@@ -1,0 +1,14 @@
+Roll No - 150100
+Name - ANIS KUMAR MANJHI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL5, D-313
+E-mail - anism@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150100_0.jpg
+																	

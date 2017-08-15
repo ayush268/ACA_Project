@@ -1,0 +1,14 @@
+Roll No - 160736
+Name - SYED NAVEED BUKHARI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 118
+E-mail - syednav@iitk.ac.in
+Blood Group - B+
+Category - GP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160736_0.jpg
+																	

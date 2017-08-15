@@ -1,0 +1,14 @@
+Roll No - 13151
+Name - ARVIND KUMAR MAVLIYA
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, A-305
+E-mail - mavliya@iitk.ac.in
+Blood Group - B-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13151_0.jpg
+																	

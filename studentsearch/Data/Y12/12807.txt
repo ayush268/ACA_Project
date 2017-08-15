@@ -1,0 +1,14 @@
+Roll No - 12807
+Name - VINAY  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, G-106
+E-mail - vinkum@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12807_0.jpg
+																	

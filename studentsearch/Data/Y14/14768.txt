@@ -1,0 +1,14 @@
+Roll No - 14768
+Name - UJJWAL
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 381
+E-mail - uthori@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14768_0.jpg
+																	

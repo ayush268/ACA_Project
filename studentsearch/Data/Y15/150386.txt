@@ -1,0 +1,14 @@
+Roll No - 150386
+Name - MANOJ KUMAR KUSHWAH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, B-109
+E-mail - manojkk@iitk.ac.in
+Blood Group - A-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150386_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11528
+Name - PRATEEK  SAHU
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, G107
+E-mail - prateeks@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11528_0.jpg
+																	

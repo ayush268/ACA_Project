@@ -1,0 +1,14 @@
+Roll No - 12607
+Name - SAMADIPA  SAHA
+Gender - Female
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL6, GHTA-313
+E-mail - samadipa@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12607_0.jpg
+																	

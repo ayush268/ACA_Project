@@ -1,0 +1,14 @@
+Roll No - 12353
+Name - KEWAL  SHAH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, F-103
+E-mail - kewals@iitk.ac.in
+Blood Group - O-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12353_0.jpg
+																	

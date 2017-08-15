@@ -1,0 +1,14 @@
+Roll No - 150419
+Name - MOHIT  DUSEJA
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL2, 316
+E-mail - mduseja@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150419_0.jpg
+																	

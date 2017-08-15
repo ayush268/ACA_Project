@@ -1,0 +1,14 @@
+Roll No - 13745
+Name - TEJVEER  SINGH
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, E-108
+E-mail - tejveers@iitk.ac.in
+Blood Group - O+
+Category - GP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13745_0.jpg
+																	

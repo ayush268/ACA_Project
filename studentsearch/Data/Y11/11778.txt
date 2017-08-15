@@ -1,0 +1,14 @@
+Roll No - 11778
+Name - UTKARSH DEEP
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, G217
+E-mail - utkarsh@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11778_0.jpg
+																	

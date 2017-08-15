@@ -1,0 +1,14 @@
+Roll No - 14732
+Name - SURYA  CHOUTPALLY
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL3, 204
+E-mail - csurya@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14732_0.jpg
+																	

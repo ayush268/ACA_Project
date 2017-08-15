@@ -1,0 +1,14 @@
+Roll No - 12600
+Name - SAGAR  BHURE
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, G-316
+E-mail - sbhure@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12600_0.jpg
+																	

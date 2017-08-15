@@ -1,0 +1,14 @@
+Roll No - 12230
+Name - DEEPAK  MEENA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL12, D-603
+E-mail - deepmeen@iitk.ac.in
+Blood Group - O+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12230_0.jpg
+																	

@@ -1,0 +1,16 @@
+Roll No - 161027
+Name - RAGHAV  KAUSHAL
+Gender - Male
+Dept. - CHEMISTRY
+Program - MSc
+2
+yr
+Address - HALL12, F-112
+E-mail - raghav@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/161027_0.jpg
+																	

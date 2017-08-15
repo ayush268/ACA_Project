@@ -1,0 +1,14 @@
+Roll No - 11134
+Name - ANUPAM  JAKHAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, G-109
+E-mail - anupjak@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11134_0.jpg
+																	

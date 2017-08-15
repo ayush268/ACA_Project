@@ -1,0 +1,14 @@
+Roll No - 13084
+Name - AMAN  GAJRAJ
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, C-319
+E-mail - amangaj@iitk.ac.in
+Blood Group - B-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13084_0.jpg
+																	

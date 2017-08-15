@@ -1,0 +1,14 @@
+Roll No - 12466
+Name - AKSHAY PRALHAD PARATE
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, A-208
+E-mail - parate@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12466_0.jpg
+																	

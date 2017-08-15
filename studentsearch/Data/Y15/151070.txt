@@ -1,0 +1,16 @@
+Roll No - 151070
+Name - SANDEEP  KUMAR
+Gender - Male
+Dept. - MATHEMATICS
+Program - MSc
+2
+yr
+Address - HALLXI, B-234
+E-mail - skdeep@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/151070_0.jpg
+																	

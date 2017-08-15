@@ -1,0 +1,14 @@
+Roll No - 13312
+Name - IQRA  ALTAF
+Gender - Female
+Dept. - MATHEMATICS
+Program - BS
+Address - GH, GHTA-410
+E-mail - iqra@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13312_0.jpg
+																	

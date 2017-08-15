@@ -1,0 +1,14 @@
+Roll No - 14273
+Name - ISHAN  AGNIHOTRI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALLX, A-304
+E-mail - ishan@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14273_0.jpg
+																	

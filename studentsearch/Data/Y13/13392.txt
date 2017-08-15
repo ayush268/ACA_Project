@@ -1,0 +1,14 @@
+Roll No - 13392
+Name - MANU  GUPTA
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL9, H-203
+E-mail - manug@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13392_0.jpg
+																	

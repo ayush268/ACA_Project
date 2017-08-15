@@ -1,0 +1,14 @@
+Roll No - 11806
+Name - VIKRAM  RATHI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, G216
+E-mail - vikramr@iitk.ac.in
+Blood Group - B-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11806_0.jpg
+																	

@@ -1,0 +1,15 @@
+Roll No - 160456
+Name - NISHANK  MISHRA
+Gender - Male
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - BTech
+Address - HALL5, D-310
+E-mail - nishankm@iitk.ac.in
+Blood Group - Not
+Available
+Category - GN**
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160456_0.jpg
+																	

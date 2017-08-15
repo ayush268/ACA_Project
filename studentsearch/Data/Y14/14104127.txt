@@ -1,0 +1,14 @@
+Roll No - 14104127
+Name - RAJ KUMAR SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, C-414
+E-mail - rksingh@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104127_0.jpg
+																	

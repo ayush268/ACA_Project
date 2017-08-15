@@ -1,0 +1,14 @@
+Roll No - 150780
+Name - UNNAT KUMAR SINGH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, C-411
+E-mail - unnat@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150780_0.jpg
+																	

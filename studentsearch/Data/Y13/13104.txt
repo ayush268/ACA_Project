@@ -1,0 +1,14 @@
+Roll No - 13104
+Name - AMITESH  PAWAR
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, F-121
+E-mail - amiteshp@iitk.ac.in
+Blood Group - AB+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13104_0.jpg
+																	

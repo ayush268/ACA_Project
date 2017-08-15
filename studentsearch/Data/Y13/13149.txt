@@ -1,0 +1,14 @@
+Roll No - 13149
+Name - ARPITA  SHARMA
+Gender - Female
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - GH, B-304
+E-mail - arpitas@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13149_0.jpg
+																	

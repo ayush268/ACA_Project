@@ -1,0 +1,14 @@
+Roll No - 150706
+Name - SHUBHANSHU  MALPANI
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL5, D-302
+E-mail - shubhmal@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150706_0.jpg
+																	

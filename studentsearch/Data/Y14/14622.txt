@@ -1,0 +1,14 @@
+Roll No - 14622
+Name - SHAH HARSH ATUL
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALLX, A-224
+E-mail - harshas@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14622_0.jpg
+																	

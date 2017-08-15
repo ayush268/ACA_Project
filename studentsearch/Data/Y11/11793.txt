@@ -1,0 +1,14 @@
+Roll No - 11793
+Name - UCHIT  KUMAR
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, D-118
+E-mail - uchit@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11793_0.jpg
+																	

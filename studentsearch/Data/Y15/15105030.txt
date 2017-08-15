@@ -1,0 +1,14 @@
+Roll No - 15105030
+Name - NIKHIL  SINGH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALL8, C-312
+E-mail - niksingh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15105030_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13433
+Name - NIHAL  RAJ
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, B-218
+E-mail - nihalraz@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13433_0.jpg
+																	

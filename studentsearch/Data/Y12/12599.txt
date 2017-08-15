@@ -1,0 +1,14 @@
+Roll No - 12599
+Name - SAFDAR AHMAD WANI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, D-101
+E-mail - safdarj@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12599_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11629
+Name - SALMAN AHMAD KHAN
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, D209
+E-mail - salmanak@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11629_0.jpg
+																	

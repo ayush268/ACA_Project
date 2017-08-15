@@ -1,0 +1,14 @@
+Roll No - 12402
+Name - MANOJ  MAHARIA
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, F-206
+E-mail - manojmah@iitk.ac.in
+Blood Group - AB+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12402_0.jpg
+																	

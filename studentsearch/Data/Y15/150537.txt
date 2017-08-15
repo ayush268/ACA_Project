@@ -1,0 +1,14 @@
+Roll No - 150537
+Name - PUMPY  SARKAR
+Gender - Female
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL6, GHTA-605
+E-mail - pumpys@iitk.ac.in
+Blood Group - AB+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150537_0.jpg
+																	

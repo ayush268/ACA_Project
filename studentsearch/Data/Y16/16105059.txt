@@ -1,0 +1,14 @@
+Roll No - 16105059
+Name - MANIMARAN  R
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALL7, I-204
+E-mail - maran@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105059_0.jpg
+																	

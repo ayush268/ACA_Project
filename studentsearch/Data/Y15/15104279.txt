@@ -1,0 +1,14 @@
+Roll No - 15104279
+Name - VIKAS  SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL8, C-105
+E-mail - vikkyk@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104279_0.jpg
+																	

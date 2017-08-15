@@ -1,0 +1,14 @@
+Roll No - 15101020
+Name - JANGALA RAMESH BABU
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - MTech
+Address - HALLXI, A-113
+E-mail - jangala@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15101020_0.jpg
+																	

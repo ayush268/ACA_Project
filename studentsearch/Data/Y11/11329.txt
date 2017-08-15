@@ -1,0 +1,14 @@
+Roll No - 11329
+Name - JAGAT  JYOTI
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL9, G-116
+E-mail - jjagat@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11329_0.jpg
+																	

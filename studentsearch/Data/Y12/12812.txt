@@ -1,0 +1,14 @@
+Roll No - 12812
+Name - VINEET KUMAR SINGH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, D-110
+E-mail - vineetks@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12812_0.jpg
+																	

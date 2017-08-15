@@ -1,0 +1,14 @@
+Roll No - 15105045
+Name - RAKESH  KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, C-338
+E-mail - rakesh@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15105045_0.jpg
+																	

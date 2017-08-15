@@ -1,0 +1,14 @@
+Roll No - 11012
+Name - ABHILASH  SHUKLA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, H-217
+E-mail - abhishuk@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11012_0.jpg
+																	

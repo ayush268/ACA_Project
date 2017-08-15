@@ -1,0 +1,14 @@
+Roll No - 12765
+Name - TUSHAR  SINGH
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - DAY
+E-mail - tushs@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12765_0.jpg
+																	

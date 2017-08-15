@@ -1,0 +1,14 @@
+Roll No - 13142
+Name - ARJUN  VERMA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, A-124
+E-mail - varjun@iitk.ac.in
+Blood Group - B+
+Category - GP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13142_0.jpg
+																	

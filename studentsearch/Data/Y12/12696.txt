@@ -1,0 +1,14 @@
+Roll No - 12696
+Name - SHUBHAM  KAMAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, B-315
+E-mail - subhamk@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12696_0.jpg
+																	

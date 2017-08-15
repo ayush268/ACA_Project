@@ -1,0 +1,14 @@
+Roll No - 12036
+Name - ABUZAR  GAFFARI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, D-308
+E-mail - abuzar@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12036_0.jpg
+																	

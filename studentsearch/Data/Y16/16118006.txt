@@ -1,0 +1,14 @@
+Roll No - 16118006
+Name - ROHAN  SINGH
+Gender - Male
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - MTech
+Address - HALL4, D-318
+E-mail - rohans@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16118006_0.jpg
+																	

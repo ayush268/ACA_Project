@@ -1,0 +1,14 @@
+Roll No - 14031
+Name - ADITYA  GAJBHIYE
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, A-212
+E-mail - adityagj@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14031_0.jpg
+																	

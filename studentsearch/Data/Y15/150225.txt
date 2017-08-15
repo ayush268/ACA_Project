@@ -1,0 +1,14 @@
+Roll No - 150225
+Name - DEVANSH  SARASWAT
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL3, 363
+E-mail - sdevansh@iitk.ac.in
+Blood Group - A-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150225_0.jpg
+																	

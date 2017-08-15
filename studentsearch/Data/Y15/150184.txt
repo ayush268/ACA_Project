@@ -1,0 +1,14 @@
+Roll No - 150184
+Name - BHAVESH  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, D-305
+E-mail - kbhavesh@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150184_0.jpg
+																	

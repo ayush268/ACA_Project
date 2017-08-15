@@ -1,0 +1,14 @@
+Roll No - 150581
+Name - RISHAB  KEDIA
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALLX, B-345
+E-mail - rkedia@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150581_0.jpg
+																	

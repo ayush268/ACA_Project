@@ -1,0 +1,14 @@
+Roll No - 12467
+Name - PARIKSHIT  KHANNA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BTech
+Address - HALL9, G-113
+E-mail - parksht@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12467_0.jpg
+																	

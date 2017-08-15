@@ -1,0 +1,14 @@
+Roll No - 13219
+Name - CHILUKURI KRISHNA BHARATH REDDY
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D-114
+E-mail - crkrish@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13219_0.jpg
+																	

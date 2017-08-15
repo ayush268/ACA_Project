@@ -1,0 +1,14 @@
+Roll No - 14628
+Name - SHARAD  ROY
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, D-316
+E-mail - rsharad@iitk.ac.in
+Blood Group - B-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14628_0.jpg
+																	

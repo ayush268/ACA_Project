@@ -1,0 +1,15 @@
+Roll No - 12803
+Name - VIKRANT  GAUTAM
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, A-106
+E-mail - vikrantg@iitk.ac.in
+Blood Group - Not
+Available
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12803_0.jpg
+																	

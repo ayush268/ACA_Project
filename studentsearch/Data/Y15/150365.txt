@@ -1,0 +1,14 @@
+Roll No - 150365
+Name - M V S SAKETH
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL2, 121
+E-mail - mvsaketh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150365_0.jpg
+																	

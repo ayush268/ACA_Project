@@ -1,0 +1,14 @@
+Roll No - 13477
+Name - PIYUSH SNEH TIRKEY
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, G-212
+E-mail - psneh@iitk.ac.in
+Blood Group - O+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13477_0.jpg
+																	

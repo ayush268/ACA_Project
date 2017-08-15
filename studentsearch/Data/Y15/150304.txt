@@ -1,0 +1,14 @@
+Roll No - 150304
+Name - JATIN  SHARMA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL3, 369
+E-mail - jatins@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150304_0.jpg
+																	

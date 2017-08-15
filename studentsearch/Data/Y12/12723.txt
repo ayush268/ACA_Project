@@ -1,0 +1,14 @@
+Roll No - 12723
+Name - SMIT  ZAVERI
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL9, A-301
+E-mail - smitz@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12723_0.jpg
+																	

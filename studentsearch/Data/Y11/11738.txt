@@ -1,0 +1,14 @@
+Roll No - 11738
+Name - SUMIT  CHOURASIYA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, C-224
+E-mail - sumch@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11738_0.jpg
+																	

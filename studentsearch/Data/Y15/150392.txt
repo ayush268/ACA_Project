@@ -1,0 +1,14 @@
+Roll No - 150392
+Name - MAYANK  CHAUHAN
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL3, 247
+E-mail - cmayank@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150392_0.jpg
+																	

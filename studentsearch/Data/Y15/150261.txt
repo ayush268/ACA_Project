@@ -1,0 +1,14 @@
+Roll No - 150261
+Name - HANUMAN  RAM
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL5, A-207
+E-mail - hanumanr@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150261_0.jpg
+																	

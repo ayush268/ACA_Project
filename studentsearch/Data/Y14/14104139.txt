@@ -1,0 +1,14 @@
+Roll No - 14104139
+Name - SACHIN  SHARMA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, A-105
+E-mail - sachinks@iitk.ac.in
+Blood Group - B-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104139_0.jpg
+																	

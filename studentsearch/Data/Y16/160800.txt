@@ -1,0 +1,14 @@
+Roll No - 160800
+Name - VISHAL  KESWANI
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL3, 136
+E-mail - vkeswani@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160800_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13508
+Name - PREETANSH  GOYAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, A-321
+E-mail - preetg@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13508_0.jpg
+																	

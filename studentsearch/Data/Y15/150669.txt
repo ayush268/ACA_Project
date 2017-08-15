@@ -1,0 +1,14 @@
+Roll No - 150669
+Name - SHIKHAR  MAHAJAN
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, C-316
+E-mail - smahajan@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150669_0.jpg
+																	

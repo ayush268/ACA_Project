@@ -1,0 +1,14 @@
+Roll No - 150775
+Name - UDAY KIRAN DAMODARA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 223
+E-mail - damodara@iitk.ac.in
+Blood Group - A-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150775_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 15111007
+Name - AKANSHA  AGGARWAL
+Gender - Female
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - GH, A-306
+E-mail - aggarwal@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15111007_0.jpg
+																	

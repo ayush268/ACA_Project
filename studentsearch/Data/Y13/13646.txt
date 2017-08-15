@@ -1,0 +1,14 @@
+Roll No - 13646
+Name - SHASHANK  KASHYAP
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, E-315
+E-mail - shshank@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13646_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11083
+Name - AMRIT RAJ PATHAK
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL12, F-303
+E-mail - amritraj@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11083_0.jpg
+																	

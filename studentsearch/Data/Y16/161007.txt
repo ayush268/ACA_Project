@@ -1,0 +1,16 @@
+Roll No - 161007
+Name - ARNAB  CHAKRABORTY
+Gender - Male
+Dept. - CHEMISTRY
+Program - MSc
+2
+yr
+Address - HALL12, E-210
+E-mail - carnab@iitk.ac.in
+Blood Group - A-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/161007_0.jpg
+																	

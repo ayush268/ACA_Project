@@ -1,0 +1,14 @@
+Roll No - 160769
+Name - VAIBHAV  RATNAKAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL3, 240
+E-mail - rvaibhav@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160769_0.jpg
+																	

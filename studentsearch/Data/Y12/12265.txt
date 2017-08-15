@@ -1,0 +1,14 @@
+Roll No - 12265
+Name - GAURAV  CHOUDHARY
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, G-205
+E-mail - gauravc@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12265_0.jpg
+																	

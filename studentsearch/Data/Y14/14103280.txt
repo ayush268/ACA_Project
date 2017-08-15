@@ -1,0 +1,14 @@
+Roll No - 14103280
+Name - Bhavesh  Kumar
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - PhD
+Address - HALL7, H-308
+E-mail - bhaveshk@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14103280_0.jpg
+																	

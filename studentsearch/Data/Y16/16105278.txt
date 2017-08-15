@@ -1,0 +1,14 @@
+Roll No - 16105278
+Name - SHUBHI  KATIYAR
+Gender - Female
+Dept. - MECHANICAL ENGINEERING
+Program - PhD
+Address - DAY, -9999
+E-mail - skatiyar@iitk.ac.in
+Blood Group - AB-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105278_0.jpg
+																	

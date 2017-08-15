@@ -1,0 +1,14 @@
+Roll No - 13541
+Name - RAJAT  BISHNOI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, D-102
+E-mail - brajat@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13541_0.jpg
+																	

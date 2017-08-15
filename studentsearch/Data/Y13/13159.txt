@@ -1,0 +1,14 @@
+Roll No - 13159
+Name - ASHOK  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, F-110
+E-mail - ashokkj@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13159_0.jpg
+																	

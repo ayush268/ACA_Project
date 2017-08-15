@@ -1,0 +1,16 @@
+Roll No - 161074
+Name - SANJIB  NASKAR
+Gender - Male
+Dept. - MATHEMATICS
+Program - MSc
+2
+yr
+Address - HALL3, 146
+E-mail - sanjibn@iitk.ac.in
+Blood Group - AB+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/161074_0.jpg
+																	

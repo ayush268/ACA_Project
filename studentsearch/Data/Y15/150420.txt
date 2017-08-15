@@ -1,0 +1,14 @@
+Roll No - 150420
+Name - MOHIT  GARG
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL3, 329
+E-mail - mohitgg@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150420_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150473
+Name - PALASH  AGRAWAL
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL3, 338
+E-mail - agpalash@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150473_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12213
+Name - CHETAN  YADAV
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, F-213
+E-mail - chetanya@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12213_0.jpg
+																	

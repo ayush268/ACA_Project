@@ -1,0 +1,14 @@
+Roll No - 14606
+Name - SARTHAK  PATTANAYAK
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, B-339
+E-mail - spnayak@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14606_0.jpg
+																	

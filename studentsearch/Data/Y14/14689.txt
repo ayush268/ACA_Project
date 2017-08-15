@@ -1,0 +1,14 @@
+Roll No - 14689
+Name - SIDDHANT  MITTAL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL5, A-203
+E-mail - sidd@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14689_0.jpg
+																	

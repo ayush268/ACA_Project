@@ -1,0 +1,14 @@
+Roll No - 150194
+Name - BISWAJEET  RATH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL3, 357
+E-mail - rathb@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150194_0.jpg
+																	

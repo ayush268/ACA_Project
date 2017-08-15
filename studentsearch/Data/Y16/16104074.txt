@@ -1,0 +1,14 @@
+Roll No - 16104074
+Name - RICHA  SHRIVASTAVA
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL6, GHTA-614
+E-mail - ricshri@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104074_0.jpg
+																	

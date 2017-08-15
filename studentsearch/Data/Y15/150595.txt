@@ -1,0 +1,14 @@
+Roll No - 150595
+Name - ROHIT  KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL3, 232
+E-mail - rohitkmr@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150595_0.jpg
+																	

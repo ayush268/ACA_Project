@@ -1,0 +1,14 @@
+Roll No - 13741
+Name - TARUN  AGRAWAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, E-301
+E-mail - taruncv@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13741_0.jpg
+																	

@@ -1,0 +1,16 @@
+Roll No - 161045
+Name - ANKIT  CHATTERJEE
+Gender - Male
+Dept. - MATHEMATICS
+Program - MSc
+2
+yr
+Address - HALL12, E-503
+E-mail - cankit@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/161045_0.jpg
+																	

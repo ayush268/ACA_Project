@@ -1,0 +1,14 @@
+Roll No - 14123011
+Name - SARWAR  NIZAM
+Gender - Male
+Dept. - EARTH SCIENCES
+Program - MTech
+Address - HALL8, D-304
+E-mail - snizam@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14123011_0.jpg
+																	

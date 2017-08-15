@@ -1,0 +1,14 @@
+Roll No - 150142
+Name - ARYAN  GOYAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 232
+E-mail - aryang@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150142_0.jpg
+																	

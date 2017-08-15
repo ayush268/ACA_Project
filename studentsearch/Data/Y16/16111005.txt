@@ -1,0 +1,14 @@
+Roll No - 16111005
+Name - BROJO KISHOR MANDAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL8, C-308
+E-mail - brojokm@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111005_0.jpg
+																	

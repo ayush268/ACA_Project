@@ -1,0 +1,14 @@
+Roll No - 150704
+Name - SHUBHAM  YADAV
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL5, C-304
+E-mail - shubhyad@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150704_0.jpg
+																	

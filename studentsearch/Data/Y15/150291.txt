@@ -1,0 +1,14 @@
+Roll No - 150291
+Name - HIMANSHU  PANWAR
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL5, C-310
+E-mail - himp@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150291_0.jpg
+																	

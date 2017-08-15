@@ -1,0 +1,14 @@
+Roll No - 13235
+Name - DEEPAM  GUPTA
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL9, G-214
+E-mail - deepamgp@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13235_0.jpg
+																	

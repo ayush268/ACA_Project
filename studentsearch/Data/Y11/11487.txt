@@ -1,0 +1,14 @@
+Roll No - 11487
+Name - PARITOSH  YADAV
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, C219
+E-mail - pyadav@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11487_0.jpg
+																	

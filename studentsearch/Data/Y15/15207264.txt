@@ -1,0 +1,14 @@
+Roll No - 15207264
+Name - ARKO  DAS
+Gender - Male
+Dept. - CHEMISTRY
+Program - PhD
+Address - HALL7, J-213
+E-mail - arko@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15207264_0.jpg
+																	

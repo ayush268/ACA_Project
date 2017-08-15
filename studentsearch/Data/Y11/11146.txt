@@ -1,0 +1,14 @@
+Roll No - 11146
+Name - ARADHYA  AGARWAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, C114
+E-mail - aradhyaa@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11146_0.jpg
+																	

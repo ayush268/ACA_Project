@@ -1,0 +1,14 @@
+Roll No - 15108261
+Name - ANJALI  JAISWAL
+Gender - Female
+Dept. - MATHEMATICS
+Program - PhD
+Address - GH, D-312
+E-mail - anjalij@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15108261_0.jpg
+																	

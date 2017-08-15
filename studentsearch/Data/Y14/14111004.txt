@@ -1,0 +1,14 @@
+Roll No - 14111004
+Name - ANOOP SINGH RAWAT
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL8, A-104
+E-mail - anoopsr@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14111004_0.jpg
+																	

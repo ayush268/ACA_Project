@@ -1,0 +1,14 @@
+Roll No - 15104276
+Name - SUNIL KUMAR SAHOO
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - SBRA, I-I3
+E-mail - ssunil@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104276_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150507
+Name - PRANJAL  JAISWAL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, A-402
+E-mail - pjaiswal@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150507_0.jpg
+																	

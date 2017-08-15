@@ -1,0 +1,14 @@
+Roll No - 13434
+Name - NIHAR PRAKASH GARGAVA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, D-123
+E-mail - nihar@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13434_0.jpg
+																	

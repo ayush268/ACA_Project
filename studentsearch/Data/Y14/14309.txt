@@ -1,0 +1,14 @@
+Roll No - 14309
+Name - KARTIKEY  BHARGAV
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALLX, B-345
+E-mail - kartikey@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14309_0.jpg
+																	

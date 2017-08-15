@@ -1,0 +1,14 @@
+Roll No - 14089
+Name - AMOL  SAXENA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 131
+E-mail - amols@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14089_0.jpg
+																	

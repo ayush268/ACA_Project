@@ -1,0 +1,14 @@
+Roll No - 14693
+Name - SIDDHARTH  MAHAPATRA
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALLX, C-434
+E-mail - msid@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14693_0.jpg
+																	

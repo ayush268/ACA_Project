@@ -1,0 +1,14 @@
+Roll No - 13678
+Name - SHUBHAM  GARG
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, C-112
+E-mail - shubhgg@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13678_0.jpg
+																	

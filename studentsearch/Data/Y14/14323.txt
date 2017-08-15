@@ -1,0 +1,14 @@
+Roll No - 14323
+Name - KOSHAL  SHARMA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 345
+E-mail - koshals@iitk.ac.in
+Blood Group - O+
+Category - GP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14323_0.jpg
+																	

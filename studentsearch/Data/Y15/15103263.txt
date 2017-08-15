@@ -1,0 +1,14 @@
+Roll No - 15103263
+Name - ARUNAVA  RAY
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - PhD
+Address - HALL7, F-305
+E-mail - arunr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15103263_0.jpg
+																	

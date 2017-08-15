@@ -1,0 +1,14 @@
+Roll No - 150125
+Name - ANUTOSH  NIMESH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL3, 349
+E-mail - anutosh@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150125_0.jpg
+																	

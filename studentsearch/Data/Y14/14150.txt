@@ -1,0 +1,14 @@
+Roll No - 14150
+Name - ASHWANI
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALLX, A-420
+E-mail - ashwaniy@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14150_0.jpg
+																	

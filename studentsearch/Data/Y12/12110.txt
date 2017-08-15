@@ -1,0 +1,15 @@
+Roll No - 12110
+Name - ANAND  PARWAL
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL2
+E-mail - 
+Blood Group - Not
+Available
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12110_0.jpg
+																	

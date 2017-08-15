@@ -1,0 +1,14 @@
+Roll No - 13648
+Name - SHASHANK  SINGH
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, G-311
+E-mail - shsingh@iitk.ac.in
+Blood Group - A-
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13648_0.jpg
+																	

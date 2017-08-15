@@ -1,0 +1,14 @@
+Roll No - 13689
+Name - SHUBHAM PRAVEEN JAIN
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, B-215
+E-mail - spjain@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13689_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150546
+Name - RAHUL  Kumar
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALLX, B-412
+E-mail - rahulskr@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150546_0.jpg
+																	

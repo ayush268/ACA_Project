@@ -1,0 +1,14 @@
+Roll No - 11415
+Name - MAYANK  AGRAWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, C-222
+E-mail - maynk@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11415_0.jpg
+																	

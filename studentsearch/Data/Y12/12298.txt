@@ -1,0 +1,14 @@
+Roll No - 12298
+Name - HIMANSHU  CHOUDHARY
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL9, B-316
+E-mail - himnshu@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12298_0.jpg
+																	

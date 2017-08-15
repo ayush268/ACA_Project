@@ -1,0 +1,14 @@
+Roll No - 11606
+Name - RIYA  KHURANA
+Gender - Female
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - GH, G-211
+E-mail - riyak@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11606_0.jpg
+																	

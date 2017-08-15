@@ -1,0 +1,14 @@
+Roll No - 150317
+Name - KAMBLE AKSHAY BHIMRAO
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 333
+E-mail - kbakshay@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150317_0.jpg
+																	

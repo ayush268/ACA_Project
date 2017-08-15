@@ -1,0 +1,14 @@
+Roll No - 16103271
+Name - PATNANA  VENKATESH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - PhD
+Address - HALL7, I-307
+E-mail - vpatnana@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103271_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 16125004
+Name - ABHISHEK  AGARWAL
+Gender - Male
+Dept. - IND. & MANAGEMENT ENGG.
+Program - MBA
+Address - HALL7, H-304
+E-mail - aagarwal@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16125004_0.jpg
+																	

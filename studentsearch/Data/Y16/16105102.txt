@@ -1,0 +1,14 @@
+Roll No - 16105102
+Name - SIDDHARTHA VIBHU PHARSWAN
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALL12, D-309
+E-mail - vibhu@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105102_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 160162
+Name - ASHISH KUMAR MANJHI
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALLX, A-426
+E-mail - akmanjhi@iitk.ac.in
+Blood Group - AB+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160162_0.jpg
+																	

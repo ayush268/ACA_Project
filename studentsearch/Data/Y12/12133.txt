@@ -1,0 +1,14 @@
+Roll No - 12133
+Name - ANSHUL  GOYAL
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, A-219
+E-mail - anshulgo@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12133_0.jpg
+																	

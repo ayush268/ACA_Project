@@ -1,0 +1,14 @@
+Roll No - 15105056
+Name - SRIKANT  KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, B-429
+E-mail - srikant@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15105056_0.jpg
+																	

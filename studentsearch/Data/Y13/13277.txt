@@ -1,0 +1,14 @@
+Roll No - 13277
+Name - GAURAV  KUKREJA
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL1, F-309
+E-mail - gauravkj@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13277_0.jpg
+																	

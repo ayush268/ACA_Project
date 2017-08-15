@@ -1,0 +1,14 @@
+Roll No - 12708
+Name - SHUBHAM  VERMA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, D-106
+E-mail - shubshub@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12708_0.jpg
+																	

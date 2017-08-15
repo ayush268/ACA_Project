@@ -1,0 +1,14 @@
+Roll No - 16111011
+Name - K VIJAYA KUMAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - ACES, 2063
+E-mail - vijayak@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111011_0.jpg
+																	

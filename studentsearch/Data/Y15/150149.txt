@@ -1,0 +1,14 @@
+Roll No - 150149
+Name - ASHISH  MARMAT
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, A-404
+E-mail - ashmat@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150149_0.jpg
+																	

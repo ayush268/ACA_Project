@@ -1,0 +1,14 @@
+Roll No - 11516
+Name - PRANJAL  SINGH
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL9, H-115
+E-mail - praanjal@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11516_0.jpg
+																	

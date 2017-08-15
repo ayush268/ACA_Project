@@ -1,0 +1,14 @@
+Roll No - 12702
+Name - SHUBHAM  SHANKAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, C-224
+E-mail - sshankar@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12702_0.jpg
+																	

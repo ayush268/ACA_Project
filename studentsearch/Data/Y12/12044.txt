@@ -1,0 +1,14 @@
+Roll No - 12044
+Name - ADITYA  CHOUDHARY
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D-121
+E-mail - adityac@iitk.ac.in
+Blood Group - A-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12044_0.jpg
+																	

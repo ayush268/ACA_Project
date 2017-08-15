@@ -1,0 +1,14 @@
+Roll No - 150711
+Name - SIDDHANT  GARG
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALLX, C-408
+E-mail - siddhant@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150711_0.jpg
+																	

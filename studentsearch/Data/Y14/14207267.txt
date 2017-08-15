@@ -1,0 +1,14 @@
+Roll No - 14207267
+Name - DEBARATI  BHARADWAJ
+Gender - Female
+Dept. - CHEMISTRY
+Program - PhD
+Address - HALL8, I-304
+E-mail - dbhrdwaj@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14207267_0.jpg
+																	

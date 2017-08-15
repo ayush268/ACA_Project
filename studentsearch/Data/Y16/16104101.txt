@@ -1,0 +1,14 @@
+Roll No - 16104101
+Name - VINIT VIJAY VARGIYA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, B-427
+E-mail - vvinit@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104101_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 160310
+Name - JITENDRA  BOTHRA
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL3, 316
+E-mail - jbothra@iitk.ac.in
+Blood Group - O+
+Category - GN*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160310_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13207
+Name - BIPLAB  SAHU
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, A-212
+E-mail - sbiplab@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13207_0.jpg
+																	

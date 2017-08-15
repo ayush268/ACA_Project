@@ -1,0 +1,14 @@
+Roll No - 15103010
+Name - DEEPAK KUMAR DIWAKAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALLXI, A-335
+E-mail - deepakkd@iitk.ac.in
+Blood Group - AB+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15103010_0.jpg
+																	

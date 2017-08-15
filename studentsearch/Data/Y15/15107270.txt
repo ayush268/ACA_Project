@@ -1,0 +1,14 @@
+Roll No - 15107270
+Name - MILAN  MAJI
+Gender - Male
+Dept. - CHEMISTRY
+Program - PhD
+Address - HALLXI, A-240
+E-mail - milanm@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15107270_0.jpg
+																	

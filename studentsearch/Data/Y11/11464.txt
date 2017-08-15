@@ -1,0 +1,14 @@
+Roll No - 11464
+Name - NILAY  ANURAG
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL5, G-105
+E-mail - nilay@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11464_0.jpg
+																	

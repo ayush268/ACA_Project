@@ -1,0 +1,14 @@
+Roll No - 11193
+Name - BARUN KUMAR PATRA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL5, H-105
+E-mail - barunp@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11193_0.jpg
+																	

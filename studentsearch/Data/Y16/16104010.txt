@@ -1,0 +1,14 @@
+Roll No - 16104010
+Name - AMUDALA DHEERAJ NAIDU
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL12, D-302
+E-mail - dheeraja@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104010_0.jpg
+																	

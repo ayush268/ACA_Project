@@ -1,0 +1,14 @@
+Roll No - 11059
+Name - AKSHAY KUMAR PATEL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, H-106
+E-mail - akshayp@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11059_0.jpg
+																	

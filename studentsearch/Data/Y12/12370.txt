@@ -1,0 +1,14 @@
+Roll No - 12370
+Name - KUMAR KETAN
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, F-118
+E-mail - kketan@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12370_0.jpg
+																	

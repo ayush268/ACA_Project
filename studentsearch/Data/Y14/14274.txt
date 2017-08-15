@@ -1,0 +1,14 @@
+Roll No - 14274
+Name - ISHAN  PANDEY
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL5, B-210
+E-mail - pishan@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14274_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 16104058
+Name - NILADRI  ROY
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - ACES, 2086
+E-mail - niladri@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104058_0.jpg
+																	

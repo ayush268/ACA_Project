@@ -1,0 +1,14 @@
+Roll No - 150181
+Name - BHANU  MAHTO
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 216
+E-mail - mbhanu@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150181_0.jpg
+																	

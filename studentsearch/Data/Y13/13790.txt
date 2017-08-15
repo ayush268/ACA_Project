@@ -1,0 +1,14 @@
+Roll No - 13790
+Name - VIKAS  TIRKI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, G-208
+E-mail - vtirki@iitk.ac.in
+Blood Group - A+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13790_0.jpg
+																	

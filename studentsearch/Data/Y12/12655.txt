@@ -1,0 +1,14 @@
+Roll No - 12655
+Name - SHANTANU  SHARMA
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, C-118
+E-mail - shanshar@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12655_0.jpg
+																	

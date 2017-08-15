@@ -1,0 +1,14 @@
+Roll No - 11047
+Name - AJESH  K
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL9, C-318
+E-mail - ajesh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11047_0.jpg
+																	

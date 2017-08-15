@@ -1,0 +1,14 @@
+Roll No - 12816
+Name - VIPUL  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, D-111
+E-mail - kvipul@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12816_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13622
+Name - SAPNA  MEENA
+Gender - Female
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - GH, G-301
+E-mail - msapna@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13622_0.jpg
+																	

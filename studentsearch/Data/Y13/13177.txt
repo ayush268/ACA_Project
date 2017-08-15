@@ -1,0 +1,14 @@
+Roll No - 13177
+Name - AVINASH  MOHAK
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, H-311
+E-mail - amohak@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13177_0.jpg
+																	

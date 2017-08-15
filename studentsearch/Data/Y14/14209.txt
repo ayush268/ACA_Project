@@ -1,0 +1,14 @@
+Roll No - 14209
+Name - DEEPAK  JORWAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, C-411
+E-mail - jorwald@iitk.ac.in
+Blood Group - A+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14209_0.jpg
+																	

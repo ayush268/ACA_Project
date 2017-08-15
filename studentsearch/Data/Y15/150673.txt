@@ -1,0 +1,14 @@
+Roll No - 150673
+Name - SHIVAM  CHATURVEDI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALLX, C-236
+E-mail - shivch@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150673_0.jpg
+																	

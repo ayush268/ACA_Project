@@ -1,0 +1,14 @@
+Roll No - 14357
+Name - LOVISH  BANSAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 328
+E-mail - lovish@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14357_0.jpg
+																	

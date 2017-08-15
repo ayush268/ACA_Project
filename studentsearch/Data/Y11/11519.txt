@@ -1,0 +1,14 @@
+Roll No - 11519
+Name - PRANJUL GUPTA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, B314
+E-mail - gpranjul@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11519_0.jpg
+																	

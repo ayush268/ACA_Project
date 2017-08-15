@@ -1,0 +1,15 @@
+Roll No - 15104024
+Name - MANEESH  PAWAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - SBRA, Q-6
+E-mail - mpawar@iitk.ac.in
+Blood Group - Not
+Available
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104024_0.jpg
+																	

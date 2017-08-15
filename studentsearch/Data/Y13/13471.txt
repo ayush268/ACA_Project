@@ -1,0 +1,14 @@
+Roll No - 13471
+Name - PAYAL  AGARWAL
+Gender - Female
+Dept. - MATHEMATICS
+Program - BS
+Address - GH, C-112
+E-mail - payal@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13471_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150770
+Name - TUSHAR  GUPTA
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL2, 323
+E-mail - gtushar@iitk.ac.in
+Blood Group - O-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150770_0.jpg
+																	

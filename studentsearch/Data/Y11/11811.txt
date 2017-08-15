@@ -1,0 +1,14 @@
+Roll No - 11811
+Name - VIREN  SOOD
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D214
+E-mail - virensud@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11811_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12210
+Name - RUSHIKESH  RAJENDRA CHAUDHARI
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, A-214
+E-mail - rushirc@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12210_0.jpg
+																	

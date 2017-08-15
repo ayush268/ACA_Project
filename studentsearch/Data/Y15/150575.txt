@@ -1,0 +1,14 @@
+Roll No - 150575
+Name - RAVI  Kumar
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, D-308
+E-mail - kmrravi@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150575_0.jpg
+																	

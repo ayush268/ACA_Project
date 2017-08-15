@@ -1,0 +1,14 @@
+Roll No - 11404
+Name - MANISH KUMAR SHARMA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, C303
+E-mail - skmanish@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11404_0.jpg
+																	

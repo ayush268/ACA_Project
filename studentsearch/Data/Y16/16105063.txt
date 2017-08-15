@@ -1,0 +1,15 @@
+Roll No - 16105063
+Name - MUKESH  MEENA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLX, B-108
+E-mail - mkmeena@iitk.ac.in
+Blood Group - Not
+Available
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105063_0.jpg
+																	

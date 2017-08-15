@@ -1,0 +1,16 @@
+Roll No - 151079
+Name - SUNEEL  KUMAR
+Gender - Male
+Dept. - MATHEMATICS
+Program - MSc
+2
+yr
+Address - HALLXI, A-228
+E-mail - suneelk@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/151079_0.jpg
+																	

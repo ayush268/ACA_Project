@@ -1,0 +1,14 @@
+Roll No - 13324
+Name - JAVED  AKHTAR
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL9, F-201
+E-mail - akjaved@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13324_0.jpg
+																	

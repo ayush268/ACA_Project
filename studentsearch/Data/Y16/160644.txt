@@ -1,0 +1,14 @@
+Roll No - 160644
+Name - SHASHANK  SHEKHAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 126
+E-mail - shekhars@iitk.ac.in
+Blood Group - B+
+Category - GN**
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160644_0.jpg
+																	

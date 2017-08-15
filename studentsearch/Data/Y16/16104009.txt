@@ -1,0 +1,14 @@
+Roll No - 16104009
+Name - AMOL ISHWAR PIDURKAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL8, G-118
+E-mail - pidamol@iitk.ac.in
+Blood Group - O+
+Category - null
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104009_0.jpg
+																	

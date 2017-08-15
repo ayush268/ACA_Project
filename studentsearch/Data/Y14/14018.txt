@@ -1,0 +1,14 @@
+Roll No - 14018
+Name - ABHISHEK  BANSAL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, B-216
+E-mail - abbansal@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14018_0.jpg
+																	

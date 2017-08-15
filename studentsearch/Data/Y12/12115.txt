@@ -1,0 +1,14 @@
+Roll No - 12115
+Name - ANIRUDH  MAKWANA
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, D-217
+E-mail - animak@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12115_0.jpg
+																	

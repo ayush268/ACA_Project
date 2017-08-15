@@ -1,0 +1,14 @@
+Roll No - 12514
+Name - PRIYA  KUMARI
+Gender - Female
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - GH, E-103
+E-mail - priyakri@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12514_0.jpg
+																	

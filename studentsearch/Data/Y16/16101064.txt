@@ -1,0 +1,14 @@
+Roll No - 16101064
+Name - Sanjeev S S
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - MTech
+Address - HALL7, J-301
+E-mail - sanjeevs@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16101064_0.jpg
+																	

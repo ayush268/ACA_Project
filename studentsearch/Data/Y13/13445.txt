@@ -1,0 +1,14 @@
+Roll No - 13445
+Name - NISHANT
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, D-305
+E-mail - nishtmnt@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13445_0.jpg
+																	

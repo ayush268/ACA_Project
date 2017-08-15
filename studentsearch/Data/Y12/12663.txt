@@ -1,0 +1,14 @@
+Roll No - 12663
+Name - SHASHWAT SAXENA
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL9, H-317
+E-mail - ssaxena@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12663_0.jpg
+																	

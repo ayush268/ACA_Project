@@ -1,0 +1,14 @@
+Roll No - 14123261
+Name - AKHIL KUMAR DWIVEDI
+Gender - Male
+Dept. - EARTH SCIENCES
+Program - PhD
+Address - HALL4, H-306
+E-mail - akhilkd@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14123261_0.jpg
+																	

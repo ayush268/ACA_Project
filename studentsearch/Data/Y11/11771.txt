@@ -1,0 +1,14 @@
+Roll No - 11771
+Name - UDAYA KRISHNAN RAVI RAJ
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, A221
+E-mail - udayaraj@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11771_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 15111028
+Name - PRANAV  BISHT
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL4, E-316
+E-mail - bpranav@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15111028_0.jpg
+																	

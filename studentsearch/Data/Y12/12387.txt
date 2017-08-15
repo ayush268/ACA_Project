@@ -1,0 +1,14 @@
+Roll No - 12387
+Name - MADHAV  KUMAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, F-116
+E-mail - madhavk@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12387_0.jpg
+																	

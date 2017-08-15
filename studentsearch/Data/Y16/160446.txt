@@ -1,0 +1,14 @@
+Roll No - 160446
+Name - NIKET  AGRAWAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, B-419
+E-mail - niketagl@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160446_0.jpg
+																	

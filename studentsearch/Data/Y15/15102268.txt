@@ -1,0 +1,14 @@
+Roll No - 15102268
+Name - NIDHI  SRIVASTAVA
+Gender - Female
+Dept. - CHEMICAL ENGG.
+Program - PhD
+Address - GH, D-308
+E-mail - nidhisri@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15102268_0.jpg
+																	

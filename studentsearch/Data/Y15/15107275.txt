@@ -1,0 +1,14 @@
+Roll No - 15107275
+Name - NILIMESH  DAS
+Gender - Male
+Dept. - CHEMISTRY
+Program - PhD
+Address - HALLXI, C-308
+E-mail - nilimesh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15107275_0.jpg
+																	

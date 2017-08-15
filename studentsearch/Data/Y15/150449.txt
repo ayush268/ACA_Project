@@ -1,0 +1,14 @@
+Roll No - 150449
+Name - NIKHIL  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, D-212
+E-mail - nikumar@iitk.ac.in
+Blood Group - B-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150449_0.jpg
+																	

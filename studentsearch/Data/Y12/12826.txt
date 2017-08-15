@@ -1,0 +1,14 @@
+Roll No - 12826
+Name - VISHESH  SRIVASTAVA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, A-210
+E-mail - vishesh@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12826_0.jpg
+																	

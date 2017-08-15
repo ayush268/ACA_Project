@@ -1,0 +1,14 @@
+Roll No - 11162
+Name - ASHISH  RAJ
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, A-116
+E-mail - ashishrj@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11162_0.jpg
+																	

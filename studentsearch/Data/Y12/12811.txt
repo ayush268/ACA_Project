@@ -1,0 +1,14 @@
+Roll No - 12811
+Name - VINEET  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, C-113
+E-mail - vineetkr@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12811_0.jpg
+																	

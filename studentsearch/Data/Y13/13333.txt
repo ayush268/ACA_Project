@@ -1,0 +1,14 @@
+Roll No - 13333
+Name - JYOTSANA  KUMARI
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - GH, GHTA-208
+E-mail - jyotsana@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13333_0.jpg
+																	

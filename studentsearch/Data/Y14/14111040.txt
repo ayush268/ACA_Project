@@ -1,0 +1,14 @@
+Roll No - 14111040
+Name - TARUN KUMAR BHARGAVA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL8, C-116
+E-mail - tarunb@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14111040_0.jpg
+																	

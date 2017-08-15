@@ -1,0 +1,14 @@
+Roll No - 11529
+Name - PRATEEK YADAV
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, C208
+E-mail - ypratik@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11529_0.jpg
+																	

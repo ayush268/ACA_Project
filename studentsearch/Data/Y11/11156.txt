@@ -1,0 +1,14 @@
+Roll No - 11156
+Name - ASHISH
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, C308
+E-mail - ashi@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11156_0.jpg
+																	

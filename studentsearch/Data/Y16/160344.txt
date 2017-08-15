@@ -1,0 +1,14 @@
+Roll No - 160344
+Name - KSHITIJ  KHANNA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 328
+E-mail - kkhanna@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160344_0.jpg
+																	

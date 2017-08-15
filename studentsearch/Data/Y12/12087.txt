@@ -1,0 +1,14 @@
+Roll No - 12087
+Name - AMAN  RUSIA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, F-111
+E-mail - arusia@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12087_0.jpg
+																	

@@ -1,0 +1,15 @@
+Roll No - 11274
+Name - GAURAV KUMAR
+S K
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, E207
+E-mail - gauravku@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11274_0.jpg
+																	

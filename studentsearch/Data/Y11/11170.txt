@@ -1,0 +1,14 @@
+Roll No - 11170
+Name - ASHWINI  CHAUHAN
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, C121
+E-mail - ashwinic@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11170_0.jpg
+																	

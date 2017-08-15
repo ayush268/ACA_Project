@@ -1,0 +1,14 @@
+Roll No - 150327
+Name - KAWARPREET  SINGH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL5, D-211
+E-mail - kawarb@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150327_0.jpg
+																	

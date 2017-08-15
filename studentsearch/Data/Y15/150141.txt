@@ -1,0 +1,14 @@
+Roll No - 150141
+Name - ARVIND KUMAR PRASAD
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALLX, A-415
+E-mail - arvindkp@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150141_0.jpg
+																	

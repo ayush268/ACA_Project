@@ -1,0 +1,14 @@
+Roll No - 12095
+Name - AMIT
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, E-311
+E-mail - amitsr@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12095_0.jpg
+																	

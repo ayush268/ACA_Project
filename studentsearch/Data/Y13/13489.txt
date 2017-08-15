@@ -1,0 +1,15 @@
+Roll No - 13489
+Name - PRANAB KUMAR PRUSTY
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, G-305
+E-mail - pkprusty@iitk.ac.in
+Blood Group - Not
+Available
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13489_0.jpg
+																	

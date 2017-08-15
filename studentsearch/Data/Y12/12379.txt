@@ -1,0 +1,14 @@
+Roll No - 12379
+Name - LALIT  UTTI
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, B-312
+E-mail - lalitu@iitk.ac.in
+Blood Group - AB+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12379_0.jpg
+																	

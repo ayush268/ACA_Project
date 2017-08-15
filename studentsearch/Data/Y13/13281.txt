@@ -1,0 +1,14 @@
+Roll No - 13281
+Name - GOPAL  KRISHNA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, G-319
+E-mail - gopalkr@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13281_0.jpg
+																	

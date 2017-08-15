@@ -1,0 +1,14 @@
+Roll No - 14803
+Name - VIKULP  BANSAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, A-306
+E-mail - vikulp@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14803_0.jpg
+																	

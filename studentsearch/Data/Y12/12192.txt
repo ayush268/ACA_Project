@@ -1,0 +1,14 @@
+Roll No - 12192
+Name - BALLA NISHANTH BABU
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALLX, A-120
+E-mail - ballab@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12192_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13261
+Name - DIVYANSHU KUMAR LAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, G-109
+E-mail - divlal@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13261_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150091
+Name - AMIT KUMAR VERMA
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALLX, A-336
+E-mail - amitkv@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150091_0.jpg
+																	

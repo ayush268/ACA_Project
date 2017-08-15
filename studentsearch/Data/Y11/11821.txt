@@ -1,0 +1,15 @@
+Roll No - 11821
+Name - VIVEK KUMAR
+S KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, G-215
+E-mail - viveks@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11821_0.jpg
+																	

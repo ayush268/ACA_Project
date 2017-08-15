@@ -1,0 +1,14 @@
+Roll No - 11178
+Name - AYUSH  ASTHANA
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL9, B-117
+E-mail - asthanaa@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11178_0.jpg
+																	

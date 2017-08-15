@@ -1,0 +1,14 @@
+Roll No - 150691
+Name - SHRESTH  SONI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 133
+E-mail - shresth@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150691_0.jpg
+																	

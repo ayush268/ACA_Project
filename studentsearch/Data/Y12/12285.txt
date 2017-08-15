@@ -1,0 +1,14 @@
+Roll No - 12285
+Name - HARSH  SINGAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, B-106
+E-mail - hsingal@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12285_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13419
+Name - NAMAN  JAIN
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL9, F-319
+E-mail - jnaman@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13419_0.jpg
+																	

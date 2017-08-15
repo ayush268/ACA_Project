@@ -1,0 +1,14 @@
+Roll No - 14183
+Name - BHUKYA  ANANTH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, B-105
+E-mail - ananth@iitk.ac.in
+Blood Group - B+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14183_0.jpg
+																	

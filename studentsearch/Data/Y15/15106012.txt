@@ -1,0 +1,14 @@
+Roll No - 15106012
+Name - SUMAN  SHEKHAR
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - MTech
+Address - HALLXI, C-334
+E-mail - sumansh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15106012_0.jpg
+																	

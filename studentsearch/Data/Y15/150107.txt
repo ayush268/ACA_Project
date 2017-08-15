@@ -1,0 +1,14 @@
+Roll No - 150107
+Name - ANKUSH  SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL12, C-405
+E-mail - anksingh@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150107_0.jpg
+																	

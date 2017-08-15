@@ -1,0 +1,15 @@
+Roll No - 15207272
+Name - PRAMOD  KUMAR
+Gender - Male
+Dept. - CHEMISTRY
+Program - PhD
+Address - HALL1
+E-mail - 
+Blood Group - Not
+Available
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15207272_0.jpg
+																	

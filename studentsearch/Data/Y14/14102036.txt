@@ -1,0 +1,14 @@
+Roll No - 14102036
+Name - MANISH NAHARSINGH SAGAR
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - MTech
+Address - HALL8, B-103
+E-mail - manishns@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14102036_0.jpg
+																	

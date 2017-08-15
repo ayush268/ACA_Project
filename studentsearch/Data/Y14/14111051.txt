@@ -1,0 +1,14 @@
+Roll No - 14111051
+Name - M A Jaffer  Ali
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - ACES, -2062
+E-mail - jaffer@iitk.ac.in
+Blood Group - O-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14111051_0.jpg
+																	

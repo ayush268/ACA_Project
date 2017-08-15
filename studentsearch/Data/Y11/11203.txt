@@ -1,0 +1,14 @@
+Roll No - 11203
+Name - BHUKYA NONY
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, A322
+E-mail - nony@iitk.ac.in
+Blood Group - O+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11203_0.jpg
+																	

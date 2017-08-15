@@ -1,0 +1,15 @@
+Roll No - 14215
+Name - DEVESH  MEENA
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL8
+E-mail - 
+Blood Group - Not
+Available
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14215_0.jpg
+																	

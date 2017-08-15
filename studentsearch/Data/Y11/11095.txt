@@ -1,0 +1,14 @@
+Roll No - 11095
+Name - ANIL  MALPANI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 321
+E-mail - anilmlpn@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11095_0.jpg
+																	

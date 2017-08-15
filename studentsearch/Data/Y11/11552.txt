@@ -1,0 +1,14 @@
+Roll No - 11552
+Name - RACHIT  TRIPATHI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, B309
+E-mail - rachitti@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11552_0.jpg
+																	

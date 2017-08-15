@@ -1,0 +1,14 @@
+Roll No - 14720
+Name - SUMESH  SINGH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL5, D-206
+E-mail - sumeshs@iitk.ac.in
+Blood Group - AB+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14720_0.jpg
+																	

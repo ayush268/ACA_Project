@@ -1,0 +1,14 @@
+Roll No - 160414
+Name - MOHIT  TYAGI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, A-317
+E-mail - mohitt@iitk.ac.in
+Blood Group - AB+
+Category - GN**
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160414_0.jpg
+																	

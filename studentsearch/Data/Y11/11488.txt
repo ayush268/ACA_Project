@@ -1,0 +1,14 @@
+Roll No - 11488
+Name - PARNEET SINGH DEOL
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL12, E-201
+E-mail - psdeol@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11488_0.jpg
+																	

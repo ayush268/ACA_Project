@@ -1,0 +1,14 @@
+Roll No - 12496
+Name - PRANAV  RAI
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL9, D-115
+E-mail - rpranav@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12496_0.jpg
+																	

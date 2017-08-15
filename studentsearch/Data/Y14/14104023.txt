@@ -1,0 +1,14 @@
+Roll No - 14104023
+Name - ASHISH  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL8, F-316
+E-mail - krashish@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104023_0.jpg
+																	

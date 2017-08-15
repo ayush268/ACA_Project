@@ -1,0 +1,14 @@
+Roll No - 150484
+Name - PAWAN  RATHORE
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALLX, A-346
+E-mail - prathore@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150484_0.jpg
+																	

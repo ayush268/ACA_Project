@@ -1,0 +1,14 @@
+Roll No - 14530
+Name - RAJESH  CHOUDHARY
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL5, B-115
+E-mail - rajeshc@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14530_0.jpg
+																	

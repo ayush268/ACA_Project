@@ -1,0 +1,14 @@
+Roll No - 14533
+Name - RAMAN  SRIVASTAVA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL3, 220
+E-mail - ramansr@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14533_0.jpg
+																	

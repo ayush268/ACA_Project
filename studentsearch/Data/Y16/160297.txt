@@ -1,0 +1,14 @@
+Roll No - 160297
+Name - HITESH  GUSAIWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, D-306
+E-mail - ghitesh@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160297_0.jpg
+																	

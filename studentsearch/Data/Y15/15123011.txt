@@ -1,0 +1,14 @@
+Roll No - 15123011
+Name - SHANKHO  NIYOGI
+Gender - Male
+Dept. - EARTH SCIENCES
+Program - MTech
+Address - HALLXI, A-416
+E-mail - shankho@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15123011_0.jpg
+																	

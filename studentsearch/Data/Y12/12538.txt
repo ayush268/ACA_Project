@@ -1,0 +1,14 @@
+Roll No - 12538
+Name - RAHUL  NAYAK
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, A-120
+E-mail - rahulnk@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12538_0.jpg
+																	

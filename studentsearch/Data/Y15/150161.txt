@@ -1,0 +1,14 @@
+Roll No - 150161
+Name - ATUL
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALLX, B-432
+E-mail - gatul@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150161_0.jpg
+																	

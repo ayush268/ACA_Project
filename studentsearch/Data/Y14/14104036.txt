@@ -1,0 +1,14 @@
+Roll No - 14104036
+Name - DHEERAJKUMAR  C
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL4, C-317
+E-mail - dheerajc@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104036_0.jpg
+																	

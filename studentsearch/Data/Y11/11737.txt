@@ -1,0 +1,14 @@
+Roll No - 11737
+Name - SUMIT  CHAUDHARY
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, F-302
+E-mail - sumitc@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11737_0.jpg
+																	

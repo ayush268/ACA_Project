@@ -1,0 +1,14 @@
+Roll No - 160602
+Name - SAGAR  BHARDWAJ
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL2, 327
+E-mail - sagarbdw@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160602_0.jpg
+																	

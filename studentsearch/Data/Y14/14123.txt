@@ -1,0 +1,14 @@
+Roll No - 14123
+Name - APOORVE  MISHRA
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL3, 169
+E-mail - apoorve@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14123_0.jpg
+																	

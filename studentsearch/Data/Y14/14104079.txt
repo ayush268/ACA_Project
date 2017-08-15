@@ -1,0 +1,14 @@
+Roll No - 14104079
+Name - MONIKA  SINGH
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL6, GHTA-107
+E-mail - msingh@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104079_0.jpg
+																	

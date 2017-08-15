@@ -1,0 +1,14 @@
+Roll No - 12034
+Name - ABHISHEK  TYAGI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, C-220
+E-mail - abhity@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12034_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11522
+Name - PRASHANT  DUBEY
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, E-310
+E-mail - pradubey@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11522_0.jpg
+																	

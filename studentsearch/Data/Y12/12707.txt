@@ -1,0 +1,14 @@
+Roll No - 12707
+Name - SHUBHAM  TRIPATHI
+Gender - Male
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - BTech
+Address - HALL1, E-307
+E-mail - shubtri@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12707_0.jpg
+																	

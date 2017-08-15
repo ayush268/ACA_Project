@@ -1,0 +1,14 @@
+Roll No - 11347
+Name - KANDULA  SURESH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, G117
+E-mail - kandula@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11347_0.jpg
+																	

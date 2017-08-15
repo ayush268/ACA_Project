@@ -1,0 +1,14 @@
+Roll No - 150635
+Name - SANKET  GOYAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 132
+E-mail - sankett@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150635_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13090
+Name - AMBER  JAISWAL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, H-108
+E-mail - amberj@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13090_0.jpg
+																	

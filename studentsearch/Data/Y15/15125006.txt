@@ -1,0 +1,14 @@
+Roll No - 15125006
+Name - AMAN  AGARWAL
+Gender - Male
+Dept. - IND. & MANAGEMENT ENGG.
+Program - MBA
+Address - HALLX, C-112
+E-mail - amana@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15125006_0.jpg
+																	

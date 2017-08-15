@@ -1,0 +1,14 @@
+Roll No - 11610
+Name - ROHAN  JAIN
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, F320
+E-mail - jrohan@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11610_0.jpg
+																	

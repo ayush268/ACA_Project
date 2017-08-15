@@ -1,0 +1,14 @@
+Roll No - 15104033
+Name - NEELAM  SHAKYA
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - GH, A-108
+E-mail - neelam@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104033_0.jpg
+																	

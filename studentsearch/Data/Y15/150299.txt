@@ -1,0 +1,14 @@
+Roll No - 150299
+Name - JAISWAL ROMAL RAJESH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, C-235
+E-mail - romalrj@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150299_0.jpg
+																	

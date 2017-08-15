@@ -1,0 +1,14 @@
+Roll No - 15101262
+Name - DHIRAJ  KUMAR
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - PhD
+Address - HALL7, D-203
+E-mail - dhirajk@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15101262_0.jpg
+																	

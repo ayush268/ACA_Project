@@ -1,0 +1,14 @@
+Roll No - 11760
+Name - TANMAY KUMAR SINGH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL12, D-401
+E-mail - tanmayks@iitk.ac.in
+Blood Group - O-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11760_0.jpg
+																	

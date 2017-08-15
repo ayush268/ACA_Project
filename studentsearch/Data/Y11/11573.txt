@@ -1,0 +1,14 @@
+Roll No - 11573
+Name - RAJAT  GOEL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, G-307
+E-mail - rajatg@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11573_0.jpg
+																	

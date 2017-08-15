@@ -1,0 +1,16 @@
+Roll No - 151140
+Name - DIWAKAR
+Gender - Male
+Dept. - PHYSICS
+Program - MSc
+2
+yr
+Address - HALLXI, B-407
+E-mail - diwakar@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/151140_0.jpg
+																	

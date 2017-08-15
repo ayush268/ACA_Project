@@ -1,0 +1,14 @@
+Roll No - 12504
+Name - Prashant  KUMAR
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL9, F-106
+E-mail - praskr@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12504_0.jpg
+																	

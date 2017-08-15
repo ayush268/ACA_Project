@@ -1,0 +1,14 @@
+Roll No - 12450
+Name - NIMISH  GARG
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, D-211
+E-mail - nimishg@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12450_0.jpg
+																	

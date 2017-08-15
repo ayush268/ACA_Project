@@ -1,0 +1,14 @@
+Roll No - 13106
+Name - AMOL  BANSAL
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, F-303
+E-mail - amolb@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13106_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12328
+Name - JOHNSON  KUJUR
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, A-204
+E-mail - kujur@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12328_0.jpg
+																	

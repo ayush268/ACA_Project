@@ -1,0 +1,14 @@
+Roll No - 12764
+Name - TRIVENI MAHATHA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, C-319
+E-mail - triveni@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12764_0.jpg
+																	

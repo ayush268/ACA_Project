@@ -1,0 +1,14 @@
+Roll No - 12089
+Name - AMAN  VERMA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, G-202
+E-mail - amanvrm@iitk.ac.in
+Blood Group - AB+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12089_0.jpg
+																	

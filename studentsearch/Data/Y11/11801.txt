@@ -1,0 +1,14 @@
+Roll No - 11801
+Name - VIKAS CHANDRAWAT
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, F-212
+E-mail - vikascr@iitk.ac.in
+Blood Group - B+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11801_0.jpg
+																	

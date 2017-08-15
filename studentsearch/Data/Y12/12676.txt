@@ -1,0 +1,14 @@
+Roll No - 12676
+Name - SHIVAM  TRIPATHI
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, E-102
+E-mail - tshivam@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12676_0.jpg
+																	

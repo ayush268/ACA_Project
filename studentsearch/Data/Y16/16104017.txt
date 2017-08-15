@@ -1,0 +1,14 @@
+Roll No - 16104017
+Name - ARPIT KUMAR JAIN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, A-313
+E-mail - arpitj@iitk.ac.in
+Blood Group - B-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104017_0.jpg
+																	

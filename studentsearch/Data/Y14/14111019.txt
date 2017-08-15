@@ -1,0 +1,14 @@
+Roll No - 14111019
+Name - MILAN  SOMESWAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL7, D-103
+E-mail - milansom@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14111019_0.jpg
+																	

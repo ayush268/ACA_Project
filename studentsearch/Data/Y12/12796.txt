@@ -1,0 +1,14 @@
+Roll No - 12796
+Name - VIKAS  BISHNOI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, C-120
+E-mail - vbishnoi@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12796_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 15111030
+Name - PRIYANK  AGARWAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALLXI, A-215
+E-mail - priag@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15111030_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150688
+Name - SHLOK  SHARMA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL5, D-105
+E-mail - shloks@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150688_0.jpg
+																	

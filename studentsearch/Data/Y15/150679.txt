@@ -1,0 +1,14 @@
+Roll No - 150679
+Name - SHIVAM  RAJ
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL5, D-215
+E-mail - sraj@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150679_0.jpg
+																	

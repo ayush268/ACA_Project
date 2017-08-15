@@ -1,0 +1,10 @@
+Roll No - 160250
+Name - DIVYANSH  VARDHAN
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL4
+E-mail - 
+Blood Group - Not
+Available
+Category - SC

@@ -1,0 +1,14 @@
+Roll No - 12709
+Name - SHUBHAM  YADAV
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, G-118
+E-mail - shbhmydv@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12709_0.jpg
+																	

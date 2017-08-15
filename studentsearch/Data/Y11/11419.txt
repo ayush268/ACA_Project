@@ -1,0 +1,14 @@
+Roll No - 11419
+Name - MEENA ATULKUMAR INDRA KUMAR
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, E307
+E-mail - atulkmr@iitk.ac.in
+Blood Group - B+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11419_0.jpg
+																	

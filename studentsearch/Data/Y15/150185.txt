@@ -1,0 +1,14 @@
+Roll No - 150185
+Name - BHAVISHYA  SINGHAL
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL5, D-108
+E-mail - bsinghal@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150185_0.jpg
+																	

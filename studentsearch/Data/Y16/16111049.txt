@@ -1,0 +1,14 @@
+Roll No - 16111049
+Name - Shailesh  Kumar
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALLXI, A-316
+E-mail - kshailes@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111049_0.jpg
+																	

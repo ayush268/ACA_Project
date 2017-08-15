@@ -1,0 +1,14 @@
+Roll No - 16111014
+Name - NIKHIL RAJ JAINVI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - ACES, 2084
+E-mail - niksuvi@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111014_0.jpg
+																	

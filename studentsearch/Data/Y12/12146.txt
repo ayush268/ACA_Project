@@ -1,0 +1,14 @@
+Roll No - 12146
+Name - ANURAG  SHARMA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, G-217
+E-mail - sharmaan@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12146_0.jpg
+																	

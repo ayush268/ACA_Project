@@ -1,0 +1,14 @@
+Roll No - 160230
+Name - DEV DATT SINGH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL3, 128
+E-mail - devds@iitk.ac.in
+Blood Group - AB+
+Category - OP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160230_0.jpg
+																	

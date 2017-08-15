@@ -1,0 +1,14 @@
+Roll No - 13283
+Name - HARDIK  PARWANA
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, G-116
+E-mail - hardikp@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13283_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150714
+Name - SIDDHANT SUHAS NAIK
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 214
+E-mail - naiksid@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150714_0.jpg
+																	

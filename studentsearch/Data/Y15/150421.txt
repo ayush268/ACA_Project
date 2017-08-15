@@ -1,0 +1,14 @@
+Roll No - 150421
+Name - MOHIT  KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALLX, C-402
+E-mail - skmohit@iitk.ac.in
+Blood Group - B+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150421_0.jpg
+																	

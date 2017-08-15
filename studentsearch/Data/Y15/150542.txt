@@ -1,0 +1,14 @@
+Roll No - 150542
+Name - PUTHAWALA  FAISAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL3, 251
+E-mail - faisalsp@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150542_0.jpg
+																	

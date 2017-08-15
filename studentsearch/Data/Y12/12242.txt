@@ -1,0 +1,14 @@
+Roll No - 12242
+Name - DHIRENDRA  SONI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, E-204
+E-mail - dsoni@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12242_0.jpg
+																	

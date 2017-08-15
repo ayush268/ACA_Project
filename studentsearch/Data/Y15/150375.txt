@@ -1,0 +1,14 @@
+Roll No - 150375
+Name - MANISH  CHAUHAN
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL3, 164
+E-mail - mchauhan@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150375_0.jpg
+																	

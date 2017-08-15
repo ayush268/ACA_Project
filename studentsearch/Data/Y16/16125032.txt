@@ -1,0 +1,14 @@
+Roll No - 16125032
+Name - RAHUL  GUPTA
+Gender - Male
+Dept. - IND. & MANAGEMENT ENGG.
+Program - MBA
+Address - HALL7, I-105
+E-mail - rvgupta@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16125032_0.jpg
+																	

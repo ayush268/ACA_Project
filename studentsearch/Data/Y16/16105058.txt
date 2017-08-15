@@ -1,0 +1,14 @@
+Roll No - 16105058
+Name - AKHIL SINGH CHARAK
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - ACES, -2079
+E-mail - charak@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105058_0.jpg
+																	

@@ -1,0 +1,16 @@
+Roll No - 12688
+Name - SHUBHAM AGRAWAL
+S
+O NA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, F-201
+E-mail - agrshubh@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12688_0.jpg
+																	

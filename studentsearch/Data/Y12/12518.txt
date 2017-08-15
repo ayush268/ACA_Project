@@ -1,0 +1,14 @@
+Roll No - 12518
+Name - PRIYANSHU  JAIN
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, H-107
+E-mail - priyansh@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12518_0.jpg
+																	

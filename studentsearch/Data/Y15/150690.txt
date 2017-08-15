@@ -1,0 +1,14 @@
+Roll No - 150690
+Name - SHOBHIT  RASTOGI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, B-408
+E-mail - shobhitr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150690_0.jpg
+																	

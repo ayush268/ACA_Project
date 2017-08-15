@@ -1,0 +1,14 @@
+Roll No - 12392
+Name - MAHENDRA KUMAR SINGH
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, D-224
+E-mail - mahenks@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12392_0.jpg
+																	

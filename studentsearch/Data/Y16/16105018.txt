@@ -1,0 +1,14 @@
+Roll No - 16105018
+Name - ANIL KUMAR GAUTAM
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, A-424
+E-mail - anilkuma@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105018_0.jpg
+																	

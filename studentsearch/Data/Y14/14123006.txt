@@ -1,0 +1,14 @@
+Roll No - 14123006
+Name - AQIB JAMAL ANSARI
+Gender - Male
+Dept. - EARTH SCIENCES
+Program - MTech
+Address - HALL8, D-215
+E-mail - aqib@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14123006_0.jpg
+																	

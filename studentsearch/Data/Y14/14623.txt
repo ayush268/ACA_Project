@@ -1,0 +1,14 @@
+Roll No - 14623
+Name - SHAHIL  SIDDIQUI
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, C-425
+E-mail - shahil@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14623_0.jpg
+																	

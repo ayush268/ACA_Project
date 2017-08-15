@@ -1,0 +1,14 @@
+Roll No - 11532
+Name - PRATIK  MEHER
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, H-113
+E-mail - pmeher@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11532_0.jpg
+																	

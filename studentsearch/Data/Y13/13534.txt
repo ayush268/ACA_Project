@@ -1,0 +1,14 @@
+Roll No - 13534
+Name - RAHUL  MEENA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, E-302
+E-mail - rahulm@iitk.ac.in
+Blood Group - O+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13534_0.jpg
+																	

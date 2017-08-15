@@ -1,0 +1,14 @@
+Roll No - 13683
+Name - SHUBHAM  JAIN
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, G-220
+E-mail - shubhja@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13683_0.jpg
+																	

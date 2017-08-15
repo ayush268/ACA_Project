@@ -1,0 +1,14 @@
+Roll No - 150776
+Name - UDIT  SANCHETI
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALLX, C-403
+E-mail - uditsans@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150776_0.jpg
+																	

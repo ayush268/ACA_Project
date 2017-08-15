@@ -1,0 +1,14 @@
+Roll No - 11163
+Name - ASHOK KUMAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL12, E-505
+E-mail - ashokk@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11163_0.jpg
+																	

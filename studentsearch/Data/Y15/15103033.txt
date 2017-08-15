@@ -1,0 +1,14 @@
+Roll No - 15103033
+Name - ROPESH  GOYAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALL8, B-206
+E-mail - rupeshg@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15103033_0.jpg
+																	

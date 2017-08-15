@@ -1,0 +1,14 @@
+Roll No - 13545
+Name - RAJAT  VERMA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, C-208
+E-mail - rvrajat@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13545_0.jpg
+																	

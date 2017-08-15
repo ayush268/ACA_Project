@@ -1,0 +1,14 @@
+Roll No - 11570
+Name - RAHUL  SINGLA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, A309
+E-mail - rahulsg@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11570_0.jpg
+																	

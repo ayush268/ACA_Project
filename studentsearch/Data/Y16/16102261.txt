@@ -1,0 +1,14 @@
+Roll No - 16102261
+Name - AMRITA  GOSWAMI
+Gender - Female
+Dept. - CHEMICAL ENGG.
+Program - PhD
+Address - DAY, -9999
+E-mail - amritag@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16102261_0.jpg
+																	

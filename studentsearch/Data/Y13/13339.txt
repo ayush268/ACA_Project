@@ -1,0 +1,14 @@
+Roll No - 13339
+Name - KAPIL  SETHI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, F-204
+E-mail - eekapil@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13339_0.jpg
+																	

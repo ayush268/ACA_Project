@@ -1,0 +1,14 @@
+Roll No - 160179
+Name - AYUSH  GARG
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL5, D-115
+E-mail - gargayu@iitk.ac.in
+Blood Group - A+
+Category - GN*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160179_0.jpg
+																	

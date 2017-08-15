@@ -1,0 +1,14 @@
+Roll No - 150777
+Name - UJJWAL  VARSHNEY
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, D-112
+E-mail - ujjwalv@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150777_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12829
+Name - VIVEK  CHAWDA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, F-212
+E-mail - vchawda@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12829_0.jpg
+																	

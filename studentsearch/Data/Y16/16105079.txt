@@ -1,0 +1,14 @@
+Roll No - 16105079
+Name - PREM SHANKAR KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, A-431
+E-mail - sprem@iitk.ac.in
+Blood Group - AB+
+Category - null
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105079_0.jpg
+																	

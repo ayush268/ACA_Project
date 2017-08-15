@@ -1,0 +1,14 @@
+Roll No - 14207276
+Name - RUPESH KUMAR JHA
+Gender - Male
+Dept. - CHEMISTRY
+Program - PhD
+Address - HALL8, A-114
+E-mail - rupeshk@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14207276_0.jpg
+																	

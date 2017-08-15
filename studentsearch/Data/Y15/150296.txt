@@ -1,0 +1,14 @@
+Roll No - 150296
+Name - ISHANK  MODI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL5, D-206
+E-mail - ishankm@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150296_0.jpg
+																	

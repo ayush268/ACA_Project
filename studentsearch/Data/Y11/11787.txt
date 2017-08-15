@@ -1,0 +1,14 @@
+Roll No - 11787
+Name - VARSHA  LALWANI
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - GH, G-209
+E-mail - varshajn@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11787_0.jpg
+																	

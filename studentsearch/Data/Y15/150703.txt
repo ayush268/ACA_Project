@@ -1,0 +1,14 @@
+Roll No - 150703
+Name - SHUBHAM  SINGH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL2, 117
+E-mail - shubhsk@iitk.ac.in
+Blood Group - AB+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150703_0.jpg
+																	

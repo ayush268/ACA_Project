@@ -1,0 +1,14 @@
+Roll No - 12553
+Name - RAKESH  YADAV
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, F-119
+E-mail - rakeshy@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12553_0.jpg
+																	

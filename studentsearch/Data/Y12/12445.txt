@@ -1,0 +1,14 @@
+Roll No - 12445
+Name - NIKHIL KURELE
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, D-109
+E-mail - nkurele@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12445_0.jpg
+																	

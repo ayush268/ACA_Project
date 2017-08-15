@@ -1,0 +1,14 @@
+Roll No - 12762
+Name - THIRUKOVALLURU  RAGHUVEER
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, D-309
+E-mail - raghuth@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12762_0.jpg
+																	

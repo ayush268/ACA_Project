@@ -1,0 +1,14 @@
+Roll No - 14380
+Name - MD ARBAJ MEMAN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, A-309
+E-mail - arbaj@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14380_0.jpg
+																	

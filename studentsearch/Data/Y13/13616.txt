@@ -1,0 +1,14 @@
+Roll No - 13616
+Name - SANDIPAN  MANDAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, A-315
+E-mail - mandals@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13616_0.jpg
+																	

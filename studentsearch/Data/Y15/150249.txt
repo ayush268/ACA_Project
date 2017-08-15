@@ -1,0 +1,14 @@
+Roll No - 150249
+Name - GAURAV  KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL5, B-316
+E-mail - gauskrav@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150249_0.jpg
+																	

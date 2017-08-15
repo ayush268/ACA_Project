@@ -1,0 +1,14 @@
+Roll No - 13457
+Name - PALLAV  RANKA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, H-112
+E-mail - pallav@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13457_0.jpg
+																	

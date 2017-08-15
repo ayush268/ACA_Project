@@ -1,0 +1,14 @@
+Roll No - 14275
+Name - ISHIKA  SONI
+Gender - Female
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL6, GHTA-405
+E-mail - ishika@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14275_0.jpg
+																	

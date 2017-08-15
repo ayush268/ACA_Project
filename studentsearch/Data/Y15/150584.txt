@@ -1,0 +1,14 @@
+Roll No - 150584
+Name - RISHABH KRISHNA GUPTA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 210
+E-mail - krishabh@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150584_0.jpg
+																	

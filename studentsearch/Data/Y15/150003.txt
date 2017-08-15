@@ -1,0 +1,14 @@
+Roll No - 150003
+Name - AAKASH  KAUL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, A-327
+E-mail - kaul@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150003_0.jpg
+																	

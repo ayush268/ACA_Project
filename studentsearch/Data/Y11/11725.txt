@@ -1,0 +1,14 @@
+Roll No - 11725
+Name - SONIYA  BARMATE
+Gender - Female
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - GH, E-109
+E-mail - barmate@iitk.ac.in
+Blood Group - AB+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11725_0.jpg
+																	

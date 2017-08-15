@@ -1,0 +1,16 @@
+Roll No - 14844
+Name - BUBAI  MAJHI
+Gender - Male
+Dept. - CHEMISTRY
+Program - MSc
+2
+yr
+Address - HALL7, G-104
+E-mail - bubai@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14844_0.jpg
+																	

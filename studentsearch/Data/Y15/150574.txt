@@ -1,0 +1,14 @@
+Roll No - 150574
+Name - RAVI  Kumar
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL2, 227
+E-mail - kumravi@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150574_0.jpg
+																	

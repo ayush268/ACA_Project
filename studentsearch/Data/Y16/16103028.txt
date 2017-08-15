@@ -1,0 +1,14 @@
+Roll No - 16103028
+Name - DIVYAM  GARG
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALL4, C-308
+E-mail - dgarg@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103028_0.jpg
+																	

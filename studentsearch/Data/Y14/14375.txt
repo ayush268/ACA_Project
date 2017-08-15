@@ -1,0 +1,14 @@
+Roll No - 14375
+Name - MAYANK  GARG
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL2, 368
+E-mail - mayankgg@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14375_0.jpg
+																	

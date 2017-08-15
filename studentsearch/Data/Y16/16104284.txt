@@ -1,0 +1,14 @@
+Roll No - 16104284
+Name - SHRISH  GUPTA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL7, E-201
+E-mail - shrish@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104284_0.jpg
+																	

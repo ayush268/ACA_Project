@@ -1,0 +1,14 @@
+Roll No - 16105280
+Name - VYOM  SHARMA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - PhD
+Address - HALL4, E-111
+E-mail - vyom@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105280_0.jpg
+																	

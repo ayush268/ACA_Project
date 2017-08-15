@@ -1,0 +1,14 @@
+Roll No - 11353
+Name - KARAN  SHAHA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, F-213
+E-mail - shahak@iitk.ac.in
+Blood Group - A+
+Category - GP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11353_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150839
+Name - YASH  SRIVASTAV
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, A-136
+E-mail - yashsriv@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150839_0.jpg
+																	

@@ -1,0 +1,16 @@
+Roll No - 14307
+Name - KARTIK MITTAL
+S
+O Y MITTAL
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL3, 159
+E-mail - kartikm@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14307_0.jpg
+																	

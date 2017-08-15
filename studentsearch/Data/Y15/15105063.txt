@@ -1,0 +1,14 @@
+Roll No - 15105063
+Name - TARUN  WADHWANI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALL4, E1-114
+E-mail - tarunw@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15105063_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13296
+Name - HARSHIT  SAINI
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D-320
+E-mail - hsaini@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13296_0.jpg
+																	

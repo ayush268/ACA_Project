@@ -1,0 +1,14 @@
+Roll No - 14379
+Name - MAYANK  VARSHNEY
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL5, G-214
+E-mail - mayankv@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14379_0.jpg
+																	

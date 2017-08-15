@@ -1,0 +1,14 @@
+Roll No - 14487
+Name - PRASHUMN
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL3, 122
+E-mail - prashumn@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14487_0.jpg
+																	

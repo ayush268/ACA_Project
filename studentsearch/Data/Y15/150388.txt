@@ -1,0 +1,14 @@
+Roll No - 150388
+Name - MANTHAN  SIT
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 274
+E-mail - manthan@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150388_0.jpg
+																	

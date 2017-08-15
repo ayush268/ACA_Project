@@ -1,0 +1,15 @@
+Roll No - 14111016
+Name - JAGAN SINGH CHOUDHARI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL8, D-113
+E-mail - jsingh@iitk.ac.in
+Blood Group - Not
+Available
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14111016_0.jpg
+																	

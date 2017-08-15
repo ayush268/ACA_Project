@@ -1,0 +1,15 @@
+Roll No - 12595
+Name - S
+JITHESH MOHAN KUMAR
+Gender - Male
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - BTech
+Address - HALL1, A-102
+E-mail - jithesh@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12595_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 14813
+Name - VISHAL  RANA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 301
+E-mail - vishalr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14813_0.jpg
+																	

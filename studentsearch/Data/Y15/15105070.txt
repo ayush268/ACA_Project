@@ -1,0 +1,14 @@
+Roll No - 15105070
+Name - Vijay Ganesh N
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, B-330
+E-mail - nvganesh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15105070_0.jpg
+																	

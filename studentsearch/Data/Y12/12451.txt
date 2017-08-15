@@ -1,0 +1,14 @@
+Roll No - 12451
+Name - NIRAJ  KUMAR
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, E-212
+E-mail - nirajk@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12451_0.jpg
+																	

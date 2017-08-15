@@ -1,0 +1,14 @@
+Roll No - 14111049
+Name - Jasneet Singh Kalra
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - ACES, 2073
+E-mail - jasneet@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14111049_0.jpg
+																	

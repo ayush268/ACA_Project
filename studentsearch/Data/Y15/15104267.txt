@@ -1,0 +1,14 @@
+Roll No - 15104267
+Name - DINESH  R
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL8, E-307
+E-mail - dineshr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104267_0.jpg
+																	

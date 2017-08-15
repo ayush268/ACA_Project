@@ -1,0 +1,14 @@
+Roll No - 15104008
+Name - ASHUTOSH  YADAV
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL8, F-210
+E-mail - ashuydv@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104008_0.jpg
+																	

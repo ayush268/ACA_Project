@@ -1,0 +1,14 @@
+Roll No - 16109283
+Name - SATYAJIT  BARMAN
+Gender - Male
+Dept. - PHYSICS
+Program - PhD
+Address - HALL7, I-210
+E-mail - sbarman@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16109283_0.jpg
+																	

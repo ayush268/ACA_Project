@@ -1,0 +1,14 @@
+Roll No - 15102266
+Name - MAYANK  AGARWAL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - PhD
+Address - HALL7, E-114
+E-mail - magarwal@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15102266_0.jpg
+																	

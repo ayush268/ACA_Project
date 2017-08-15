@@ -1,0 +1,14 @@
+Roll No - 11434
+Name - MOHIT  SHARMA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, A122
+E-mail - smohit@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11434_0.jpg
+																	

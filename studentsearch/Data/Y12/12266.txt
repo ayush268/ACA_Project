@@ -1,0 +1,14 @@
+Roll No - 12266
+Name - GAURAV  DOSHI
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL9, G-115
+E-mail - gdoshi@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12266_0.jpg
+																	

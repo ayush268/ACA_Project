@@ -1,0 +1,14 @@
+Roll No - 11714
+Name - SIDHARTH  GUPTA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, G-201
+E-mail - sidharg@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11714_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150652
+Name - SAURAV  GOYAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 126
+E-mail - sauravgl@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150652_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12550
+Name - RAJNI KANT BANSAL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, F-123
+E-mail - rkbansal@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12550_0.jpg
+																	

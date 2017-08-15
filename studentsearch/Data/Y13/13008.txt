@@ -1,0 +1,14 @@
+Roll No - 13008
+Name - AAYUSH  DHIR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, F-314
+E-mail - aayushd@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13008_0.jpg
+																	

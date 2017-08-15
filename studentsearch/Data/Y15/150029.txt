@@ -1,0 +1,14 @@
+Roll No - 150029
+Name - ABHISHEK  GUPTA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 306
+E-mail - abgupta@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150029_0.jpg
+																	

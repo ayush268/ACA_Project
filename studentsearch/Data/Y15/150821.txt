@@ -1,0 +1,14 @@
+Roll No - 150821
+Name - VISHWAJEET  SINGH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, A-112
+E-mail - vjsingh@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150821_0.jpg
+																	

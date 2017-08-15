@@ -1,0 +1,14 @@
+Roll No - 12188
+Name - AYUSHMAN SINGH SISODIYA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D-316
+E-mail - ayushmn@iitk.ac.in
+Blood Group - AB+
+Category - GP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12188_0.jpg
+																	

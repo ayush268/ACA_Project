@@ -1,0 +1,14 @@
+Roll No - 12326
+Name - JITENDRA  SINGH
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL9, C-110
+E-mail - jitusing@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12326_0.jpg
+																	

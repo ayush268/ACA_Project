@@ -1,0 +1,16 @@
+Roll No - 161038
+Name - SUMAN KUMAR SINGHA
+Gender - Male
+Dept. - CHEMISTRY
+Program - MSc
+2
+yr
+Address - HALL12, E-313
+E-mail - sumankr@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/161038_0.jpg
+																	

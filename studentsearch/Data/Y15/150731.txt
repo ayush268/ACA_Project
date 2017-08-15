@@ -1,0 +1,14 @@
+Roll No - 150731
+Name - SUBHASH KUMAR MANJHI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 129
+E-mail - subhashm@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150731_0.jpg
+																	

@@ -1,0 +1,15 @@
+Roll No - 11659
+Name - SATYANSHU  KUMAR
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - MT
+Dual
+Address - HALL1, A223
+E-mail - satyansh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11659_0.jpg
+																	

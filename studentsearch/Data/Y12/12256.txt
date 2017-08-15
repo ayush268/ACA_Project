@@ -1,0 +1,14 @@
+Roll No - 12256
+Name - GAGANDEEP SINGH JOSSAN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, F-109
+E-mail - gagans@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12256_0.jpg
+																	

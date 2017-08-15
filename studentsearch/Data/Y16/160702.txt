@@ -1,0 +1,14 @@
+Roll No - 160702
+Name - SONU
+Gender - Male
+Dept. - EARTH SCIENCES
+Program - BS
+Address - HALL5, D-311
+E-mail - sonug@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160702_0.jpg
+																	

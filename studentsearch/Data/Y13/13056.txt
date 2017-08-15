@@ -1,0 +1,14 @@
+Roll No - 13056
+Name - AJAY KUMAR SAHU
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, H-212
+E-mail - kumaraks@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13056_0.jpg
+																	

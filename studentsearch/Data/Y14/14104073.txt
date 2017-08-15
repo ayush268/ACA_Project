@@ -1,0 +1,14 @@
+Roll No - 14104073
+Name - MANISH  BADWANI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - ACES, -2061
+E-mail - bmanish@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104073_0.jpg
+																	

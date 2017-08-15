@@ -1,0 +1,10 @@
+Roll No - 160001
+Name - AABHAAS  VAISH
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL4
+E-mail - 
+Blood Group - Not
+Available
+Category - GN

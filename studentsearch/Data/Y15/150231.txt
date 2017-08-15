@@ -1,0 +1,14 @@
+Roll No - 150231
+Name - DHEERAJ ATHREY BAMMIDI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, C-111
+E-mail - dheerajb@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150231_0.jpg
+																	

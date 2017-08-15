@@ -1,0 +1,14 @@
+Roll No - 14406
+Name - N C KAUSHIK
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL2, 223
+E-mail - nkaushik@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14406_0.jpg
+																	

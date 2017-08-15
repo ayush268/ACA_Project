@@ -1,0 +1,14 @@
+Roll No - 16104089
+Name - SUPRIYA  BOSE
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL6, B-106
+E-mail - riyabose@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104089_0.jpg
+																	

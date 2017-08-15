@@ -1,0 +1,14 @@
+Roll No - 12761
+Name - TEJAS  BAID
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, F-320
+E-mail - tejasbd@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12761_0.jpg
+																	

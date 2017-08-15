@@ -1,0 +1,14 @@
+Roll No - 12574
+Name - RISHABH  JHA
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL1, F-213
+E-mail - rishjha@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12574_0.jpg
+																	

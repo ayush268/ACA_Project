@@ -1,0 +1,14 @@
+Roll No - 150086
+Name - AMAN PAVANKUMAR SINGHAL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL3, 343
+E-mail - amnsnghl@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150086_0.jpg
+																	

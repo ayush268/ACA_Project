@@ -1,0 +1,14 @@
+Roll No - 14123263
+Name - PAVANI  MISRA
+Gender - Female
+Dept. - EARTH SCIENCES
+Program - PhD
+Address - HALL8, I-103
+E-mail - pavanim@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14123263_0.jpg
+																	

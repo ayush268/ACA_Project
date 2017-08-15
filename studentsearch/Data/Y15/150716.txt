@@ -1,0 +1,14 @@
+Roll No - 150716
+Name - SIDDHARTH  AGRAWAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL3, 323
+E-mail - sidarth@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150716_0.jpg
+																	

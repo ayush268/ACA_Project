@@ -1,0 +1,14 @@
+Roll No - 14104075
+Name - MD  ATIBUDDIN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL8, F-208
+E-mail - atib@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104075_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 160352
+Name - KUNAL  RANJAN
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, A-424
+E-mail - rjkunal@iitk.ac.in
+Blood Group - A+
+Category - ON
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160352_0.jpg
+																	

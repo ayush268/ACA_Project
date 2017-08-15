@@ -1,0 +1,14 @@
+Roll No - 16104048
+Name - MANISH LAL SHRIVASTAVA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, A-203
+E-mail - lmanish@iitk.ac.in
+Blood Group - B+
+Category - GP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104048_0.jpg
+																	

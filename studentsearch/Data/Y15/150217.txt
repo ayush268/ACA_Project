@@ -1,0 +1,14 @@
+Roll No - 150217
+Name - DEEPAK  YADAV
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL2, 202
+E-mail - hrdeepak@iitk.ac.in
+Blood Group - AB-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150217_0.jpg
+																	

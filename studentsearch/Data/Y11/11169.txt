@@ -1,0 +1,14 @@
+Roll No - 11169
+Name - ASHUTOSH  VERMA
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, C-209
+E-mail - ashutv@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11169_0.jpg
+																	

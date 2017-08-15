@@ -1,0 +1,14 @@
+Roll No - 15103024
+Name - PIYUSH  KUMAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALLXI, B-420
+E-mail - piyushkj@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15103024_0.jpg
+																	

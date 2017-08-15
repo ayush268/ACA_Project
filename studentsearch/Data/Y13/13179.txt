@@ -1,0 +1,14 @@
+Roll No - 13179
+Name - AWANISH  KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, F-101
+E-mail - kawanish@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13179_0.jpg
+																	

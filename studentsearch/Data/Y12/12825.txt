@@ -1,0 +1,14 @@
+Roll No - 12825
+Name - VISHAL  VERMA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, A-207
+E-mail - vishalvr@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12825_0.jpg
+																	

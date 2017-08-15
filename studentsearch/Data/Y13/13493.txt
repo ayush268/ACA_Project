@@ -1,0 +1,14 @@
+Roll No - 13493
+Name - PRANSHU  GUPTA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, F-313
+E-mail - pranshug@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13493_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 14104130
+Name - RAMANUJA  PANIGRAHI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL4, D-206
+E-mail - ramanuja@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104130_0.jpg
+																	

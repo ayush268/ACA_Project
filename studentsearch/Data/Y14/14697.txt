@@ -1,0 +1,14 @@
+Roll No - 14697
+Name - SIMRAT  SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, A-303
+E-mail - simrats@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14697_0.jpg
+																	

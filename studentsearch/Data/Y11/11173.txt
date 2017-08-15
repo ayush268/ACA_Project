@@ -1,0 +1,14 @@
+Roll No - 11173
+Name - AVIJIT JAISWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, G317
+E-mail - avijit@iitk.ac.in
+Blood Group - B-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11173_0.jpg
+																	

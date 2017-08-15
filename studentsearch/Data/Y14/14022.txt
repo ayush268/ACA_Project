@@ -1,0 +1,14 @@
+Roll No - 14022
+Name - ABHISHEK  MEENA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL3, 307
+E-mail - mabhishk@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14022_0.jpg
+																	

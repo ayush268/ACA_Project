@@ -1,0 +1,14 @@
+Roll No - 13549
+Name - RAKESH  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, G-207
+E-mail - rkharra@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13549_0.jpg
+																	

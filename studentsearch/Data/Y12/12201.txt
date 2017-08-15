@@ -1,0 +1,14 @@
+Roll No - 12201
+Name - BODASINGI  KARTHEEK
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL9, A-114
+E-mail - kartheek@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12201_0.jpg
+																	

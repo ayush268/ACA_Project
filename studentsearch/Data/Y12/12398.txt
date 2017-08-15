@@ -1,0 +1,14 @@
+Roll No - 12398
+Name - MANISH  KUMAR
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL12, E-204
+E-mail - manik@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12398_0.jpg
+																	

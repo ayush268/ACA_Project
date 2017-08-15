@@ -1,0 +1,14 @@
+Roll No - 11006
+Name - ABHAY  GUPTA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, B-210
+E-mail - guptaab@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11006_0.jpg
+																	

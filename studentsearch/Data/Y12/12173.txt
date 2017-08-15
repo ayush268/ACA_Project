@@ -1,0 +1,14 @@
+Roll No - 12173
+Name - ASHUTOSH  JUNWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL12, F-110
+E-mail - ashutj@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12173_0.jpg
+																	

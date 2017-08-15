@@ -1,0 +1,14 @@
+Roll No - 13682
+Name - SHUBHAM  JAIN
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL9, G-309
+E-mail - shubhj@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13682_0.jpg
+																	

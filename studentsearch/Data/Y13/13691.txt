@@ -1,0 +1,14 @@
+Roll No - 13691
+Name - SHUBHAM  YADAV
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, G-107
+E-mail - shyadav@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13691_0.jpg
+																	

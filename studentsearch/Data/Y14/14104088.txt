@@ -1,0 +1,14 @@
+Roll No - 14104088
+Name - NAMAN  JAIN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL8, G-205
+E-mail - njain@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104088_0.jpg
+																	

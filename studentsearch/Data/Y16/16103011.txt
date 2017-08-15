@@ -1,0 +1,14 @@
+Roll No - 16103011
+Name - AKSHAT  VERMA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALLXI, A-345
+E-mail - avermar@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103011_0.jpg
+																	

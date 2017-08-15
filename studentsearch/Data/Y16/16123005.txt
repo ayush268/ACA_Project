@@ -1,0 +1,14 @@
+Roll No - 16123005
+Name - SHOBHIT  SINGH
+Gender - Male
+Dept. - EARTH SCIENCES
+Program - MTech
+Address - HALL4, A-211
+E-mail - shobhits@iitk.ac.in
+Blood Group - B+
+Category - ON
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16123005_0.jpg
+																	

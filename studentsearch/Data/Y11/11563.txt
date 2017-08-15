@@ -1,0 +1,14 @@
+Roll No - 11563
+Name - RAHUL KUMAR LAKRA
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL5, I-112
+E-mail - rahulkl@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11563_0.jpg
+																	

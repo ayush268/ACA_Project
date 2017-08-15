@@ -1,0 +1,14 @@
+Roll No - 12804
+Name - VIKRANT  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, C-117
+E-mail - vikrant@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12804_0.jpg
+																	

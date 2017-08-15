@@ -1,0 +1,14 @@
+Roll No - 15101007
+Name - AKHIL  ULLATTIL
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - MTech
+Address - HALL4, F-304
+E-mail - akhilull@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15101007_0.jpg
+																	

@@ -1,0 +1,15 @@
+Roll No - 14085
+Name - AMIT KUMAR RAI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL5, D-214
+E-mail - amitrai@iitk.ac.in
+Blood Group - Not
+Available
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14085_0.jpg
+																	

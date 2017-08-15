@@ -1,0 +1,14 @@
+Roll No - 16104277
+Name - PAYEL  MONDAL
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL6, B-101
+E-mail - payel@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104277_0.jpg
+																	

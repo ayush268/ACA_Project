@@ -1,0 +1,14 @@
+Roll No - 12291
+Name - HARSHITA  VARSHNEY
+Gender - Female
+Dept. - ECONOMICS
+Program - BS
+Address - GH, A-308
+E-mail - harshita@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12291_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 15109273
+Name - PUSHPAJIT  HALDER
+Gender - Male
+Dept. - PHYSICS
+Program - PhD
+Address - HALL8, C-103
+E-mail - halder@iitk.ac.in
+Blood Group - AB+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15109273_0.jpg
+																	

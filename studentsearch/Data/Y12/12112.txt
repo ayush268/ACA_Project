@@ -1,0 +1,14 @@
+Roll No - 12112
+Name - ANANT  SINGH
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALLX, C-433
+E-mail - anants@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12112_0.jpg
+																	

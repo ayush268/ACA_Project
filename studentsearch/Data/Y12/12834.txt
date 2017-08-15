@@ -1,0 +1,14 @@
+Roll No - 12834
+Name - YELMELWAR  AKHIL
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, C-221
+E-mail - yakhil@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12834_0.jpg
+																	

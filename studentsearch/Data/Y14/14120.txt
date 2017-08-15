@@ -1,0 +1,14 @@
+Roll No - 14120
+Name - ANVAY  CHOUDHARY
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, H-305
+E-mail - anvayc@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14120_0.jpg
+																	

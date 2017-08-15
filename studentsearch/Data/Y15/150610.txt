@@ -1,0 +1,14 @@
+Roll No - 150610
+Name - SAGAR  SONI
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL3, 347
+E-mail - sagarps@iitk.ac.in
+Blood Group - A-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150610_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 14182
+Name - BHOOPENDRA  KUMAR
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL2, 238
+E-mail - bhoopk@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14182_0.jpg
+																	

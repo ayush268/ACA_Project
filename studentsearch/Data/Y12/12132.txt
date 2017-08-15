@@ -1,0 +1,14 @@
+Roll No - 12132
+Name - ANKUSH  SAHARAN
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, D-216
+E-mail - asaharan@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12132_0.jpg
+																	

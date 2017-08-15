@@ -1,0 +1,14 @@
+Roll No - 14441
+Name - P  SUGHOSH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 335
+E-mail - sughosh@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14441_0.jpg
+																	

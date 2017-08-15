@@ -1,0 +1,14 @@
+Roll No - 12760
+Name - TATHAGAT  GUPTA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL9, C-320
+E-mail - tathagat@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12760_0.jpg
+																	

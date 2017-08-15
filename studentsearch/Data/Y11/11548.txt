@@ -1,0 +1,14 @@
+Roll No - 11548
+Name - PUSHPENDRA  SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, F-215
+E-mail - puspendr@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11548_0.jpg
+																	

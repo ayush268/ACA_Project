@@ -1,0 +1,14 @@
+Roll No - 13155
+Name - ASHISH KUMAR TOMER
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, B-214
+E-mail - aktomer@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13155_0.jpg
+																	

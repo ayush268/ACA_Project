@@ -1,0 +1,14 @@
+Roll No - 150077
+Name - AKSHAY  KUMAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, C-232
+E-mail - krakshay@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150077_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 15104015
+Name - CHETAN  SHARMA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, A-403
+E-mail - chetu@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104015_0.jpg
+																	

@@ -1,0 +1,15 @@
+Roll No - 151161
+Name - AKASH
+Gender - Male
+Dept. - PHYSICS
+Program - PhD
+Dual
+Address - HALLXI, B-338
+E-mail - akashty@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/151161_0.jpg
+																	

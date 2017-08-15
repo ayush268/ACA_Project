@@ -1,0 +1,14 @@
+Roll No - 11109
+Name - ANKIT KUMAR MEENA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, A220
+E-mail - ankitkm@iitk.ac.in
+Blood Group - B+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11109_0.jpg
+																	

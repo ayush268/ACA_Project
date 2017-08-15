@@ -1,0 +1,14 @@
+Roll No - 14037
+Name - ADITYA  SRIVASTAVA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 308
+E-mail - adityasv@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14037_0.jpg
+																	

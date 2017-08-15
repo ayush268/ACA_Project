@@ -1,0 +1,14 @@
+Roll No - 12182
+Name - AYUSH  AGGARWAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, G-114
+E-mail - aayushag@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12182_0.jpg
+																	

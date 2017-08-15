@@ -1,0 +1,14 @@
+Roll No - 14104059
+Name - KHATRI  RAVI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL8, F-305
+E-mail - khatri@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104059_0.jpg
+																	

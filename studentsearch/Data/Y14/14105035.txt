@@ -1,0 +1,14 @@
+Roll No - 14105035
+Name - HARSH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALL8, C-201
+E-mail - harshd@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14105035_0.jpg
+																	

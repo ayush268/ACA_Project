@@ -1,0 +1,15 @@
+Roll No - 150312
+Name - K
+SIDDARTH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 309
+E-mail - siddarth@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150312_0.jpg
+																	

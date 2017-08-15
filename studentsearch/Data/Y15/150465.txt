@@ -1,0 +1,14 @@
+Roll No - 150465
+Name - NITESH  MALVIYA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALLX, C-231
+E-mail - niteshm@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150465_0.jpg
+																	

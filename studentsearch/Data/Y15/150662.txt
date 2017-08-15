@@ -1,0 +1,14 @@
+Roll No - 150662
+Name - SHASHANK  SHEKHAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL3, 338
+E-mail - sshekhar@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150662_0.jpg
+																	

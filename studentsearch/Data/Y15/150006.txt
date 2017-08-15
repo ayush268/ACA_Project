@@ -1,0 +1,14 @@
+Roll No - 150006
+Name - AAYUSHI  PANDEY
+Gender - Female
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL6, GHTA-507
+E-mail - aayuship@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150006_0.jpg
+																	

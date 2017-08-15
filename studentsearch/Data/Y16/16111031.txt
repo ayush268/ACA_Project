@@ -1,0 +1,14 @@
+Roll No - 16111031
+Name - Anmol Kumar Shrivastava
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL4, E-318
+E-mail - anmolkr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111031_0.jpg
+																	

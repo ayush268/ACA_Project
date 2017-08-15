@@ -1,0 +1,14 @@
+Roll No - 150061
+Name - AJAY KUMAR GOND
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL3, 355
+E-mail - akgond@iitk.ac.in
+Blood Group - AB+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150061_0.jpg
+																	

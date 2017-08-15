@@ -1,0 +1,14 @@
+Roll No - 14550
+Name - RISHABH  GUPTA
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL3, 149
+E-mail - rishabhg@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14550_0.jpg
+																	

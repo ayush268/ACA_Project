@@ -1,0 +1,14 @@
+Roll No - 13097
+Name - AMIT KUMAR MEENA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, F-211
+E-mail - amitkrm@iitk.ac.in
+Blood Group - B+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13097_0.jpg
+																	

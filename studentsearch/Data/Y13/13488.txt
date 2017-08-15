@@ -1,0 +1,14 @@
+Roll No - 13488
+Name - PRAMOD KUMAR MEENA
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL9, D-311
+E-mail - pramodkm@iitk.ac.in
+Blood Group - A+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13488_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11269
+Name - GARVIT  OMER
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, A-321
+E-mail - garvit@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11269_0.jpg
+																	

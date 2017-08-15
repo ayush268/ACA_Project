@@ -1,0 +1,14 @@
+Roll No - 12011
+Name - ABHAY KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, D-116
+E-mail - abhayk@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12011_0.jpg
+																	

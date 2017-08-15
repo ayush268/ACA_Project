@@ -1,0 +1,14 @@
+Roll No - 13500
+Name - PRATEEK  SHRIVASTAVA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, G-106
+E-mail - pratiks@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13500_0.jpg
+																	

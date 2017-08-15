@@ -1,0 +1,14 @@
+Roll No - 14111025
+Name - RAHUL  BERA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALLXI, C-418
+E-mail - rbera@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14111025_0.jpg
+																	

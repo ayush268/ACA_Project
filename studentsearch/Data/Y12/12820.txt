@@ -1,0 +1,14 @@
+Roll No - 12820
+Name - VISHAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, F-303
+E-mail - visal@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12820_0.jpg
+																	

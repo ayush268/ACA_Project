@@ -1,0 +1,14 @@
+Roll No - 15101043
+Name - ROHIT  KUMAR
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - MTech
+Address - HALLXI, B-339
+E-mail - krrohit@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15101043_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13368
+Name - KUNDAN  KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, B-312
+E-mail - kundank@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13368_0.jpg
+																	

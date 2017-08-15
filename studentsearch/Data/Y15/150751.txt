@@ -1,0 +1,14 @@
+Roll No - 150751
+Name - SUYASH  SINHA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL5, D-110
+E-mail - ssuyash@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150751_0.jpg
+																	

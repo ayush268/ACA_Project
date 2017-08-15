@@ -1,0 +1,14 @@
+Roll No - 15103030
+Name - Rajneesh  BAHARI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - ACES, 2060
+E-mail - rajneesh@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15103030_0.jpg
+																	

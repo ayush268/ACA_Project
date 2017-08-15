@@ -1,0 +1,14 @@
+Roll No - 15107265
+Name - BIPLAB  GHOSH
+Gender - Male
+Dept. - CHEMISTRY
+Program - PhD
+Address - HALL4, G-109
+E-mail - biplabg@iitk.ac.in
+Blood Group - A-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15107265_0.jpg
+																	

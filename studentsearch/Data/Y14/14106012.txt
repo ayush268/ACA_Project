@@ -1,0 +1,14 @@
+Roll No - 14106012
+Name - MAYANK  SUNARIWAL
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - MTech
+Address - HALLX, B-125
+E-mail - mayyank@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14106012_0.jpg
+																	

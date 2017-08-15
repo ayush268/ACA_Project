@@ -1,0 +1,14 @@
+Roll No - 16111264
+Name - PRAVENDRA  SINGH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - PhD
+Address - HALL8, A-321
+E-mail - psingh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111264_0.jpg
+																	

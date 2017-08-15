@@ -1,0 +1,14 @@
+Roll No - 160039
+Name - ABHISHEK  SINGH
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, C-236
+E-mail - abhisgh@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160039_0.jpg
+																	

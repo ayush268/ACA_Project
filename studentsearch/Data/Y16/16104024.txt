@@ -1,0 +1,14 @@
+Roll No - 16104024
+Name - DARSHAN RAMESH SHET
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL12, D-303
+E-mail - drshet@iitk.ac.in
+Blood Group - O+
+Category - null
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104024_0.jpg
+																	

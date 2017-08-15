@@ -1,0 +1,14 @@
+Roll No - 14480
+Name - PRANAY  BALDEV
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 157
+E-mail - bpranay@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14480_0.jpg
+																	

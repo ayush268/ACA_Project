@@ -1,0 +1,14 @@
+Roll No - 14111018
+Name - MANOJ DAGADU VENDE
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALLXI, C-432
+E-mail - mdvende@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14111018_0.jpg
+																	

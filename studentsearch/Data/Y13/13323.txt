@@ -1,0 +1,14 @@
+Roll No - 13323
+Name - JANISH  JINDAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, F-313
+E-mail - janish@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13323_0.jpg
+																	

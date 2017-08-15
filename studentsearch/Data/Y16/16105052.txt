@@ -1,0 +1,14 @@
+Roll No - 16105052
+Name - LAKHAN  HURMADE
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, B-342
+E-mail - lakhanj@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105052_0.jpg
+																	

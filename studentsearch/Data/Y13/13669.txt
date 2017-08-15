@@ -1,0 +1,14 @@
+Roll No - 13669
+Name - SHREYA  SHUKLA
+Gender - Female
+Dept. - CHEMISTRY
+Program - BS
+Address - GH, GHTA-410
+E-mail - shreyas@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13669_0.jpg
+																	

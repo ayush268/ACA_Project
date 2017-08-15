@@ -1,0 +1,14 @@
+Roll No - 14537
+Name - RAUSHAN  JOSHI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 106
+E-mail - joshir@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14537_0.jpg
+																	

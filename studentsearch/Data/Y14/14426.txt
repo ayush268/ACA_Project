@@ -1,0 +1,14 @@
+Roll No - 14426
+Name - NIKHIL  BYADWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 223
+E-mail - nikhilby@iitk.ac.in
+Blood Group - O+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14426_0.jpg
+																	

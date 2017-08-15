@@ -1,0 +1,14 @@
+Roll No - 11234
+Name - DEEPAK  CHOUDHARY
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, F115
+E-mail - deepakc@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11234_0.jpg
+																	

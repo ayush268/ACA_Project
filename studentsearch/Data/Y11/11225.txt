@@ -1,0 +1,14 @@
+Roll No - 11225
+Name - CHIRAG  GAGRANI
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL1, C-106
+E-mail - cgagrani@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11225_0.jpg
+																	

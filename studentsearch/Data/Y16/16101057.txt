@@ -1,0 +1,14 @@
+Roll No - 16101057
+Name - Anubhav  Mishra
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - MTech
+Address - HALL12, F-206
+E-mail - anumisra@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16101057_0.jpg
+																	

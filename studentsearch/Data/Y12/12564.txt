@@ -1,0 +1,14 @@
+Roll No - 12564
+Name - RAVI  KUMAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL12, D-109
+E-mail - ravikmr@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12564_0.jpg
+																	

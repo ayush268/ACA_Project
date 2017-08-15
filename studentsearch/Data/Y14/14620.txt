@@ -1,0 +1,14 @@
+Roll No - 14620
+Name - SAYANTAN  CHATTERJEE
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL3, 274
+E-mail - saychat@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14620_0.jpg
+																	

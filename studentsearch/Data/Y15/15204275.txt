@@ -1,0 +1,14 @@
+Roll No - 15204275
+Name - SURAJ  SRIVASTAVA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - DAY, CPWD
+E-mail - ssrivast@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15204275_0.jpg
+																	

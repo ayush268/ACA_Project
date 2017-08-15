@@ -1,0 +1,14 @@
+Roll No - 14343
+Name - KUNAL  KAPILA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL2, 374
+E-mail - kunalkap@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14343_0.jpg
+																	

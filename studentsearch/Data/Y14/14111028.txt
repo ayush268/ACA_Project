@@ -1,0 +1,14 @@
+Roll No - 14111028
+Name - RAJAT KUMAR VERMA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL8, B-111
+E-mail - rajatv@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14111028_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 14159
+Name - AVIRAL  AGARWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 219
+E-mail - aviral@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14159_0.jpg
+																	

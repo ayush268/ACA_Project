@@ -1,0 +1,14 @@
+Roll No - 12414
+Name - MOHAMMAD OSAMA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, D-320
+E-mail - osama@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12414_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 160220
+Name - DARPAN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 241
+E-mail - vdarpan@iitk.ac.in
+Blood Group - A-
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160220_0.jpg
+																	

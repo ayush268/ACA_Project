@@ -1,0 +1,14 @@
+Roll No - 150316
+Name - KAMAL KUMAR MEENA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL5, D-105
+E-mail - rjkamal@iitk.ac.in
+Blood Group - O+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150316_0.jpg
+																	

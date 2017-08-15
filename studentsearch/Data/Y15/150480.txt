@@ -1,0 +1,14 @@
+Roll No - 150480
+Name - PATIBANDLA  RITHVIK
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALLX, C-410
+E-mail - rithvikp@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150480_0.jpg
+																	

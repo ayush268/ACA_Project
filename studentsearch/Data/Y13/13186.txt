@@ -1,0 +1,14 @@
+Roll No - 13186
+Name - AYUSH  PODDAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, F-308
+E-mail - apoddar@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13186_0.jpg
+																	

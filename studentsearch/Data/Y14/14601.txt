@@ -1,0 +1,14 @@
+Roll No - 14601
+Name - SANJAY  RAMESH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, C-426
+E-mail - sanjayr@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14601_0.jpg
+																	

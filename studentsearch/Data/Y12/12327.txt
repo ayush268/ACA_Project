@@ -1,0 +1,14 @@
+Roll No - 12327
+Name - JITESH
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL12, D-605
+E-mail - jiteshk@iitk.ac.in
+Blood Group - B+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12327_0.jpg
+																	

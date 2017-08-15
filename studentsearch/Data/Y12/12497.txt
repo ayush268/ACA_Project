@@ -1,0 +1,14 @@
+Roll No - 12497
+Name - PRANAV RAVINDRA MANERIKER
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, G-315
+E-mail - mpranav@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12497_0.jpg
+																	

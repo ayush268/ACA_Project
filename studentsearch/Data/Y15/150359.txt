@@ -1,0 +1,14 @@
+Roll No - 150359
+Name - LOHIT  JAT
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALLX, B-403
+E-mail - lohitjat@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150359_0.jpg
+																	

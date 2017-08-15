@@ -1,0 +1,14 @@
+Roll No - 150218
+Name - DEEPANKAR  SRIVASTAVA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, A-414
+E-mail - deepanks@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150218_0.jpg
+																	

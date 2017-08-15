@@ -1,0 +1,14 @@
+Roll No - 15105268
+Name - MANISH KUMAR SINGH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - PhD
+Address - HALL7, B-106
+E-mail - manishsn@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15105268_0.jpg
+																	

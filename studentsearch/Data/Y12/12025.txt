@@ -1,0 +1,14 @@
+Roll No - 12025
+Name - ABHISHEK KUMAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, C-307
+E-mail - abhiku@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12025_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13039
+Name - ADARSH  KABRA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, F-221
+E-mail - akabra@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13039_0.jpg
+																	

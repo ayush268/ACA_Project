@@ -1,0 +1,14 @@
+Roll No - 12114
+Name - ANIL  KUMAR
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, C-111
+E-mail - kranil@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12114_0.jpg
+																	

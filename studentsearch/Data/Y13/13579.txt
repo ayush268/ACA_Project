@@ -1,0 +1,14 @@
+Roll No - 13579
+Name - RITIKA  MULAGALAPALLI
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - GH, GHTB-406
+E-mail - mritika@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13579_0.jpg
+																	

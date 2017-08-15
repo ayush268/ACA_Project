@@ -1,0 +1,16 @@
+Roll No - 151148
+Name - PRASHANT  SINGH
+Gender - Male
+Dept. - PHYSICS
+Program - MSc
+2
+yr
+Address - HALLXI, A-413
+E-mail - prsingh@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/151148_0.jpg
+																	

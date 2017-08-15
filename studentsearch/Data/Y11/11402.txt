@@ -1,0 +1,14 @@
+Roll No - 11402
+Name - MANDEEP  SINGH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL5, H-105
+E-mail - smandeep@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11402_0.jpg
+																	

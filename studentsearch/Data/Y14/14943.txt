@@ -1,0 +1,16 @@
+Roll No - 14943
+Name - RAHUL  CHOWDHURY
+Gender - Male
+Dept. - STATISTICS
+Program - MSc
+2
+yr
+Address - HALLXI, B-425
+E-mail - rahulc@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14943_0.jpg
+																	

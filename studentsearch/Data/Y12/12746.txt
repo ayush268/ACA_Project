@@ -1,0 +1,14 @@
+Roll No - 12746
+Name - SUYASH  GARG
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL9, B-106
+E-mail - suyashgr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12746_0.jpg
+																	

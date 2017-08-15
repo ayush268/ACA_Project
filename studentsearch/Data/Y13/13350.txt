@@ -1,0 +1,14 @@
+Roll No - 13350
+Name - KISLAY  KUMAR
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, G-107
+E-mail - kislay@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13350_0.jpg
+																	

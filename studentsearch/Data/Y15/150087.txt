@@ -1,0 +1,14 @@
+Roll No - 150087
+Name - AMAN RAJ VERMA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 330
+E-mail - rajaman@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150087_0.jpg
+																	

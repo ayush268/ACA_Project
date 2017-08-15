@@ -1,0 +1,14 @@
+Roll No - 15104046
+Name - SANDEEP  SHARMA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - ACES, 2093
+E-mail - sandy@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104046_0.jpg
+																	

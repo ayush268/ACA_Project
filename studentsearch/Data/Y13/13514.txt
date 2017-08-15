@@ -1,0 +1,14 @@
+Roll No - 13514
+Name - PRIYANK  PATHAK
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, D-310
+E-mail - ppriyank@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13514_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12535
+Name - RAHUL KUMAR JATOLIYA
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, C-439
+E-mail - rahulkj@iitk.ac.in
+Blood Group - AB+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12535_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 16114004
+Name - ANEESH  JONWAL
+Gender - Male
+Dept. - IND. & MANAGEMENT ENGG.
+Program - MTech
+Address - HALLXI, A-119
+E-mail - ajonwal@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16114004_0.jpg
+																	

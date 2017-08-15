@@ -1,0 +1,14 @@
+Roll No - 16105112
+Name - YOGESH  KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, A-128
+E-mail - yogkumar@iitk.ac.in
+Blood Group - B+
+Category - ON
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105112_0.jpg
+																	

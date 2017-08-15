@@ -1,0 +1,14 @@
+Roll No - 12750
+Name - SWATHI KRISHNA D
+Gender - Female
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - GH, A-302
+E-mail - swathikr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12750_0.jpg
+																	

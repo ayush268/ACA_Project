@@ -1,0 +1,14 @@
+Roll No - 150533
+Name - PULKIT  GUPTA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL2, 172
+E-mail - pulkitg@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150533_0.jpg
+																	

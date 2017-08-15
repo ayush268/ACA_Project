@@ -1,0 +1,14 @@
+Roll No - 14643
+Name - SHAURYA  AARAV
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL3, 178
+E-mail - aarav@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14643_0.jpg
+																	

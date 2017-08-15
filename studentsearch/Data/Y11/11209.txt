@@ -1,0 +1,14 @@
+Roll No - 11209
+Name - Bunedri  VIVEK
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, B-126
+E-mail - buvivek@iitk.ac.in
+Blood Group - B+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11209_0.jpg
+																	

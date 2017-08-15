@@ -1,0 +1,14 @@
+Roll No - 12618
+Name - SANJANA  MOHAPATRA
+Gender - Female
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - BTech
+Address - GH, GHTB-303
+E-mail - sanjanam@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12618_0.jpg
+																	

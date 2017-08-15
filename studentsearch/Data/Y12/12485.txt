@@ -1,0 +1,14 @@
+Roll No - 12485
+Name - PRACHI  GUPTA
+Gender - Female
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - GH, F-112
+E-mail - gprachi@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12485_0.jpg
+																	

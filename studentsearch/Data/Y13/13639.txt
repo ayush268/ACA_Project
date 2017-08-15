@@ -1,0 +1,14 @@
+Roll No - 13639
+Name - SHAGUN  SINGH
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, D-306
+E-mail - ssingh@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13639_0.jpg
+																	

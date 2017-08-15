@@ -1,0 +1,14 @@
+Roll No - 11039
+Name - ADITYA KUMAR GUPTA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALLX, F-313
+E-mail - adkgupta@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11039_0.jpg
+																	

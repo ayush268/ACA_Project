@@ -1,0 +1,14 @@
+Roll No - 16104057
+Name - NIKITA  BHARATI
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL6, GHTB-103
+E-mail - bharati@iitk.ac.in
+Blood Group - O+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104057_0.jpg
+																	

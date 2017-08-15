@@ -1,0 +1,14 @@
+Roll No - 150118
+Name - ANUBHAV  TIWARI
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, D-105
+E-mail - anubhavt@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150118_0.jpg
+																	

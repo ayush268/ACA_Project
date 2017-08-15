@@ -1,0 +1,15 @@
+Roll No - 160316
+Name - KAMESH  JAISWAL
+Gender - Male
+Dept. - EARTH SCIENCES
+Program - BS
+Address - HALLX, C-334
+E-mail - kamesh@iitk.ac.in
+Blood Group - Not
+Available
+Category - null
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160316_0.jpg
+																	

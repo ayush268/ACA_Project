@@ -1,0 +1,14 @@
+Roll No - 15101005
+Name - AFRAZ  KHAN
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - MTech
+Address - HALL8, A-201
+E-mail - afraz@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15101005_0.jpg
+																	

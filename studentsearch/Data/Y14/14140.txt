@@ -1,0 +1,14 @@
+Roll No - 14140
+Name - ASHISH JOJO JOHN
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL12, C-202
+E-mail - jashish@iitk.ac.in
+Blood Group - A-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14140_0.jpg
+																	

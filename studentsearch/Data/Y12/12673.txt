@@ -1,0 +1,14 @@
+Roll No - 12673
+Name - SHIVAM  CHOUBEY
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, F-212
+E-mail - shivamc@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12673_0.jpg
+																	

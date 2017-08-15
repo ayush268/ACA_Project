@@ -1,0 +1,14 @@
+Roll No - 14091
+Name - AMRESH KUMAR KUSHWAHA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, A-429
+E-mail - amresh@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14091_0.jpg
+																	

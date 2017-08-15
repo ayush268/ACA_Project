@@ -1,0 +1,14 @@
+Roll No - 14603
+Name - SANKALP  RASTOGI
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 326
+E-mail - rsankalp@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14603_0.jpg
+																	

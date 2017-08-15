@@ -1,0 +1,14 @@
+Roll No - 16105261
+Name - AJITENDRA SINGH PARIHAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - PhD
+Address - DAY, -9999
+E-mail - parihar@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105261_0.jpg
+																	

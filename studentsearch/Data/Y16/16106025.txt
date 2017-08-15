@@ -1,0 +1,14 @@
+Roll No - 16106025
+Name - RANI  AGARWAL
+Gender - Female
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - MTech
+Address - HALL6, GHTB-214
+E-mail - arani@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16106025_0.jpg
+																	

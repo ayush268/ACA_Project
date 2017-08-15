@@ -1,0 +1,14 @@
+Roll No - 11349
+Name - KANIKA  DEV
+Gender - Female
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - GH, A-303
+E-mail - kanika@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11349_0.jpg
+																	

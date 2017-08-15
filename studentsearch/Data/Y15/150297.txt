@@ -1,0 +1,14 @@
+Roll No - 150297
+Name - JAI  JAIN
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL2, 217
+E-mail - jaij@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150297_0.jpg
+																	

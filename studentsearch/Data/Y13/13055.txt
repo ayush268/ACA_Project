@@ -1,0 +1,14 @@
+Roll No - 13055
+Name - AJAY KUMAR SODHA
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, D-117
+E-mail - sodha@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13055_0.jpg
+																	

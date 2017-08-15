@@ -1,0 +1,14 @@
+Roll No - 13707
+Name - SONU KUMAR SHUBHAM
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, F-220
+E-mail - sonu@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13707_0.jpg
+																	

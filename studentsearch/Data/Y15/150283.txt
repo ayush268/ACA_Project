@@ -1,0 +1,14 @@
+Roll No - 150283
+Name - HARSHVARDHAN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 228
+E-mail - harshv@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150283_0.jpg
+																	

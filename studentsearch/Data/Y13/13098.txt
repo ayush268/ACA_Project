@@ -1,0 +1,14 @@
+Roll No - 13098
+Name - AMIT KUMAR MEENA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, D-301
+E-mail - meenaak@iitk.ac.in
+Blood Group - O+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13098_0.jpg
+																	

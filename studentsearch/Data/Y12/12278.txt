@@ -1,0 +1,14 @@
+Roll No - 12278
+Name - HANSARAJ  SARKAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, D-113
+E-mail - hsarkar@iitk.ac.in
+Blood Group - AB+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12278_0.jpg
+																	

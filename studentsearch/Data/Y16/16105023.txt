@@ -1,0 +1,14 @@
+Roll No - 16105023
+Name - ARUNAVA  RAY
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALL12, F-204
+E-mail - arunavar@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105023_0.jpg
+																	

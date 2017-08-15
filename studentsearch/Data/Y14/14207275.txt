@@ -1,0 +1,14 @@
+Roll No - 14207275
+Name - RAMRANJAN  MISHRA
+Gender - Male
+Dept. - CHEMISTRY
+Program - PhD
+Address - HALL4, E-114
+E-mail - rrmishra@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14207275_0.jpg
+																	

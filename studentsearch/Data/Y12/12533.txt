@@ -1,0 +1,14 @@
+Roll No - 12533
+Name - RAHUL  JADAM
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, D-114
+E-mail - rjadam@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12533_0.jpg
+																	

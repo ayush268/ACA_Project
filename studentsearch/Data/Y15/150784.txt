@@ -1,0 +1,14 @@
+Roll No - 150784
+Name - UTKARSH  PRASAD
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL5, D-109
+E-mail - uprasad@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150784_0.jpg
+																	

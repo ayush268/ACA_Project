@@ -1,0 +1,14 @@
+Roll No - 12006
+Name - AARSHEE  MISHRA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, D-109
+E-mail - aarshee@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12006_0.jpg
+																	

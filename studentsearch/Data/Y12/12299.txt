@@ -1,0 +1,14 @@
+Roll No - 12299
+Name - HIMANSHU  GAUTAM
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, C-209
+E-mail - himans@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12299_0.jpg
+																	

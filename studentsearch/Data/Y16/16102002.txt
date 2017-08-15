@@ -1,0 +1,14 @@
+Roll No - 16102002
+Name - AJAY
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - MTech
+Address - HALL7, G-105
+E-mail - ajaychm@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16102002_0.jpg
+																	

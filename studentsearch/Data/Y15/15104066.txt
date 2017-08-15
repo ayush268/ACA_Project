@@ -1,0 +1,14 @@
+Roll No - 15104066
+Name - VIKHYAT  GARG
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - ACES, -2074
+E-mail - vikhyat@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104066_0.jpg
+																	

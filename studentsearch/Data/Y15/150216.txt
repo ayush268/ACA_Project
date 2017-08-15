@@ -1,0 +1,14 @@
+Roll No - 150216
+Name - DEEPAK  SHAKYAWAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL5, C-115
+E-mail - shdeep@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150216_0.jpg
+																	

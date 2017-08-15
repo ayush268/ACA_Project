@@ -1,0 +1,14 @@
+Roll No - 11472
+Name - NITIN KUMAR SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, D-107
+E-mail - snitin@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11472_0.jpg
+																	

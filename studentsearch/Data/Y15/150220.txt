@@ -1,0 +1,14 @@
+Roll No - 150220
+Name - DEEPIKA  MEENA
+Gender - Female
+Dept. - PHYSICS
+Program - BS
+Address - HALL6, GHTA-604
+E-mail - deepikam@iitk.ac.in
+Blood Group - O+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150220_0.jpg
+																	

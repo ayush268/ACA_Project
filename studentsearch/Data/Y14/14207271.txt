@@ -1,0 +1,14 @@
+Roll No - 14207271
+Name - JOYDEV  ACHARYA
+Gender - Male
+Dept. - CHEMISTRY
+Program - PhD
+Address - HALL4, E-101
+E-mail - joydev@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14207271_0.jpg
+																	

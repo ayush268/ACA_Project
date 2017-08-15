@@ -1,0 +1,14 @@
+Roll No - 12399
+Name - MANISH KUMAR AWADHIYA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, G-320
+E-mail - awadhiya@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12399_0.jpg
+																	

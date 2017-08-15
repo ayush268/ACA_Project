@@ -1,0 +1,14 @@
+Roll No - 11143
+Name - ANURAG  SIROLIYA
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, D-217
+E-mail - asiroliy@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11143_0.jpg
+																	

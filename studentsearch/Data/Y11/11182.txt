@@ -1,0 +1,14 @@
+Roll No - 11182
+Name - AYUSH  JASUJA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, F108
+E-mail - ayushja@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11182_0.jpg
+																	

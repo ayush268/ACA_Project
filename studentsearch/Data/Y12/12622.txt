@@ -1,0 +1,14 @@
+Roll No - 12622
+Name - SANNY  KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, C-318
+E-mail - sannyk@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12622_0.jpg
+																	

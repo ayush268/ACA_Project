@@ -1,0 +1,16 @@
+Roll No - 14801
+Name - VIKAS KUMAR
+S
+O R KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, D-208
+E-mail - vikas@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14801_0.jpg
+																	

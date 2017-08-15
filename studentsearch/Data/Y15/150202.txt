@@ -1,0 +1,14 @@
+Roll No - 150202
+Name - CHANDRAKANT  KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL3, 247
+E-mail - chandk@iitk.ac.in
+Blood Group - A+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150202_0.jpg
+																	

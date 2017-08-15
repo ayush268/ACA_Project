@@ -1,0 +1,14 @@
+Roll No - 13227
+Name - DEBASISH  SAHOO
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, G-216
+E-mail - sdeb@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13227_0.jpg
+																	

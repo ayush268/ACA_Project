@@ -1,0 +1,14 @@
+Roll No - 11392
+Name - LOKESH KUMAR MEENA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9
+E-mail - lokeshkp@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11392_0.jpg
+																	

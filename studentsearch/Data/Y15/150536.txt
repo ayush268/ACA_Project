@@ -1,0 +1,14 @@
+Roll No - 150536
+Name - PULKIT  SONI
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, C-337
+E-mail - psoni@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150536_0.jpg
+																	

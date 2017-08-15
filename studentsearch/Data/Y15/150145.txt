@@ -1,0 +1,14 @@
+Roll No - 150145
+Name - ASHAR  AHMAD
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL3, 322
+E-mail - ashara@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150145_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150498
+Name - PRAKET SINGH KAROL
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL2, 123
+E-mail - praket@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150498_0.jpg
+																	

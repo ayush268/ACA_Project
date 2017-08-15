@@ -1,0 +1,14 @@
+Roll No - 12541
+Name - RAHUL  SHARMA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, B-218
+E-mail - rahus@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12541_0.jpg
+																	

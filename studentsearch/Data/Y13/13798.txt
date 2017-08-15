@@ -1,0 +1,14 @@
+Roll No - 13798
+Name - VISHAL  JINDAL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, H-201
+E-mail - vishalj@iitk.ac.in
+Blood Group - A-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13798_0.jpg
+																	

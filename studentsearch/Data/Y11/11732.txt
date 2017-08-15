@@ -1,0 +1,14 @@
+Roll No - 11732
+Name - SUJIT  KUMAR
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, G120
+E-mail - sujitkm@iitk.ac.in
+Blood Group - A+
+Category - GP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11732_0.jpg
+																	

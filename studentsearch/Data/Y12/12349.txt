@@ -1,0 +1,14 @@
+Roll No - 12349
+Name - KAVITI SAI SAURAB
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, A-310
+E-mail - kssaurab@iitk.ac.in
+Blood Group - O-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12349_0.jpg
+																	

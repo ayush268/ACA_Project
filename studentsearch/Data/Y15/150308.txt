@@ -1,0 +1,14 @@
+Roll No - 150308
+Name - JITENDRA  SONI
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, B-406
+E-mail - sojiten@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150308_0.jpg
+																	

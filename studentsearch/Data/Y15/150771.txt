@@ -1,0 +1,14 @@
+Roll No - 150771
+Name - TUSHAR  Gupta
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, A-407
+E-mail - tusharg@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150771_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12292
+Name - HARSHVARDHAN SINGH RATHORE
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, F-116
+E-mail - hvsrath@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12292_0.jpg
+																	

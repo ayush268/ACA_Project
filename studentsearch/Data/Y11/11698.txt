@@ -1,0 +1,14 @@
+Roll No - 11698
+Name - SHREYANSH  SINGH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, D-123
+E-mail - shres@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11698_0.jpg
+																	

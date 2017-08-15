@@ -1,0 +1,14 @@
+Roll No - 12028
+Name - ABHISHEK MEENA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, F-317
+E-mail - abhim@iitk.ac.in
+Blood Group - O+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12028_0.jpg
+																	

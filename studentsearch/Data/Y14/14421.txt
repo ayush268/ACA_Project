@@ -1,0 +1,14 @@
+Roll No - 14421
+Name - NEHA  BYADWAL
+Gender - Female
+Dept. - ECONOMICS
+Program - BS
+Address - HALL6, GHTA-408
+E-mail - nehab@iitk.ac.in
+Blood Group - AB+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14421_0.jpg
+																	

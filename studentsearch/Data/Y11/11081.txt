@@ -1,0 +1,14 @@
+Roll No - 11081
+Name - AMIT  MUNJE
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALLX, B-117
+E-mail - amunje@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11081_0.jpg
+																	

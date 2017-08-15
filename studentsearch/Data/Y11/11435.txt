@@ -1,0 +1,14 @@
+Roll No - 11435
+Name - MOHIT  SHUKLA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, D-116
+E-mail - mohitsh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11435_0.jpg
+																	

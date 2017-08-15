@@ -1,0 +1,14 @@
+Roll No - 12623
+Name - SANTOSH  AKOIJAM
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL12, D-207
+E-mail - sakoijam@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12623_0.jpg
+																	

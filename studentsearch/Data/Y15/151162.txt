@@ -1,0 +1,15 @@
+Roll No - 151162
+Name - BASHAB  DEY
+Gender - Male
+Dept. - PHYSICS
+Program - PhD
+Dual
+Address - HALLXI, B-239
+E-mail - bashab@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/151162_0.jpg
+																	

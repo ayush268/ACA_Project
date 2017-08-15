@@ -1,0 +1,14 @@
+Roll No - 150448
+Name - NIKET  DIXIT
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 340
+E-mail - niketdx@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150448_0.jpg
+																	

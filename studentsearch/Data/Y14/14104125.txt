@@ -1,0 +1,14 @@
+Roll No - 14104125
+Name - RAHUL KUMAR GAUTAM
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL8, C-111
+E-mail - rkgautam@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104125_0.jpg
+																	

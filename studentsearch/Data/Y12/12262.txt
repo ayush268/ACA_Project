@@ -1,0 +1,14 @@
+Roll No - 12262
+Name - GARIMA  CHANALIA
+Gender - Female
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - BTech
+Address - HALL6, GHTB-304
+E-mail - garimac@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12262_0.jpg
+																	

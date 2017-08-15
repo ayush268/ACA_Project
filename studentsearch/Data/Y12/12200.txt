@@ -1,0 +1,14 @@
+Roll No - 12200
+Name - BIPIN KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, C-323
+E-mail - bipinkr@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12200_0.jpg
+																	

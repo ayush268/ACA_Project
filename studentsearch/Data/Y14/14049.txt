@@ -1,0 +1,14 @@
+Roll No - 14049
+Name - AKASH  SINGH
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, A-423
+E-mail - akasingh@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14049_0.jpg
+																	

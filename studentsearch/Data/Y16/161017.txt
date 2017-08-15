@@ -1,0 +1,16 @@
+Roll No - 161017
+Name - MALAY  NASKAR
+Gender - Male
+Dept. - CHEMISTRY
+Program - MSc
+2
+yr
+Address - HALL12, F-112
+E-mail - malayn@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/161017_0.jpg
+																	

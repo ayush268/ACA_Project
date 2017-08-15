@@ -1,0 +1,14 @@
+Roll No - 11013
+Name - ABHIMANYU  ARORA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, C218
+E-mail - manyu@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11013_0.jpg
+																	

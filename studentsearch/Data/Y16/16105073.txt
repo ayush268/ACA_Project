@@ -1,0 +1,14 @@
+Roll No - 16105073
+Name - PAWAN  NAGLE
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, A-435
+E-mail - pnagle@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105073_0.jpg
+																	

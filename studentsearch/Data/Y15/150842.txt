@@ -1,0 +1,14 @@
+Roll No - 150842
+Name - YAZUR  GUPTA
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL2, 206
+E-mail - yazur@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150842_0.jpg
+																	

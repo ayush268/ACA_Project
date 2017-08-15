@@ -1,0 +1,14 @@
+Roll No - 14105002
+Name - AAKASH  PATHAK
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, B-401
+E-mail - aakashp@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14105002_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13060
+Name - AKARSH  JAIN
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, F-217
+E-mail - akarshj@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13060_0.jpg
+																	

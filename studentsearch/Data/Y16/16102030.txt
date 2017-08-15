@@ -1,0 +1,14 @@
+Roll No - 16102030
+Name - VIKRAM  SINGH
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - MTech
+Address - HALLXI, A-305
+E-mail - vikramsi@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16102030_0.jpg
+																	

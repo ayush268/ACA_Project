@@ -1,0 +1,14 @@
+Roll No - 150341
+Name - KSHITIJ PRATAP SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 245
+E-mail - kshitijp@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150341_0.jpg
+																	

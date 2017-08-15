@@ -1,0 +1,14 @@
+Roll No - 150174
+Name - AYUSH  CHANDRA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 244
+E-mail - ayushc@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150174_0.jpg
+																	

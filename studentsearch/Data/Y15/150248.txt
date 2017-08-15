@@ -1,0 +1,14 @@
+Roll No - 150248
+Name - GAJENDRA  NAGAR
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALLX, A-403
+E-mail - gajena@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150248_0.jpg
+																	

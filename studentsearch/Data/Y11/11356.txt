@@ -1,0 +1,14 @@
+Roll No - 11356
+Name - KARTIKEY  BHATT
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, H-102
+E-mail - kartb@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11356_0.jpg
+																	

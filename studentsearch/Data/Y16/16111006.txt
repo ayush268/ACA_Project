@@ -1,0 +1,14 @@
+Roll No - 16111006
+Name - DEBJYOTI  BANERJEE
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL4, E1-312
+E-mail - djbaner@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111006_0.jpg
+																	

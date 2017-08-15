@@ -1,0 +1,14 @@
+Roll No - 13014
+Name - ABHAY  GAULECHHA
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, F-218
+E-mail - abhayg@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13014_0.jpg
+																	

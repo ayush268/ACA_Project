@@ -1,0 +1,15 @@
+Roll No - 16118009
+Name - SURBHIT  WAGLE
+Gender - Male
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - MTech
+Address - HALL7, D-309
+E-mail - wagles@iitk.ac.in
+Blood Group - Not
+Available
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16118009_0.jpg
+																	

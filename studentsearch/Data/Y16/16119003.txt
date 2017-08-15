@@ -1,0 +1,14 @@
+Roll No - 16119003
+Name - ALOK  E
+Gender - Male
+Dept. - MASTER OF DESIGN
+Program - MDes
+Address - HALLXI, C-205
+E-mail - ealok@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16119003_0.jpg
+																	

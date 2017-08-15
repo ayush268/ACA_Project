@@ -1,0 +1,14 @@
+Roll No - 12107
+Name - ANAND  KUMAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, E-216
+E-mail - anandce@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12107_0.jpg
+																	

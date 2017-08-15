@@ -1,0 +1,16 @@
+Roll No - 161070
+Name - RISHABH  GUPTA
+Gender - Male
+Dept. - MATHEMATICS
+Program - MSc
+2
+yr
+Address - HALL12, D-311
+E-mail - rishabh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/161070_0.jpg
+																	

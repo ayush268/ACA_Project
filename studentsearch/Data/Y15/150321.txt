@@ -1,0 +1,14 @@
+Roll No - 150321
+Name - KARTIKEY  UPADHYAY
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL3, 340
+E-mail - arihant@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150321_0.jpg
+																	

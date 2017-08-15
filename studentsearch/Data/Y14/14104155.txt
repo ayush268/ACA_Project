@@ -1,0 +1,14 @@
+Roll No - 14104155
+Name - SHALINI  DEY
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL6, GHTA-504
+E-mail - shalinid@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104155_0.jpg
+																	

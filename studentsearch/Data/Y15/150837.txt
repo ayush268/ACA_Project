@@ -1,0 +1,14 @@
+Roll No - 150837
+Name - YASH  KHATRI
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL3, 225
+E-mail - ykhatri@iitk.ac.in
+Blood Group - O-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150837_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13303
+Name - HIMANSHU  DAGAL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, B-121
+E-mail - hdagal@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13303_0.jpg
+																	

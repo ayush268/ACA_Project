@@ -1,0 +1,14 @@
+Roll No - 16105056
+Name - MADHUR  VIJ
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALL7, E-213
+E-mail - ermadhur@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105056_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13301
+Name - HIMANSHU
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, D-322
+E-mail - himanshk@iitk.ac.in
+Blood Group - O-
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13301_0.jpg
+																	

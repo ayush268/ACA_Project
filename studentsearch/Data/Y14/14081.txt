@@ -1,0 +1,14 @@
+Roll No - 14081
+Name - AMIT  kumar
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL3, 123
+E-mail - kuamit@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14081_0.jpg
+																	

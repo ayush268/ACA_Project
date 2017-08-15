@@ -1,0 +1,14 @@
+Roll No - 150435
+Name - NANCY  GOYAL
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL6, A-106
+E-mail - gnancy@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150435_0.jpg
+																	

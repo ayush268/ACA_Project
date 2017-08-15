@@ -1,0 +1,14 @@
+Roll No - 150663
+Name - SHASHANK  SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 177
+E-mail - sshasnk@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150663_0.jpg
+																	

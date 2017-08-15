@@ -1,0 +1,14 @@
+Roll No - 13058
+Name - AJEET  KUMAR
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL1, F-323
+E-mail - kmrajeet@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13058_0.jpg
+																	

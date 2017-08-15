@@ -1,0 +1,14 @@
+Roll No - 14104107
+Name - PANKAJ RAJAN PAKHARE
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL8, G-312
+E-mail - pankajrp@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104107_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11300
+Name - HEMANT GHUSINGA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL12, E-508
+E-mail - hemantg@iitk.ac.in
+Blood Group - A-
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11300_0.jpg
+																	

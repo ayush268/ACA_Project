@@ -1,0 +1,14 @@
+Roll No - 12218
+Name - CHIRAG  GUPTA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, H-120
+E-mail - chiragvg@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12218_0.jpg
+																	

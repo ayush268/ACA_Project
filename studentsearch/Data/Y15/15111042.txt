@@ -1,0 +1,15 @@
+Roll No - 15111042
+Name - SAMIRAN  ROY
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALLXI
+E-mail - 
+Blood Group - Not
+Available
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15111042_0.jpg
+																	

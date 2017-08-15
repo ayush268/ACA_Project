@@ -1,0 +1,14 @@
+Roll No - 13568
+Name - RISHAB  MAHNOT
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, C-220
+E-mail - rmahnot@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13568_0.jpg
+																	

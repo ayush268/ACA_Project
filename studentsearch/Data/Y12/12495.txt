@@ -1,0 +1,14 @@
+Roll No - 12495
+Name - PRANAV  Kumar
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, D-305
+E-mail - pranavkr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12495_0.jpg
+																	

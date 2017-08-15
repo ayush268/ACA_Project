@@ -1,0 +1,14 @@
+Roll No - 11367
+Name - KISHORE
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL9, H-104
+E-mail - kishoree@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11367_0.jpg
+																	

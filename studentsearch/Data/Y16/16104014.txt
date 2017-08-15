@@ -1,0 +1,14 @@
+Roll No - 16104014
+Name - ANKUR  SHARMA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, C-213
+E-mail - ankur@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104014_0.jpg
+																	

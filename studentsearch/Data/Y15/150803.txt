@@ -1,0 +1,14 @@
+Roll No - 150803
+Name - VINOD KUMAR RAV
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL3, 362
+E-mail - vinodrav@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150803_0.jpg
+																	

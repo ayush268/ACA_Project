@@ -1,0 +1,14 @@
+Roll No - 13598
+Name - SAGAR  DEWANGAN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, G-116
+E-mail - sagard@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13598_0.jpg
+																	

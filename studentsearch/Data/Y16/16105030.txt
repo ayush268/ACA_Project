@@ -1,0 +1,14 @@
+Roll No - 16105030
+Name - CHITRANSH  SINGH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, A-122
+E-mail - singhc@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105030_0.jpg
+																	

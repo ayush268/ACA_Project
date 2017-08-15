@@ -1,0 +1,14 @@
+Roll No - 150654
+Name - SAYASH  KAPOOR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, A-338
+E-mail - sayash@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150654_0.jpg
+																	

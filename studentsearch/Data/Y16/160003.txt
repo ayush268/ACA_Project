@@ -1,0 +1,14 @@
+Roll No - 160003
+Name - AAKARSH  GUPTA
+Gender - Male
+Dept. - Math for Pg online
+Program - BS
+Address - HALL2, 232
+E-mail - aakarshg@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160003_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12389
+Name - MADHUKAR  SINGH
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, A-106
+E-mail - mksingh@iitk.ac.in
+Blood Group - B+
+Category - GP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12389_0.jpg
+																	

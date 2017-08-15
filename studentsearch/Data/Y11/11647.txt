@@ -1,0 +1,14 @@
+Roll No - 11647
+Name - SANJEEV  KUMAR
+Gender - Male
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - BTech
+Address - HALL12, F-408
+E-mail - sanjkmr@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11647_0.jpg
+																	

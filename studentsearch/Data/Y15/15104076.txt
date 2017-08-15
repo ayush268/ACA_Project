@@ -1,0 +1,14 @@
+Roll No - 15104076
+Name - Sritam  Jena
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, C-303
+E-mail - sritam@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104076_0.jpg
+																	

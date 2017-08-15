@@ -1,0 +1,15 @@
+Roll No - 150556
+Name - RAJAT  SINGH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, C-405
+E-mail - rrajat@iitk.ac.in
+Blood Group - Not
+Available
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150556_0.jpg
+																	

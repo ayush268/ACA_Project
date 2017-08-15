@@ -1,0 +1,14 @@
+Roll No - 150684
+Name - SHIVANG  JINDAL
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL2, 123
+E-mail - jshivang@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150684_0.jpg
+																	

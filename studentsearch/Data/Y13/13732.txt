@@ -1,0 +1,14 @@
+Roll No - 13732
+Name - SUSHANT
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, F-220
+E-mail - sushant@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13732_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150173
+Name - AYUSH  ANURAG
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL5, C-110
+E-mail - aanurag@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150173_0.jpg
+																	

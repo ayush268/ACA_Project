@@ -1,0 +1,14 @@
+Roll No - 14226
+Name - DIVYANSHU  VERMA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALLX, A-239
+E-mail - divverma@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14226_0.jpg
+																	

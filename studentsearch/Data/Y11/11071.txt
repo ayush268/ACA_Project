@@ -1,0 +1,14 @@
+Roll No - 11071
+Name - AMAN  SUNDERKA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, B301
+E-mail - amansu@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11071_0.jpg
+																	

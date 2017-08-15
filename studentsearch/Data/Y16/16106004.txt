@@ -1,0 +1,14 @@
+Roll No - 16106004
+Name - AMIT  BHARDWAJ
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - MTech
+Address - HALL8, F-118
+E-mail - amitbhar@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16106004_0.jpg
+																	

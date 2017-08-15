@@ -1,0 +1,14 @@
+Roll No - 14105033
+Name - HANIT  BANSAL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALL8, G-217
+E-mail - hanitb@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14105033_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 15109264
+Name - BARUN  GHOSH
+Gender - Male
+Dept. - PHYSICS
+Program - PhD
+Address - HALL8, A-317
+E-mail - barung@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15109264_0.jpg
+																	

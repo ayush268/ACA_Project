@@ -1,0 +1,14 @@
+Roll No - 14104185
+Name - VINAY KUMAR VIMAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, B-411
+E-mail - vkvvimal@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104185_0.jpg
+																	

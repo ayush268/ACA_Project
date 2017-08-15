@@ -1,0 +1,14 @@
+Roll No - 13373
+Name - LAKSHAY  GARG
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, F-208
+E-mail - lakshayg@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13373_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11088
+Name - ANEEK  BISWAS
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL1, G218
+E-mail - aneek@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11088_0.jpg
+																	

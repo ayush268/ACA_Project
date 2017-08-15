@@ -1,0 +1,14 @@
+Roll No - 13755
+Name - UTKARSH  GUPTA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D-214
+E-mail - gutkarsh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13755_0.jpg
+																	

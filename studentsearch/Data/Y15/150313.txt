@@ -1,0 +1,14 @@
+Roll No - 150313
+Name - KAARTIK  BHUSHAN
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, D-102
+E-mail - kbhushan@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150313_0.jpg
+																	

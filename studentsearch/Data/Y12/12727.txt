@@ -1,0 +1,14 @@
+Roll No - 12727
+Name - SOURAV
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, F-311
+E-mail - souravg@iitk.ac.in
+Blood Group - B+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12727_0.jpg
+																	

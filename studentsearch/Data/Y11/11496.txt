@@ -1,0 +1,14 @@
+Roll No - 11496
+Name - PIYUSH  Kumar
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, D-311
+E-mail - piyushkr@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11496_0.jpg
+																	

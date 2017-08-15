@@ -1,0 +1,14 @@
+Roll No - 150511
+Name - PRANNAY  KHOSLA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 128
+E-mail - prannayk@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150511_0.jpg
+																	

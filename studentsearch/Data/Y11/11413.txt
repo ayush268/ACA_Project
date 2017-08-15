@@ -1,0 +1,14 @@
+Roll No - 11413
+Name - MANVI  GUPTA
+Gender - Female
+Dept. - CHEMISTRY
+Program - BS
+Address - GH, G-311
+E-mail - manvi@iitk.ac.in
+Blood Group - O-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11413_0.jpg
+																	

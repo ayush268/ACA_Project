@@ -1,0 +1,14 @@
+Roll No - 16102001
+Name - ABHISHEK  RATNAM
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - MTech
+Address - HALL12, E-309
+E-mail - ratnam@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16102001_0.jpg
+																	

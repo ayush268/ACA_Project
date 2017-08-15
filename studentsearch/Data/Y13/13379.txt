@@ -1,0 +1,14 @@
+Roll No - 13379
+Name - MANISH KUMAR YADAV
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, D-316
+E-mail - manishk@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13379_0.jpg
+																	

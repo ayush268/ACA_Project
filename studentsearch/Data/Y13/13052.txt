@@ -1,0 +1,14 @@
+Roll No - 13052
+Name - AJAY CHOUDHARY
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, E-115
+E-mail - ajayc@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13052_0.jpg
+																	

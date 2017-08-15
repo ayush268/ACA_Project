@@ -1,0 +1,14 @@
+Roll No - 160051
+Name - ADITYA  PRAKASH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, C-337
+E-mail - aprakash@iitk.ac.in
+Blood Group - O+
+Category - ON*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160051_0.jpg
+																	

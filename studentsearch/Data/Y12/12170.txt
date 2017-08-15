@@ -1,0 +1,14 @@
+Roll No - 12170
+Name - ASHISH KUMAR SINGH
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, H-104
+E-mail - ashsingh@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12170_0.jpg
+																	

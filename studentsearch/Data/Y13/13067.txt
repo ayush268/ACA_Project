@@ -1,0 +1,14 @@
+Roll No - 13067
+Name - AKHILESH  KUMAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL3, 326
+E-mail - akhilsk@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13067_0.jpg
+																	

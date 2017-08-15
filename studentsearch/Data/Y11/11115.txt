@@ -1,0 +1,14 @@
+Roll No - 11115
+Name - ANKIT  YADAV
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, F306
+E-mail - anktydv@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11115_0.jpg
+																	

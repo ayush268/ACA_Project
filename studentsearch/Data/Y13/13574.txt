@@ -1,0 +1,14 @@
+Roll No - 13574
+Name - RISHABH  PANDEY
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, C-311
+E-mail - rishabhd@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13574_0.jpg
+																	

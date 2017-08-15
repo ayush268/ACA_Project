@@ -1,0 +1,14 @@
+Roll No - 150264
+Name - HARIRAM  REGAR
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL2, 114
+E-mail - hariram@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150264_0.jpg
+																	

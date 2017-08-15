@@ -1,0 +1,14 @@
+Roll No - 15118269
+Name - PANKAJ  GUPTA
+Gender - Male
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - PhD
+Address - HALL4, F-204
+E-mail - gpankaj@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15118269_0.jpg
+																	

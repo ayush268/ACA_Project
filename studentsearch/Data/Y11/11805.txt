@@ -1,0 +1,14 @@
+Roll No - 11805
+Name - VIKASH  SHANKAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, B319
+E-mail - shankarv@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11805_0.jpg
+																	

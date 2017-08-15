@@ -1,0 +1,14 @@
+Roll No - 13093
+Name - AMIT  JANGIR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, E-202
+E-mail - amitj@iitk.ac.in
+Blood Group - A-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13093_0.jpg
+																	

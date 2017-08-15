@@ -1,0 +1,14 @@
+Roll No - 16103001
+Name - AAKASH  ARORA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - ACES, -2095
+E-mail - aakasha@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103001_0.jpg
+																	

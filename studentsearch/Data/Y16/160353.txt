@@ -1,0 +1,14 @@
+Roll No - 160353
+Name - KUNAL  SURYAWANSHI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, C-228
+E-mail - kunals@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160353_0.jpg
+																	

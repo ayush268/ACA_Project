@@ -1,0 +1,14 @@
+Roll No - 12740
+Name - SUNIL KUMAR MATTA
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL12, E-203
+E-mail - sumilkm@iitk.ac.in
+Blood Group - AB+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12740_0.jpg
+																	

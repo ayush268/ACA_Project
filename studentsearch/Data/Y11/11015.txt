@@ -1,0 +1,14 @@
+Roll No - 11015
+Name - ABHINAV  GUPTA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, B303
+E-mail - gabhinav@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11015_0.jpg
+																	

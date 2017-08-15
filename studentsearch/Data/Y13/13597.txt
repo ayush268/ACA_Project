@@ -1,0 +1,14 @@
+Roll No - 13597
+Name - SAGAR  BATRA
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL1, B-112
+E-mail - sagarb@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13597_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13401
+Name - MAYUR  GUBRELE
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, A-301
+E-mail - mayurg@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13401_0.jpg
+																	

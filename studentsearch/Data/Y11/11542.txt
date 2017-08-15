@@ -1,0 +1,14 @@
+Roll No - 11542
+Name - PRIYANKA  HARLALKA
+Gender - Female
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - GH, B-114
+E-mail - priyah@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11542_0.jpg
+																	

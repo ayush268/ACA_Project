@@ -1,0 +1,14 @@
+Roll No - 16104007
+Name - AMIT  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, A-202
+E-mail - kamit@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104007_0.jpg
+																	

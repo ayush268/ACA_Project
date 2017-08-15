@@ -1,0 +1,14 @@
+Roll No - 12770
+Name - UTKARSH  BAJPAI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, F-301
+E-mail - ubajpai@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12770_0.jpg
+																	

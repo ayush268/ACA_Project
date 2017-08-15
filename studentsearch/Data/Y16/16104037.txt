@@ -1,0 +1,14 @@
+Roll No - 16104037
+Name - HITESH  SANGWAN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, A-310
+E-mail - hsangwan@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104037_0.jpg
+																	

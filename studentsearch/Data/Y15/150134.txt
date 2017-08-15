@@ -1,0 +1,14 @@
+Roll No - 150134
+Name - ARJUN  SINHA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, C-411
+E-mail - arjuns@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150134_0.jpg
+																	

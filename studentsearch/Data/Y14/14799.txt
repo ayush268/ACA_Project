@@ -1,0 +1,14 @@
+Roll No - 14799
+Name - VIKALP  MANDAWARIA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 204
+E-mail - vikalp@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14799_0.jpg
+																	

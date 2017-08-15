@@ -1,0 +1,14 @@
+Roll No - 13512
+Name - PRIYA  YADAV
+Gender - Female
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - GH, G-204
+E-mail - priyay@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13512_0.jpg
+																	

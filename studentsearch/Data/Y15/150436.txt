@@ -1,0 +1,14 @@
+Roll No - 150436
+Name - NARENDRA KUMAR RAIGAR
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL3, 136
+E-mail - nkraigar@iitk.ac.in
+Blood Group - AB+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150436_0.jpg
+																	

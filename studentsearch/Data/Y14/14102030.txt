@@ -1,0 +1,14 @@
+Roll No - 14102030
+Name - PUNEET KUMAR
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - MTech
+Address - HALL8, B-207
+E-mail - pnkumar@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14102030_0.jpg
+																	

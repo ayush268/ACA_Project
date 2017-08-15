@@ -1,0 +1,14 @@
+Roll No - 14104015
+Name - ANSHUMAN  VYAS
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, A-236
+E-mail - avyas@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104015_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11595
+Name - RAHUL  JAIN
+Gender - Male
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - BTech
+Address - HALL1, D-108
+E-mail - rahulj@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11595_0.jpg
+																	

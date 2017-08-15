@@ -1,0 +1,14 @@
+Roll No - 16111028
+Name - Akash  Singh
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL12, F-104
+E-mail - akashsin@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111028_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 14320
+Name - KISHAN  GOPAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 346
+E-mail - kishang@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14320_0.jpg
+																	

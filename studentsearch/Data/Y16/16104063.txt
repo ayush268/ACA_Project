@@ -1,0 +1,14 @@
+Roll No - 16104063
+Name - PALASH  SAXENA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, B-427
+E-mail - psaxena@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104063_0.jpg
+																	

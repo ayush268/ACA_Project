@@ -1,0 +1,15 @@
+Roll No - 11206
+Name - BIPIN KUMAR GUPTA
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D208
+E-mail - biping@iitk.ac.in
+Blood Group - Not
+Available
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11206_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150608
+Name - SACHIN  SARDIWAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL3, 240
+E-mail - srsachin@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150608_0.jpg
+																	

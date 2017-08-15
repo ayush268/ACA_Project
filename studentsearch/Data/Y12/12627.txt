@@ -1,0 +1,14 @@
+Roll No - 12627
+Name - SARTHAK  TAYAL
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL9, F-112
+E-mail - stayal@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12627_0.jpg
+																	

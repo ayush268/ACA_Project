@@ -1,0 +1,14 @@
+Roll No - 11597
+Name - RISHABH  GUPTA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, D-316
+E-mail - rishag@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11597_0.jpg
+																	

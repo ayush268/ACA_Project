@@ -1,0 +1,14 @@
+Roll No - 16104092
+Name - TANJYOT  ARORA
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - GH, B-109
+E-mail - tanjyot@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104092_0.jpg
+																	

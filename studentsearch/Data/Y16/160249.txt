@@ -1,0 +1,14 @@
+Roll No - 160249
+Name - DIVYANSH  CHAWLA
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL5, D-301
+E-mail - chdivy@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160249_0.jpg
+																	

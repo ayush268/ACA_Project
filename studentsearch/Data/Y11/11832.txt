@@ -1,0 +1,14 @@
+Roll No - 11832
+Name - YESHI  DOLMA
+Gender - Female
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - GH, E-307
+E-mail - yeshid@iitk.ac.in
+Blood Group - AB+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11832_0.jpg
+																	

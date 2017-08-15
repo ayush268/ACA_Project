@@ -1,0 +1,16 @@
+Roll No - 161026
+Name - PUJA  PAUL
+Gender - Female
+Dept. - CHEMISTRY
+Program - MSc
+2
+yr
+Address - HALL6, B-112
+E-mail - pujapaul@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/161026_0.jpg
+																	

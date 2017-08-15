@@ -1,0 +1,14 @@
+Roll No - 13003
+Name - AAKASH  GUPTA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, G-118
+E-mail - aakashg@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13003_0.jpg
+																	

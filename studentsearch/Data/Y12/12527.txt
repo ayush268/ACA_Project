@@ -1,0 +1,14 @@
+Roll No - 12527
+Name - RAGHURAM  VANKUDOTH
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL9, A-114
+E-mail - ragva@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12527_0.jpg
+																	

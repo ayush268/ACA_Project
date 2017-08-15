@@ -1,0 +1,14 @@
+Roll No - 11740
+Name - SUMIT KUMAR SHARMA
+Gender - Male
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - BTech
+Address - HALL1, A118
+E-mail - sumitks@iitk.ac.in
+Blood Group - O-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11740_0.jpg
+																	

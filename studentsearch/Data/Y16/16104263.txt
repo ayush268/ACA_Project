@@ -1,0 +1,14 @@
+Roll No - 16104263
+Name - ANIL SINGH PATEL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL7, B-318
+E-mail - anils@iitk.ac.in
+Blood Group - O+
+Category - ON
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104263_0.jpg
+																	

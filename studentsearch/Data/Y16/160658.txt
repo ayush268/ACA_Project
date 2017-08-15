@@ -1,0 +1,14 @@
+Roll No - 160658
+Name - SHIVANK  GARG
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALLX, C-340
+E-mail - shivankg@iitk.ac.in
+Blood Group - O+
+Category - GN*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160658_0.jpg
+																	

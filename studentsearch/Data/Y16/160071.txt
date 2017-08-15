@@ -1,0 +1,14 @@
+Roll No - 160071
+Name - AKASH  YADAV
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL2, 117
+E-mail - raoakash@iitk.ac.in
+Blood Group - AB+
+Category - ON
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160071_0.jpg
+																	

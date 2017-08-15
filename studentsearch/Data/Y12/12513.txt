@@ -1,0 +1,14 @@
+Roll No - 12513
+Name - PRIYA  AGARWAL
+Gender - Female
+Dept. - ECONOMICS
+Program - BS
+Address - GH, A-301
+E-mail - priyagl@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12513_0.jpg
+																	

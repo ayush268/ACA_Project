@@ -1,0 +1,14 @@
+Roll No - 11666
+Name - SAYAK  SARKAR
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, F222
+E-mail - ssayak@iitk.ac.in
+Blood Group - A-
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11666_0.jpg
+																	

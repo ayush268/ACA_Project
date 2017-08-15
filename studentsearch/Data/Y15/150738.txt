@@ -1,0 +1,14 @@
+Roll No - 150738
+Name - SUNIT  SONOWAL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, B-131
+E-mail - sunitkr@iitk.ac.in
+Blood Group - AB+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150738_0.jpg
+																	

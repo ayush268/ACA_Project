@@ -1,0 +1,14 @@
+Roll No - 11506
+Name - PRAKHAR  AGARWAL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, B-112
+E-mail - prakhara@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11506_0.jpg
+																	

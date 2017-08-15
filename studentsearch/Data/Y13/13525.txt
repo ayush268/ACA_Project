@@ -1,0 +1,14 @@
+Roll No - 13525
+Name - RACHITA  CHHAPARIA
+Gender - Female
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - GH, GHTA-501
+E-mail - rachitac@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13525_0.jpg
+																	

@@ -1,0 +1,15 @@
+Roll No - 14980
+Name - SAGAR  PAUL
+Gender - Male
+Dept. - PHYSICS
+Program - PhD
+Dual
+Address - HALLXI, A-113
+E-mail - sagarp@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14980_0.jpg
+																	

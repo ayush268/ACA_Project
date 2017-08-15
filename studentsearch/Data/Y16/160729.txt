@@ -1,0 +1,14 @@
+Roll No - 160729
+Name - SURYATEJA B V
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL2, 229
+E-mail - suryab@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160729_0.jpg
+																	

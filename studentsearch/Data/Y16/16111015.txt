@@ -1,0 +1,14 @@
+Roll No - 16111015
+Name - NIKITA  BHAGATKAR
+Gender - Female
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL6, GHTA-213
+E-mail - bhagatkr@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111015_0.jpg
+																	

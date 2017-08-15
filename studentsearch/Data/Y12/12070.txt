@@ -1,0 +1,15 @@
+Roll No - 12070
+Name - AKSHAY  KAPLESH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, A-303
+E-mail - akkieng@iitk.ac.in
+Blood Group - Not
+Available
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12070_0.jpg
+																	

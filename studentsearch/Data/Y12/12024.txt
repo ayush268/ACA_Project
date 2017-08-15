@@ -1,0 +1,14 @@
+Roll No - 12024
+Name - ABHISHEK KUMAR
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, F-205
+E-mail - abhiansh@iitk.ac.in
+Blood Group - AB-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12024_0.jpg
+																	

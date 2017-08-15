@@ -1,0 +1,14 @@
+Roll No - 150619
+Name - SAKET  JHUNJHUNWALA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 311
+E-mail - saketj@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150619_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150414
+Name - MOHAMMED ARSHAD ANSARI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 332
+E-mail - marshada@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150414_0.jpg
+																	

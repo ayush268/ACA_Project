@@ -1,0 +1,14 @@
+Roll No - 150521
+Name - PRATYUSH  GARG
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL3, 166
+E-mail - pratyush@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150521_0.jpg
+																	

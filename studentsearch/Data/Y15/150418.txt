@@ -1,0 +1,14 @@
+Roll No - 150418
+Name - Mohit  Sheoran
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALLX, B-406
+E-mail - mohitsr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150418_0.jpg
+																	

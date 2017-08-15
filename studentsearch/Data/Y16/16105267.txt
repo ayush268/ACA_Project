@@ -1,0 +1,14 @@
+Roll No - 16105267
+Name - ANKUR  PATEL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - PhD
+Address - DAY, City
+E-mail - ankurp@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105267_0.jpg
+																	

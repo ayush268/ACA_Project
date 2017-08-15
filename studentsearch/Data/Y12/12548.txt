@@ -1,0 +1,14 @@
+Roll No - 12548
+Name - RAJENDRA  KUMAR
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, B-311
+E-mail - rajkmr@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12548_0.jpg
+																	

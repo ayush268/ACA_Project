@@ -1,0 +1,14 @@
+Roll No - 12340
+Name - KAPIL KRISHNA GUPTA
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL1, A-224
+E-mail - gkapil@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12340_0.jpg
+																	

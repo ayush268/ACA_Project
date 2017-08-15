@@ -1,0 +1,14 @@
+Roll No - 12594
+Name - S GAUTHAM  RAJ
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, H-218
+E-mail - sgautham@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12594_0.jpg
+																	

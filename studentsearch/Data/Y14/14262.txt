@@ -1,0 +1,14 @@
+Roll No - 14262
+Name - HARIS TOM JOSE
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL3, 208
+E-mail - haristom@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14262_0.jpg
+																	

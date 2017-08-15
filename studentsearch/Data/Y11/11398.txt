@@ -1,0 +1,14 @@
+Roll No - 11398
+Name - MAITREY  VERMA
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, E213
+E-mail - maitrey@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11398_0.jpg
+																	

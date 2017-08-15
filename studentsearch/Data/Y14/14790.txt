@@ -1,0 +1,14 @@
+Roll No - 14790
+Name - VATSHAL  SRIVASTAV
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL2, 177
+E-mail - vatshal@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14790_0.jpg
+																	

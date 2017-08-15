@@ -1,0 +1,14 @@
+Roll No - 12306
+Name - ISH KUMAR JAIN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, A-315
+E-mail - ishjain@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12306_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 16103093
+Name - SUNEEL  KUMAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALL7, C-301
+E-mail - kmsuneel@iitk.ac.in
+Blood Group - AB+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103093_0.jpg
+																	

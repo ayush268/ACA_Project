@@ -1,0 +1,16 @@
+Roll No - 151053
+Name - MANJU
+Gender - Female
+Dept. - MATHEMATICS
+Program - MSc
+2
+yr
+Address - GH, E-305
+E-mail - manjumky@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/151053_0.jpg
+																	

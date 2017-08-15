@@ -1,0 +1,14 @@
+Roll No - 13762
+Name - VAIBHAV  VAIDYA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, G-316
+E-mail - vvaibhav@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13762_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 15111008
+Name - Amit Kumar Singh
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - ACES, 2071
+E-mail - ksamit@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15111008_0.jpg
+																	

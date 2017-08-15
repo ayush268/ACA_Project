@@ -1,0 +1,14 @@
+Roll No - 13210
+Name - BURADA BALARAM HEMANTH
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, F-314
+E-mail - bhemanth@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13210_0.jpg
+																	

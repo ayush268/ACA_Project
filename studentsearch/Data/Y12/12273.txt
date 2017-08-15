@@ -1,0 +1,14 @@
+Roll No - 12273
+Name - GIDLA MANI RATNAM
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, F-314
+E-mail - mani@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12273_0.jpg
+																	

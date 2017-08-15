@@ -1,0 +1,16 @@
+Roll No - 161001
+Name - AJAY  TAMANG
+Gender - Male
+Dept. - CHEMISTRY
+Program - MSc
+2
+yr
+Address - HALL12, E-112
+E-mail - tamang@iitk.ac.in
+Blood Group - O+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/161001_0.jpg
+																	

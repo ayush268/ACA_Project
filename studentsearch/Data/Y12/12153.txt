@@ -1,0 +1,14 @@
+Roll No - 12153
+Name - ARCHIT  AGRAWAL
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, E-106
+E-mail - archita@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12153_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12289
+Name - HARSHIT  MITTAL
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, G-104
+E-mail - hmittal@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12289_0.jpg
+																	

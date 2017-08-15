@@ -1,0 +1,14 @@
+Roll No - 12521
+Name - PUJA  KUMARI
+Gender - Female
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL6, GHTA-513
+E-mail - puja@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12521_0.jpg
+																	

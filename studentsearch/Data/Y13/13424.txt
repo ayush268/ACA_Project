@@ -1,0 +1,14 @@
+Roll No - 13424
+Name - NARENDRA  PRAJAPATI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, C-307
+E-mail - narenp@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13424_0.jpg
+																	

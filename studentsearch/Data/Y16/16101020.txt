@@ -1,0 +1,14 @@
+Roll No - 16101020
+Name - MANISH  KUMAR
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - MTech
+Address - HALLXI, C-401
+E-mail - krmanish@iitk.ac.in
+Blood Group - AB+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16101020_0.jpg
+																	

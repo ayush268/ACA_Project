@@ -1,0 +1,14 @@
+Roll No - 150314
+Name - KALE ANIKET BHASKAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL5, A-110
+E-mail - aniketk@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150314_0.jpg
+																	

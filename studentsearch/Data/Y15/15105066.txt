@@ -1,0 +1,14 @@
+Roll No - 15105066
+Name - VAIBHAV  NIGAM
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, B-437
+E-mail - nvaibhav@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15105066_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 16104278
+Name - PRASHANT KUMAR VARSHNEY
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL4, D-301
+E-mail - pkvarsh@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104278_0.jpg
+																	

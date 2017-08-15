@@ -1,0 +1,14 @@
+Roll No - 150814
+Name - VISHAL  GUPTA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL2, 232
+E-mail - vishalgp@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150814_0.jpg
+																	

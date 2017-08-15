@@ -1,0 +1,14 @@
+Roll No - 13656
+Name - SHIVA KUMAR GOPU
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, E-112
+E-mail - gopu@iitk.ac.in
+Blood Group - B+
+Category - OP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13656_0.jpg
+																	

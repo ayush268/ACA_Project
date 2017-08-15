@@ -1,0 +1,14 @@
+Roll No - 16103049
+Name - NUPOOR
+Gender - Female
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALL6, GHTA-601
+E-mail - nupoor@iitk.ac.in
+Blood Group - A+
+Category - null
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103049_0.jpg
+																	

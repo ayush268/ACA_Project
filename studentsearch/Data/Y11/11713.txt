@@ -1,0 +1,14 @@
+Roll No - 11713
+Name - SIDDHARTH  SOGANI
+Gender - Male
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - BTech
+Address - HALL1, A305
+E-mail - ssogani@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11713_0.jpg
+																	

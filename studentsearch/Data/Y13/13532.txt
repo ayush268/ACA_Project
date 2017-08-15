@@ -1,0 +1,14 @@
+Roll No - 13532
+Name - RAHUL  KUMAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, G-308
+E-mail - rkrahul@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13532_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 16125049
+Name - VIJAY  KUMAR
+Gender - Male
+Dept. - IND. & MANAGEMENT ENGG.
+Program - MBA
+Address - HALL7, E-311
+E-mail - vjkumar@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16125049_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 15104019
+Name - JASLEEN  KALSI
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - GH, F-306
+E-mail - jasleen@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104019_0.jpg
+																	

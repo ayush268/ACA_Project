@@ -1,0 +1,14 @@
+Roll No - 150378
+Name - Manish  Kumar
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL2, 104
+E-mail - maniskj@iitk.ac.in
+Blood Group - AB-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150378_0.jpg
+																	

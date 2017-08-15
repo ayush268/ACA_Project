@@ -1,0 +1,14 @@
+Roll No - 12023
+Name - ABHISHEK  KHANDELWAL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, D-209
+E-mail - abhikhan@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12023_0.jpg
+																	

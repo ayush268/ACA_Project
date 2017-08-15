@@ -1,0 +1,14 @@
+Roll No - 12308
+Name - JAIKISHAN RUPANI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, C-324
+E-mail - jrupani@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12308_0.jpg
+																	

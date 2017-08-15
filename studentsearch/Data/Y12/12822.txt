@@ -1,0 +1,14 @@
+Roll No - 12822
+Name - VISHAL  KUMAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, B-314
+E-mail - vvishal@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12822_0.jpg
+																	

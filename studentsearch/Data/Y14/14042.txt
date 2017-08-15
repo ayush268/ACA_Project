@@ -1,0 +1,14 @@
+Roll No - 14042
+Name - AFFAN  AHMAD
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL2, 121
+E-mail - affan@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14042_0.jpg
+																	

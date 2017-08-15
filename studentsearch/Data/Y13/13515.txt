@@ -1,0 +1,14 @@
+Roll No - 13515
+Name - PRIYANKA
+Gender - Female
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - GH, GHTA-111
+E-mail - prynka@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13515_0.jpg
+																	

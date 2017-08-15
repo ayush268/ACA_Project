@@ -1,0 +1,14 @@
+Roll No - 11783
+Name - VAIBHAV KUMAR SINGHANIA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, A-202
+E-mail - vaibsgh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11783_0.jpg
+																	

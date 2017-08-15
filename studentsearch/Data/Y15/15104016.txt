@@ -1,0 +1,14 @@
+Roll No - 15104016
+Name - Hanumantharao  Dasari
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, C-330
+E-mail - hanuman@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104016_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11556
+Name - RAGHAV  KUNAMALLA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL12, E-107
+E-mail - raghavkm@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11556_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150042
+Name - ABHISHEK  RAWAT
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 127
+E-mail - abhira@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150042_0.jpg
+																	

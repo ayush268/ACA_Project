@@ -1,0 +1,14 @@
+Roll No - 12311
+Name - JASKARANJIT SINGH RAI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, D-315
+E-mail - jasrai@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12311_0.jpg
+																	

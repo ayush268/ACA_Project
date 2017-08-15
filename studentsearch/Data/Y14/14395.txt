@@ -1,0 +1,14 @@
+Roll No - 14395
+Name - MOHIT KUMAR MEENA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL2, 237
+E-mail - mohitkrm@iitk.ac.in
+Blood Group - O+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14395_0.jpg
+																	

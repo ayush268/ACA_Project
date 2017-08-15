@@ -1,0 +1,14 @@
+Roll No - 11152
+Name - ARUN  SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, A-319
+E-mail - aruns@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11152_0.jpg
+																	

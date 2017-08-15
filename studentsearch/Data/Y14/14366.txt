@@ -1,0 +1,14 @@
+Roll No - 14366
+Name - MANISH  BAGELA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL2, 340
+E-mail - bagela@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14366_0.jpg
+																	

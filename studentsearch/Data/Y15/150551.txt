@@ -1,0 +1,14 @@
+Roll No - 150551
+Name - RAHUL  SAINI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 220
+E-mail - sainir@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150551_0.jpg
+																	

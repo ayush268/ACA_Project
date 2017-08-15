@@ -1,0 +1,14 @@
+Roll No - 12004
+Name - AAKASH  KARDAM
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, C-321
+E-mail - aakashka@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12004_0.jpg
+																	

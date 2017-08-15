@@ -1,0 +1,14 @@
+Roll No - 13114
+Name - ANKIT  AGRAWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, A-210
+E-mail - agrankit@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13114_0.jpg
+																	

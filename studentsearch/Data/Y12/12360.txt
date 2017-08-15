@@ -1,0 +1,14 @@
+Roll No - 12360
+Name - KOTHA Akshay Kumar Reddy
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, E-211
+E-mail - areddy@iitk.ac.in
+Blood Group - A-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12360_0.jpg
+																	

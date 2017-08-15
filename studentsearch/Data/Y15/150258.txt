@@ -1,0 +1,14 @@
+Roll No - 150258
+Name - GOURAV  PATIDAR
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL2, 268
+E-mail - gouravp@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150258_0.jpg
+																	

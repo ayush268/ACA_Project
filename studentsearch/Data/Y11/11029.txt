@@ -1,0 +1,14 @@
+Roll No - 11029
+Name - ABHISHEK KUMAR SINGH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, B-315
+E-mail - kabhi@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11029_0.jpg
+																	

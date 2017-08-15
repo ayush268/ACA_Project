@@ -1,0 +1,14 @@
+Roll No - 13078
+Name - ALISTAIR  LEWIS
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL5, D-114
+E-mail - alistair@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13078_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150657
+Name - SHAILENDRA  KUMAR
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 225
+E-mail - mshail@iitk.ac.in
+Blood Group - AB+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150657_0.jpg
+																	

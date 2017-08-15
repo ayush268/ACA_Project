@@ -1,0 +1,14 @@
+Roll No - 14111052
+Name - Yatish  Chaturvedi
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - ACES
+E-mail - yatishc@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14111052_0.jpg
+																	

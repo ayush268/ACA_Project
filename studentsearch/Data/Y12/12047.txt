@@ -1,0 +1,14 @@
+Roll No - 12047
+Name - ADITYA  PARMAR
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL9, F-219
+E-mail - aparmar@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12047_0.jpg
+																	

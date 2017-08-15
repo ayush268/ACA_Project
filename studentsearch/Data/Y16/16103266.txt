@@ -1,0 +1,14 @@
+Roll No - 16103266
+Name - KAJAL  TARENIA
+Gender - Female
+Dept. - CIVIL ENGG.
+Program - PhD
+Address - GH, F-106
+E-mail - kajal@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103266_0.jpg
+																	

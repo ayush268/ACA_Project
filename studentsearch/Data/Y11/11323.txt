@@ -1,0 +1,14 @@
+Roll No - 11323
+Name - ISHAN  PRASHANT
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, H-302
+E-mail - ishanpra@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11323_0.jpg
+																	

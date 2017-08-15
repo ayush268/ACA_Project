@@ -1,0 +1,14 @@
+Roll No - 12277
+Name - GURJYOT SINGH SETHI
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, C-222
+E-mail - gsethi@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12277_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 15104070
+Name - Akhilesh  Chaudhary
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, C-320
+E-mail - akki@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104070_0.jpg
+																	

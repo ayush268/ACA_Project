@@ -1,0 +1,14 @@
+Roll No - 12290
+Name - HARSHIT  RATHORE
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL1, G-305
+E-mail - harschm@iitk.ac.in
+Blood Group - B-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12290_0.jpg
+																	

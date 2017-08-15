@@ -1,0 +1,14 @@
+Roll No - 12341
+Name - KAPIL KUMAR VERMA
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, D-304
+E-mail - kpkapil@iitk.ac.in
+Blood Group - AB+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12341_0.jpg
+																	

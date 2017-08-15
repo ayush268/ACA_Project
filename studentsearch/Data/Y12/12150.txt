@@ -1,0 +1,14 @@
+Roll No - 12150
+Name - ARADHANA  SINGH
+Gender - Female
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL6, GHTA-513
+E-mail - aradhana@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12150_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11772
+Name - UDIT  PUSHKAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, G-105
+E-mail - uditp@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11772_0.jpg
+																	

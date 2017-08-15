@@ -1,0 +1,14 @@
+Roll No - 12185
+Name - AYUSH SEKHARI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, G-119
+E-mail - ayusek@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12185_0.jpg
+																	

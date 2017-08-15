@@ -1,0 +1,14 @@
+Roll No - 14104178
+Name - SRUJAN TEJA THOMDAPU
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, A-203
+E-mail - srujant@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104178_0.jpg
+																	

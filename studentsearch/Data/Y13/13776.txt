@@ -1,0 +1,14 @@
+Roll No - 13776
+Name - VATSALYA  KUMAR
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, G-104
+E-mail - vatsalya@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13776_0.jpg
+																	

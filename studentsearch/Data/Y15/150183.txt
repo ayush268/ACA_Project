@@ -1,0 +1,14 @@
+Roll No - 150183
+Name - BHARAT  VARSHNEY
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL5, C-114
+E-mail - vbharat@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150183_0.jpg
+																	

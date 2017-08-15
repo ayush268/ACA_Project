@@ -1,0 +1,14 @@
+Roll No - 14118
+Name - ANURAG  BAHETRA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, I-106
+E-mail - abahetra@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14118_0.jpg
+																	

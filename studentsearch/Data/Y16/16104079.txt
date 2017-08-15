@@ -1,0 +1,14 @@
+Roll No - 16104079
+Name - SAURABH KUMAR AGRAWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, C-407
+E-mail - sagrawal@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104079_0.jpg
+																	

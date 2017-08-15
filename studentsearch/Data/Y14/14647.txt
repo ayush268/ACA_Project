@@ -1,0 +1,14 @@
+Roll No - 14647
+Name - SHIKHER  VERMA
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL5, A-215
+E-mail - shikher@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14647_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11649
+Name - SANYAM  MADAAN
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, A224
+E-mail - msanyam@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11649_0.jpg
+																	

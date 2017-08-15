@@ -1,0 +1,14 @@
+Roll No - 15101002
+Name - ABHILASH SHIVKUMAR KSHTRIYA
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - MTech
+Address - HALL7, D-209
+E-mail - tirumala@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15101002_0.jpg
+																	

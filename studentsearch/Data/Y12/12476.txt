@@ -1,0 +1,14 @@
+Roll No - 12476
+Name - PIKUL  TAYUNG
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL12, D-108
+E-mail - pikul@iitk.ac.in
+Blood Group - O+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12476_0.jpg
+																	

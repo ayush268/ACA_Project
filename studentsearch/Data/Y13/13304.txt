@@ -1,0 +1,14 @@
+Roll No - 13304
+Name - HIMANSHU  KHANDELWAL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, G-211
+E-mail - himankh@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13304_0.jpg
+																	

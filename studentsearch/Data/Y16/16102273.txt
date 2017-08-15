@@ -1,0 +1,14 @@
+Roll No - 16102273
+Name - PUNEET KUMAR CHAUDHARY
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - PhD
+Address - HALL7, H-111
+E-mail - puneetk@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16102273_0.jpg
+																	

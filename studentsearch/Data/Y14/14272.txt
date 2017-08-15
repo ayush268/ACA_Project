@@ -1,0 +1,14 @@
+Roll No - 14272
+Name - HIMANSHU  SOLANKI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL3, 303
+E-mail - solanki@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14272_0.jpg
+																	

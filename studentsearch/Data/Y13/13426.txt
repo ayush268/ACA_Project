@@ -1,0 +1,14 @@
+Roll No - 13426
+Name - NAVEEN  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, G-304
+E-mail - naveenku@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13426_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11511
+Name - PRANAV  BHARGAVA
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, G207
+E-mail - pranavb@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11511_0.jpg
+																	

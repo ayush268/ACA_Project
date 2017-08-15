@@ -1,0 +1,15 @@
+Roll No - 12280
+Name - HARDIK  SONI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, D-324
+E-mail - hardiks@iitk.ac.in
+Blood Group - Not
+Available
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12280_0.jpg
+																	

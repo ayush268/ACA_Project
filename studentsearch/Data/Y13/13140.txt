@@ -1,0 +1,14 @@
+Roll No - 13140
+Name - ARINDAM  RAJ
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, A-214
+E-mail - arinraj@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13140_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11675
+Name - SHASHANK  DIXENA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, A-314
+E-mail - shdixena@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11675_0.jpg
+																	

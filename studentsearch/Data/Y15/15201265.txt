@@ -1,0 +1,14 @@
+Roll No - 15201265
+Name - VIVEK  KHARE
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - PhD
+Address - HALL8, A-217
+E-mail - vivekkh@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15201265_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 14418
+Name - NAYAN  DESHMUKH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL3, 146
+E-mail - ndesh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14418_0.jpg
+																	

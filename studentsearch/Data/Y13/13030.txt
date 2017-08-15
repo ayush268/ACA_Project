@@ -1,0 +1,14 @@
+Roll No - 13030
+Name - ABHISHEK  KUMAR
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL9, F-304
+E-mail - kabhish@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13030_0.jpg
+																	

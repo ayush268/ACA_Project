@@ -1,0 +1,14 @@
+Roll No - 150076
+Name - AKSHAY  AGARWAL
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALLX, C-348
+E-mail - agarwala@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150076_0.jpg
+																	

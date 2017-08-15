@@ -1,0 +1,14 @@
+Roll No - 14200
+Name - CHIRAG  DAMOR
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL2, 316
+E-mail - chiragd@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14200_0.jpg
+																	

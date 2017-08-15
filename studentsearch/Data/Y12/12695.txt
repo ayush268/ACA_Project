@@ -1,0 +1,14 @@
+Roll No - 12695
+Name - SHUBHAM  JAIN
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, G-217
+E-mail - shubhamj@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12695_0.jpg
+																	

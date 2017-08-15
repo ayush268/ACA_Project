@@ -1,0 +1,14 @@
+Roll No - 11322
+Name - ISHAN  DAROLIA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, F-220
+E-mail - idarolia@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11322_0.jpg
+																	

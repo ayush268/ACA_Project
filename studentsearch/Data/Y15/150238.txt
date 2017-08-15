@@ -1,0 +1,14 @@
+Roll No - 150238
+Name - DIVYANSH  SINGHVI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 102
+E-mail - dsinghvi@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150238_0.jpg
+																	

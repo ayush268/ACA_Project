@@ -1,0 +1,14 @@
+Roll No - 11175
+Name - AVINASH  YADAV
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, H-216
+E-mail - avinashy@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11175_0.jpg
+																	

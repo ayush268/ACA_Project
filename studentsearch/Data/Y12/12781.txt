@@ -1,0 +1,14 @@
+Roll No - 12781
+Name - VAIBHAV  GUPTA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, F-322
+E-mail - vaigupta@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12781_0.jpg
+																	

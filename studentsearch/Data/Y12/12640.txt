@@ -1,0 +1,14 @@
+Roll No - 12640
+Name - SAURAV  SHEKHAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, B-211
+E-mail - sshekh@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12640_0.jpg
+																	

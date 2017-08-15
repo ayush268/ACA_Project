@@ -1,0 +1,14 @@
+Roll No - 11611
+Name - ROHAN  SHARMA
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, B-102
+E-mail - rohansh@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11611_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11830
+Name - YASH  THAKUR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL5, E-310
+E-mail - yasht@iitk.ac.in
+Blood Group - O+
+Category - GP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11830_0.jpg
+																	

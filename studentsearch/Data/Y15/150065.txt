@@ -1,0 +1,14 @@
+Roll No - 150065
+Name - AJAY RAJ CHOUDHARY
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL2, 218
+E-mail - rajajay@iitk.ac.in
+Blood Group - B-
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150065_0.jpg
+																	

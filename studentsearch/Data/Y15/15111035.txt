@@ -1,0 +1,14 @@
+Roll No - 15111035
+Name - RISHABH  SINGH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL8, C-203
+E-mail - rishabhs@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15111035_0.jpg
+																	

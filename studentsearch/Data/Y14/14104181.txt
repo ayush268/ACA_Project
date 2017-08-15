@@ -1,0 +1,14 @@
+Roll No - 14104181
+Name - VAIBHAV  KESRI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, C-215
+E-mail - vaibhavk@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104181_0.jpg
+																	

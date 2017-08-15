@@ -1,0 +1,14 @@
+Roll No - 11773
+Name - HARSHAL SANDESH UKE
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, B-212
+E-mail - hsandesh@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11773_0.jpg
+																	

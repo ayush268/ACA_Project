@@ -1,0 +1,14 @@
+Roll No - 15111009
+Name - AMIT  NAGARKOTI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL4, E-107
+E-mail - amitn@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15111009_0.jpg
+																	

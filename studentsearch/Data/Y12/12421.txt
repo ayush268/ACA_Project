@@ -1,0 +1,14 @@
+Roll No - 12421
+Name - MONDIVAGU NANDA KISHOR
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL1, A-110
+E-mail - mknanda@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12421_0.jpg
+																	

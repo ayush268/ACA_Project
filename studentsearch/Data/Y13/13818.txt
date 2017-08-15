@@ -1,0 +1,14 @@
+Roll No - 13818
+Name - Devesh  Kumar
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, E-218
+E-mail - deveshk@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13818_0.jpg
+																	

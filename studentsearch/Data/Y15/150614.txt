@@ -1,0 +1,14 @@
+Roll No - 150614
+Name - SAHIL  BANSAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 229
+E-mail - bsahil@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150614_0.jpg
+																	

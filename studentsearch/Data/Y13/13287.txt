@@ -1,0 +1,14 @@
+Roll No - 13287
+Name - HARMANJEET  SINGH
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - RA, 102B
+E-mail - harmanjs@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13287_0.jpg
+																	

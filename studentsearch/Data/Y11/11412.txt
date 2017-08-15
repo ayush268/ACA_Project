@@ -1,0 +1,14 @@
+Roll No - 11412
+Name - MANU SETH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, A-101
+E-mail - manuseth@iitk.ac.in
+Blood Group - O-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11412_0.jpg
+																	

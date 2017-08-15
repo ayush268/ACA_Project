@@ -1,0 +1,14 @@
+Roll No - 13397
+Name - MAYANK  GARG
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, F-218
+E-mail - mayankgr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13397_0.jpg
+																	

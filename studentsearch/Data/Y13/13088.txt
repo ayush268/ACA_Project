@@ -1,0 +1,14 @@
+Roll No - 13088
+Name - AMARTYA  GHOSH
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, E-314
+E-mail - amartya@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13088_0.jpg
+																	

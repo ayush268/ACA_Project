@@ -1,0 +1,14 @@
+Roll No - 16103052
+Name - PARIKSHIT  SHARMA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALLXI, A-435
+E-mail - parikshi@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103052_0.jpg
+																	

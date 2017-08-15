@@ -1,0 +1,14 @@
+Roll No - 14433
+Name - NISHIT  ASNANI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL3, 171
+E-mail - nishit@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14433_0.jpg
+																	

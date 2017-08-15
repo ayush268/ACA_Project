@@ -1,0 +1,14 @@
+Roll No - 11042
+Name - ADITYA  TANDON
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL9, A-212
+E-mail - adityat@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11042_0.jpg
+																	

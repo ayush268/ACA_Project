@@ -1,0 +1,14 @@
+Roll No - 12368
+Name - KUMAR  GAURAV
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, E-214
+E-mail - krgaurav@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12368_0.jpg
+																	

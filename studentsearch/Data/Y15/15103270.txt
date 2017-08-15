@@ -1,0 +1,14 @@
+Roll No - 15103270
+Name - MANJUR  ALAM
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - PhD
+Address - HALL8, H-118
+E-mail - manjur@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15103270_0.jpg
+																	

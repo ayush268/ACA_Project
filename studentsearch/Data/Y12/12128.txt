@@ -1,0 +1,14 @@
+Roll No - 12128
+Name - ANKIT  SINGH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, F-306
+E-mail - ankitsin@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12128_0.jpg
+																	

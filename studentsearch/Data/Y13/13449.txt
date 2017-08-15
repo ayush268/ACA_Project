@@ -1,0 +1,14 @@
+Roll No - 13449
+Name - NISHANT  RAI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, F-311
+E-mail - nishantr@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13449_0.jpg
+																	

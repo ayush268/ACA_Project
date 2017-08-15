@@ -1,0 +1,14 @@
+Roll No - 13100
+Name - AMIT KUMAR SAHU
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, B-202
+E-mail - amitsk@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13100_0.jpg
+																	

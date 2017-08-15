@@ -1,0 +1,14 @@
+Roll No - 13604
+Name - SAKSHI  CHOUKSE
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - GH, GHTA-508
+E-mail - sakshic@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13604_0.jpg
+																	

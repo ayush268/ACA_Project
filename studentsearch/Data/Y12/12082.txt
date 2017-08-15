@@ -1,0 +1,14 @@
+Roll No - 12082
+Name - AMAN  ANAND
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, C-437
+E-mail - amanan@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12082_0.jpg
+																	

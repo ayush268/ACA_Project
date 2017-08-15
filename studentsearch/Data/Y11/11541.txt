@@ -1,0 +1,14 @@
+Roll No - 11541
+Name - PRITHVI  SHARMA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, A-313
+E-mail - prithvis@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11541_0.jpg
+																	

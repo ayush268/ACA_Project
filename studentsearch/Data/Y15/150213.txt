@@ -1,0 +1,14 @@
+Roll No - 150213
+Name - DEEPAK  BHATI
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL2, 128
+E-mail - deepakb@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150213_0.jpg
+																	

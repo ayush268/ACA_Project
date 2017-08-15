@@ -1,0 +1,15 @@
+Roll No - 12479
+Name - PIYUSH KUMAR GUPTA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, D-107
+E-mail - piyushk@iitk.ac.in
+Blood Group - Not
+Available
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12479_0.jpg
+																	

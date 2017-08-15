@@ -1,0 +1,14 @@
+Roll No - 13695
+Name - SIDDHARTH  GUPTA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, E-107
+E-mail - sidgupta@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13695_0.jpg
+																	

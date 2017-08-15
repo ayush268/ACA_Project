@@ -1,0 +1,14 @@
+Roll No - 15205272
+Name - SAURABH  GUPTA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - PhD
+Address - DAY, CPWD
+E-mail - saugupta@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15205272_0.jpg
+																	

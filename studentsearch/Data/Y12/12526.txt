@@ -1,0 +1,14 @@
+Roll No - 12526
+Name - RACHIT  BHARDWAJ
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, C-112
+E-mail - rachitb@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12526_0.jpg
+																	

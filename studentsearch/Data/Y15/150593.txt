@@ -1,0 +1,17 @@
+Roll No - 150593
+Name - ROHIT GUPTA
+21
+01
+1998
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, D-107
+E-mail - rgupta@iitk.ac.in
+Blood Group - AB+
+Category - GP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150593_0.jpg
+																	

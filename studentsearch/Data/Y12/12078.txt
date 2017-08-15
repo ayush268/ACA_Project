@@ -1,0 +1,14 @@
+Roll No - 12078
+Name - ALKESH KUMAR SINHA
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D-218
+E-mail - alkesh@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12078_0.jpg
+																	

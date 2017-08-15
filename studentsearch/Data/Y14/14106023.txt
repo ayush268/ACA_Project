@@ -1,0 +1,14 @@
+Roll No - 14106023
+Name - SURAJ  CHANDRA
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - MTech
+Address - HALLX, C-333
+E-mail - surajc@iitk.ac.in
+Blood Group - AB+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14106023_0.jpg
+																	

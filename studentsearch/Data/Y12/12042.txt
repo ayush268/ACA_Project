@@ -1,0 +1,14 @@
+Roll No - 12042
+Name - ADIL  SABIH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, E-308
+E-mail - adil@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12042_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 160743
+Name - TANMAY  SINGHAL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL3, 239
+E-mail - tanmays@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160743_0.jpg
+																	

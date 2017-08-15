@@ -1,0 +1,14 @@
+Roll No - 150322
+Name - KASHISH KUMAR BANSLA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 116
+E-mail - kashishk@iitk.ac.in
+Blood Group - B+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150322_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 160014
+Name - ABHIMANYU  SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALLX, A-319
+E-mail - amanyu@iitk.ac.in
+Blood Group - O+
+Category - null
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160014_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12022
+Name - ABHISHEK  CHOUDHARY
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, B-213
+E-mail - abhishc@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12022_0.jpg
+																	

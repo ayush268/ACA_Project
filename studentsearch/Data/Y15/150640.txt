@@ -1,0 +1,14 @@
+Roll No - 150640
+Name - SARTHAK  MITTAL
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALLX, B-313
+E-mail - sarthmit@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150640_0.jpg
+																	

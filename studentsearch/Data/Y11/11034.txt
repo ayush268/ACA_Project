@@ -1,0 +1,14 @@
+Roll No - 11034
+Name - ADARSH  CHAUHAN
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, E-109
+E-mail - adarshc@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11034_0.jpg
+																	

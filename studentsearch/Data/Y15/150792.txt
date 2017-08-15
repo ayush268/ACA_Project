@@ -1,0 +1,15 @@
+Roll No - 150792
+Name - VARUN  JINDAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 365
+E-mail - vjindal@iitk.ac.in
+Blood Group - Not
+Available
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150792_0.jpg
+																	

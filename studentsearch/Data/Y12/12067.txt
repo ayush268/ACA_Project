@@ -1,0 +1,14 @@
+Roll No - 12067
+Name - AKSHAT BHATNAGAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, C-204
+E-mail - akshatb@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12067_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12186
+Name - AYUSHI  SINGHAL
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - GH, G-302
+E-mail - ayushinu@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12186_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11483
+Name - PANKAJ  GUPTA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, F-220
+E-mail - pankajg@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11483_0.jpg
+																	

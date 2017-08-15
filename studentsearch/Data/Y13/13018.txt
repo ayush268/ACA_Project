@@ -1,0 +1,14 @@
+Roll No - 13018
+Name - ABHIMANYU  ARYA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, G-302
+E-mail - aabhiman@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13018_0.jpg
+																	

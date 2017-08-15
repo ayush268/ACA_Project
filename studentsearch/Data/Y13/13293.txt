@@ -1,0 +1,14 @@
+Roll No - 13293
+Name - HARSH VARDHAN NARAYAN SINGH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, E-114
+E-mail - harshvns@iitk.ac.in
+Blood Group - A+
+Category - GP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13293_0.jpg
+																	

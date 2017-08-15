@@ -1,0 +1,14 @@
+Roll No - 15114265
+Name - SOMEN  DEY
+Gender - Male
+Dept. - IND. & MANAGEMENT ENGG.
+Program - PhD
+Address - HALL7, B-209
+E-mail - somen@iitk.ac.in
+Blood Group - B+
+Category - null
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15114265_0.jpg
+																	

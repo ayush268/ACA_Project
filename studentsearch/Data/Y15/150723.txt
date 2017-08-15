@@ -1,0 +1,14 @@
+Roll No - 150723
+Name - SOMESHWAR  JAIN
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALLX, A-112
+E-mail - somjain@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150723_0.jpg
+																	

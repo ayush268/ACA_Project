@@ -1,0 +1,16 @@
+Roll No - 14894
+Name - MANOJ  KUMAR
+Gender - Male
+Dept. - MATHEMATICS
+Program - MSc
+2
+yr
+Address - HALLXI, C-409
+E-mail - myadav@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14894_0.jpg
+																	

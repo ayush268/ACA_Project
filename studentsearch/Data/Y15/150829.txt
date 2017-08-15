@@ -1,0 +1,14 @@
+Roll No - 150829
+Name - WAGHMARE VISHAL SURESH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL3, 344
+E-mail - svishalw@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150829_0.jpg
+																	

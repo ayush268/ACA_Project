@@ -1,0 +1,14 @@
+Roll No - 160116
+Name - ANIVESH  SAHU
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL5, D-207
+E-mail - aniveshs@iitk.ac.in
+Blood Group - O+
+Category - ON
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160116_0.jpg
+																	

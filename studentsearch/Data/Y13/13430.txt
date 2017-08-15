@@ -1,0 +1,14 @@
+Roll No - 13430
+Name - NICKU  NITISH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, B-101
+E-mail - nicku@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13430_0.jpg
+																	

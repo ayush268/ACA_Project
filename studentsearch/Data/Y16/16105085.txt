@@ -1,0 +1,17 @@
+Roll No - 16105085
+Name - S
+S
+G
+SATISH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, C-225
+E-mail - sivakoti@iitk.ac.in
+Blood Group - A-
+Category - null
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105085_0.jpg
+																	

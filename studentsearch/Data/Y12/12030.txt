@@ -1,0 +1,14 @@
+Roll No - 12030
+Name - ABHISHEK  RAHI
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, D-210
+E-mail - abhirahi@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12030_0.jpg
+																	

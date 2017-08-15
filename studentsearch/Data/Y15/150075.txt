@@ -1,0 +1,14 @@
+Roll No - 150075
+Name - AKSHAT  JINDAL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, C-402
+E-mail - akshatj@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150075_0.jpg
+																	

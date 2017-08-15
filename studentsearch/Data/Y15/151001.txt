@@ -1,0 +1,16 @@
+Roll No - 151001
+Name - ABHISHEK  BANERJEE
+Gender - Male
+Dept. - CHEMISTRY
+Program - MSc
+2
+yr
+Address - HALLXI, C-203
+E-mail - abbaner@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/151001_0.jpg
+																	

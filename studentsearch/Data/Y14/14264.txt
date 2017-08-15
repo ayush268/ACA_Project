@@ -1,0 +1,14 @@
+Roll No - 14264
+Name - HARSH  PALIWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALLX, C-225
+E-mail - hpaliwal@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14264_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 14672
+Name - SHUBHAM  BEOHAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALLX, B-232
+E-mail - bshubham@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14672_0.jpg
+																	

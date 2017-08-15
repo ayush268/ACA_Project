@@ -1,0 +1,14 @@
+Roll No - 14019
+Name - ABHISHEK  GOYAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 225
+E-mail - abgoyal@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14019_0.jpg
+																	

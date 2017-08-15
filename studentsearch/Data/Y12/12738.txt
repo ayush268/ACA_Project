@@ -1,0 +1,14 @@
+Roll No - 12738
+Name - SUNIL  CHAUDHARY
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, C-316
+E-mail - suneelc@iitk.ac.in
+Blood Group - AB+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12738_0.jpg
+																	

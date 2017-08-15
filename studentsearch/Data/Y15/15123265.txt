@@ -1,0 +1,14 @@
+Roll No - 15123265
+Name - SAQUIB  ABDULLAH
+Gender - Male
+Dept. - EARTH SCIENCES
+Program - PhD
+Address - HALL8, G-207
+E-mail - saquib@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15123265_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 15204269
+Name - GAURAV  KHARE
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL7, G-211
+E-mail - gkhare@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15204269_0.jpg
+																	

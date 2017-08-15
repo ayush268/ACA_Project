@@ -1,0 +1,14 @@
+Roll No - 13167
+Name - ASIM  UNMESH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, B-219
+E-mail - aunmesh@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13167_0.jpg
+																	

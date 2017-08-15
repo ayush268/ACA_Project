@@ -1,0 +1,14 @@
+Roll No - 13347
+Name - KESHAW  SINGH
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, A-316
+E-mail - skeshaw@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13347_0.jpg
+																	

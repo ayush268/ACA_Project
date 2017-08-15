@@ -1,0 +1,14 @@
+Roll No - 14102266
+Name - LAKHAN  LAL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - PhD
+Address - HALLXI, B-407
+E-mail - lakhanl@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14102266_0.jpg
+																	

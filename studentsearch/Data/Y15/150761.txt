@@ -1,0 +1,14 @@
+Roll No - 150761
+Name - TANUJ
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL3, 348
+E-mail - tanujg@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150761_0.jpg
+																	

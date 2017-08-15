@@ -1,0 +1,14 @@
+Roll No - 160063
+Name - AKARSH  GOYAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, B-347
+E-mail - akarshg@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160063_0.jpg
+																	

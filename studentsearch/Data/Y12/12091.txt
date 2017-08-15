@@ -1,0 +1,14 @@
+Roll No - 12091
+Name - AMAR  CHAND
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, G-308
+E-mail - amarchan@iitk.ac.in
+Blood Group - O-
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12091_0.jpg
+																	

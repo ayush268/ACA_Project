@@ -1,0 +1,14 @@
+Roll No - 14701
+Name - SOMESH  KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALLX, A-312
+E-mail - ksomesh@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14701_0.jpg
+																	

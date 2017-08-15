@@ -1,0 +1,14 @@
+Roll No - 16111033
+Name - Anurag  Semwal
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL12, F-109
+E-mail - anuragse@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111033_0.jpg
+																	

@@ -1,0 +1,13 @@
+Roll No - 
+Name - 
+Gender - Male
+Dept. - 
+Program - 
+Address - 
+E-mail - 
+Blood Group - 
+Category - 
+
+
+
+Image - 

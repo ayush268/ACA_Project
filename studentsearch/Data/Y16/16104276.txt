@@ -1,0 +1,14 @@
+Roll No - 16104276
+Name - PANKAJ KUMAR MISHRA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL7, H-315
+E-mail - pkmishra@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104276_0.jpg
+																	

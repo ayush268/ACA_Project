@@ -1,0 +1,14 @@
+Roll No - 14103004
+Name - ALOK  MOHANTY
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - ACES, 2095
+E-mail - malok@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14103004_0.jpg
+																	

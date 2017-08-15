@@ -1,0 +1,14 @@
+Roll No - 16101265
+Name - EMAYAVARMAN
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - PhD
+Address - HALL8, B-207
+E-mail - varman@iitk.ac.in
+Blood Group - AB+
+Category - null
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16101265_0.jpg
+																	

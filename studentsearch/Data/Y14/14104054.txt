@@ -1,0 +1,14 @@
+Roll No - 14104054
+Name - JYOTI  ROAT
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL6, GHTA-308
+E-mail - jroat@iitk.ac.in
+Blood Group - A+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104054_0.jpg
+																	

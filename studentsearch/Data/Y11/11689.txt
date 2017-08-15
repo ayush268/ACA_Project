@@ -1,0 +1,14 @@
+Roll No - 11689
+Name - SHIVENDU  BHUSHAN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, C-205
+E-mail - shivendu@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11689_0.jpg
+																	

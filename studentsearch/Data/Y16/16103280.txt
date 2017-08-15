@@ -1,0 +1,14 @@
+Roll No - 16103280
+Name - SHAHRUKH  AHMAD
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - PhD
+Address - HALL8, E-315
+E-mail - shahmad@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103280_0.jpg
+																	

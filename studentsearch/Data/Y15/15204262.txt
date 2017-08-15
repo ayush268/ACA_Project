@@ -1,0 +1,14 @@
+Roll No - 15204262
+Name - ANKIT  YADAV
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL7, F-112
+E-mail - ankity@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15204262_0.jpg
+																	

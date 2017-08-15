@@ -1,0 +1,16 @@
+Roll No - 14930
+Name - GAURAV  AGARWAL
+Gender - Male
+Dept. - STATISTICS
+Program - MSc
+2
+yr
+Address - HALL7, J-113
+E-mail - gauravag@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14930_0.jpg
+																	

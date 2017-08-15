@@ -1,0 +1,14 @@
+Roll No - 12202
+Name - BOLLI SHYAM KUMAR
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL1, B-317
+E-mail - bshyam@iitk.ac.in
+Blood Group - A+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12202_0.jpg
+																	

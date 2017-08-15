@@ -1,0 +1,14 @@
+Roll No - 14546
+Name - RHIC  CHOWDHURY
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 247
+E-mail - rhic@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14546_0.jpg
+																	

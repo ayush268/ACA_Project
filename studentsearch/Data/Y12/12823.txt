@@ -1,0 +1,14 @@
+Roll No - 12823
+Name - VISHAL SINGH ARYA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, E-118
+E-mail - vsarya@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12823_0.jpg
+																	

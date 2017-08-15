@@ -1,0 +1,14 @@
+Roll No - 12148
+Name - ANUSHA  Chowdhury
+Gender - Female
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - GH, D-314
+E-mail - anushac@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12148_0.jpg
+																	

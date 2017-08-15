@@ -1,0 +1,14 @@
+Roll No - 150081
+Name - AKSHIT  SRIVASTAVA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, A-337
+E-mail - akshits@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150081_0.jpg
+																	

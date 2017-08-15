@@ -1,0 +1,14 @@
+Roll No - 14804
+Name - VIMAL KUMAR MEENA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, H-103
+E-mail - vimalk@iitk.ac.in
+Blood Group - AB+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14804_0.jpg
+																	

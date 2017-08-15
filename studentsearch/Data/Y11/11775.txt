@@ -1,0 +1,14 @@
+Roll No - 11775
+Name - UMANG  SHUKLA
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, C206
+E-mail - ushukla@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11775_0.jpg
+																	

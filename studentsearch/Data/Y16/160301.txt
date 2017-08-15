@@ -1,0 +1,14 @@
+Roll No - 160301
+Name - HUNAR PREET SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 233
+E-mail - hunar@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160301_0.jpg
+																	

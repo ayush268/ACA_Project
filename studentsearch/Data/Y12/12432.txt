@@ -1,0 +1,14 @@
+Roll No - 12432
+Name - NAMO NARAYAN MEENA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL12, D-607
+E-mail - namon@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12432_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150820
+Name - VISHAL  SRIVASTAVA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, A-304
+E-mail - vishalsr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150820_0.jpg
+																	

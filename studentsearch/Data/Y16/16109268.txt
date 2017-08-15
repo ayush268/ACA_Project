@@ -1,0 +1,14 @@
+Roll No - 16109268
+Name - HUKAM  SINGH
+Gender - Male
+Dept. - PHYSICS
+Program - PhD
+Address - HALL7, C-111
+E-mail - shukam@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16109268_0.jpg
+																	

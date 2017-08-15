@@ -1,0 +1,14 @@
+Roll No - 13169
+Name - ATUL  BISHNOI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, G-310
+E-mail - atulb@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13169_0.jpg
+																	

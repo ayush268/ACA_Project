@@ -1,0 +1,14 @@
+Roll No - 150596
+Name - ROHIT KUMAR BOSE
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, B-307
+E-mail - rohitkb@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150596_0.jpg
+																	

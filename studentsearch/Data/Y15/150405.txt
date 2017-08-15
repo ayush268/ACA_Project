@@ -1,0 +1,14 @@
+Roll No - 150405
+Name - MEHUL  SINGH
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL3, 248
+E-mail - mehul@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150405_0.jpg
+																	

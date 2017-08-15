@@ -1,0 +1,14 @@
+Roll No - 14111002
+Name - ABHISHEK HEMANTKUMAR MAHARANA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL7, H-208
+E-mail - abhimaha@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14111002_0.jpg
+																	

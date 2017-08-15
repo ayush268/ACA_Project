@@ -1,0 +1,14 @@
+Roll No - 150760
+Name - TANMAY  SETH
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL2, 178
+E-mail - tseth@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150760_0.jpg
+																	

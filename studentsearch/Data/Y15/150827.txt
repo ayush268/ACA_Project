@@ -1,0 +1,15 @@
+Roll No - 150827
+Name - VYSHAKH
+P
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL5, C-106
+E-mail - vyshakh@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150827_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 14303
+Name - KAPIL  VERMA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 371
+E-mail - kapilve@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14303_0.jpg
+																	

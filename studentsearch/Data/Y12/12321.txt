@@ -1,0 +1,14 @@
+Roll No - 12321
+Name - JAY RAJESHBHAI MEHTA
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D-213
+E-mail - mehtajay@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12321_0.jpg
+																	

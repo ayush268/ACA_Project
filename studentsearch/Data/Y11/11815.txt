@@ -1,0 +1,14 @@
+Roll No - 11815
+Name - VISHWAS JAIN
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, G-314
+E-mail - vjain@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11815_0.jpg
+																	

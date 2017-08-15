@@ -1,0 +1,14 @@
+Roll No - 12072
+Name - AKSHAY  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, E-107
+E-mail - akshakr@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12072_0.jpg
+																	

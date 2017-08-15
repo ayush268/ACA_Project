@@ -1,0 +1,14 @@
+Roll No - 16104286
+Name - TEENA  SHARMA
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL6, A-209
+E-mail - teenashr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104286_0.jpg
+																	

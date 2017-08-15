@@ -1,0 +1,14 @@
+Roll No - 12241
+Name - DHEERENDRA KUMAR MEHAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, G-306
+E-mail - dheerenm@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12241_0.jpg
+																	

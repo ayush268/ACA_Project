@@ -1,0 +1,14 @@
+Roll No - 14104098
+Name - NITIN KUMAR BARNAWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, C-131
+E-mail - bnitn@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104098_0.jpg
+																	

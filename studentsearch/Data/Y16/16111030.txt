@@ -1,0 +1,14 @@
+Roll No - 16111030
+Name - Ankita  Bishnu
+Gender - Female
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL6, GHTA-612
+E-mail - ankitab@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111030_0.jpg
+																	

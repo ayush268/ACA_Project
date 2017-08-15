@@ -1,0 +1,14 @@
+Roll No - 12401
+Name - MANOJ  KUMAR
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, G-117
+E-mail - cmanoj@iitk.ac.in
+Blood Group - B+
+Category - OP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12401_0.jpg
+																	

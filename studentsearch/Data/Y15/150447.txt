@@ -1,0 +1,14 @@
+Roll No - 150447
+Name - NIKET
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 121
+E-mail - niketkr@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150447_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 14381
+Name - Mohammad  Rafshan
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL5, C-305
+E-mail - rafshan@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14381_0.jpg
+																	

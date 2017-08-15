@@ -1,0 +1,14 @@
+Roll No - 11431
+Name - MOHIT KUMAR GARG
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, H-315
+E-mail - mohitkg@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11431_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 14199
+Name - CHINMAI  GARG
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALLX, B-402
+E-mail - chinmaig@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14199_0.jpg
+																	

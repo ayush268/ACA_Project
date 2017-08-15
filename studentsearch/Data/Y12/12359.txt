@@ -1,0 +1,14 @@
+Roll No - 12359
+Name - Karthik Satya Sai  Korada
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL9, D-211
+E-mail - kkarthik@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12359_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 16104047
+Name - LOHITH  V
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL7, D-314
+E-mail - lohiu@iitk.ac.in
+Blood Group - O+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104047_0.jpg
+																	

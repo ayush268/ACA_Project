@@ -1,0 +1,14 @@
+Roll No - 14008
+Name - AAYUSH KUMAR SINGH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 167
+E-mail - kaayush@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14008_0.jpg
+																	

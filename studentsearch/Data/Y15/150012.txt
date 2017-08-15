@@ -1,0 +1,14 @@
+Roll No - 150012
+Name - ABHIJEET  SINGH
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, A-420
+E-mail - nandabhi@iitk.ac.in
+Blood Group - AB+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150012_0.jpg
+																	

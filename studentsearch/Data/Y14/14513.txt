@@ -1,0 +1,14 @@
+Roll No - 14513
+Name - RAGHAV  KUMAR
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, B-434
+E-mail - raghavk@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14513_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13099
+Name - AMIT KUMAR RANA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, F-215
+E-mail - amitrana@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13099_0.jpg
+																	

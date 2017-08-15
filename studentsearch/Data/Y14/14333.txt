@@ -1,0 +1,14 @@
+Roll No - 14333
+Name - KSHITIZ  SUMAN
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, H-308
+E-mail - kshitizs@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14333_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11769
+Name - TEJAVATH  SRIRAM
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, D-303
+E-mail - tsriram@iitk.ac.in
+Blood Group - B+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11769_0.jpg
+																	

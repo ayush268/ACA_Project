@@ -1,0 +1,14 @@
+Roll No - 14683
+Name - SHUBHAM  PRAKASH
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL3, 217
+E-mail - pshubh@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14683_0.jpg
+																	

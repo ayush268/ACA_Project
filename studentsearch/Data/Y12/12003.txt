@@ -1,0 +1,14 @@
+Roll No - 12003
+Name - AAKASH  GHOSH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, A-115
+E-mail - aakash@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12003_0.jpg
+																	

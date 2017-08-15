@@ -1,0 +1,14 @@
+Roll No - 11168
+Name - ASHUTOSH  KUMAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, A-210
+E-mail - ashukr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11168_0.jpg
+																	

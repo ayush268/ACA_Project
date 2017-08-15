@@ -1,0 +1,14 @@
+Roll No - 13418
+Name - NAKUL  SURANA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, G-201
+E-mail - nakuls@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13418_0.jpg
+																	

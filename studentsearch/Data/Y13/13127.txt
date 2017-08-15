@@ -1,0 +1,14 @@
+Roll No - 13127
+Name - ANOOP  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, H-215
+E-mail - anoopk@iitk.ac.in
+Blood Group - O-
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13127_0.jpg
+																	

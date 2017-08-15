@@ -1,0 +1,14 @@
+Roll No - 150131
+Name - ARIHANT  JAIN
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL3, 246
+E-mail - arihantj@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150131_0.jpg
+																	

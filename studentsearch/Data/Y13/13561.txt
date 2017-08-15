@@ -1,0 +1,14 @@
+Roll No - 13561
+Name - RAYAVARAPU NARASIMHA VISWANADH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, A-306
+E-mail - rnvissu@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13561_0.jpg
+																	

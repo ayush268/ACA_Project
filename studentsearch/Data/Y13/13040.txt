@@ -1,0 +1,14 @@
+Roll No - 13040
+Name - ADITAY  SHAW
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, C-210
+E-mail - ashaw@iitk.ac.in
+Blood Group - B+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13040_0.jpg
+																	

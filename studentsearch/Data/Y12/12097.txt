@@ -1,0 +1,16 @@
+Roll No - 12097
+Name - AMIT KUMAR
+S
+O DS
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, A-323
+E-mail - amitsal@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12097_0.jpg
+																	

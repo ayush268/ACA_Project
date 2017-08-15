@@ -1,0 +1,14 @@
+Roll No - 13423
+Name - NARENDRA KUMAR VIDDA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, D-107
+E-mail - nvidda@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13423_0.jpg
+																	

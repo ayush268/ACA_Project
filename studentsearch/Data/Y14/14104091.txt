@@ -1,0 +1,14 @@
+Roll No - 14104091
+Name - NAVEEN KUMAR OMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, B-429
+E-mail - nkomar@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104091_0.jpg
+																	

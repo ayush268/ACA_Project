@@ -1,0 +1,14 @@
+Roll No - 13437
+Name - NIKHIL  NAYAK
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, C-104
+E-mail - nikhilnk@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13437_0.jpg
+																	

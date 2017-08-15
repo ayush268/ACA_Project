@@ -1,0 +1,14 @@
+Roll No - 150072
+Name - AKASH KUMAR GUPTA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL3, 333
+E-mail - guakash@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150072_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 14812
+Name - VISHAL  MEENA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 339
+E-mail - vishal@iitk.ac.in
+Blood Group - O-
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14812_0.jpg
+																	

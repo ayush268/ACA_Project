@@ -1,0 +1,14 @@
+Roll No - 14104043
+Name - GOPIKRISHNAN  G
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL4, A-313
+E-mail - gopikris@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104043_0.jpg
+																	

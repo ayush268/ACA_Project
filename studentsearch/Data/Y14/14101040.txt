@@ -1,0 +1,14 @@
+Roll No - 14101040
+Name - NITIN THOMAS MURUGAN
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - MTech
+Address - HALL8, B-301
+E-mail - nitintm@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14101040_0.jpg
+																	

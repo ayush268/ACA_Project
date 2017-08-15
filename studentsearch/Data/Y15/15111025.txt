@@ -1,0 +1,15 @@
+Roll No - 15111025
+Name - NIVIA  JATAIN
+Gender - Female
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - GH
+E-mail - 
+Blood Group - Not
+Available
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15111025_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 15111022
+Name - LALCHAND  PANDIA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALLXI, B-348
+E-mail - lalchand@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15111022_0.jpg
+																	

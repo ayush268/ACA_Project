@@ -1,0 +1,14 @@
+Roll No - 11217
+Name - CHETAN  CHAUHAN
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, B-109
+E-mail - chetanc@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11217_0.jpg
+																	

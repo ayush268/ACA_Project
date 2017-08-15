@@ -1,0 +1,14 @@
+Roll No - 14340
+Name - KUMARI  SHILPA
+Gender - Female
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL6, GHTA-406
+E-mail - kumaris@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14340_0.jpg
+																	

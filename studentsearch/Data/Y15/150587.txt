@@ -1,0 +1,14 @@
+Roll No - 150587
+Name - RISHAV  RAJ
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL3, 362
+E-mail - rishraj@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150587_0.jpg
+																	

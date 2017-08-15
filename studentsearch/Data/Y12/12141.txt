@@ -1,0 +1,14 @@
+Roll No - 12141
+Name - ANUJ  TIWARI
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, D-119
+E-mail - anujt@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12141_0.jpg
+																	

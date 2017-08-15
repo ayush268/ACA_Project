@@ -1,0 +1,14 @@
+Roll No - 150519
+Name - PRATHAM KUMAR VERMA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALLX, A-347
+E-mail - prathamv@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150519_0.jpg
+																	

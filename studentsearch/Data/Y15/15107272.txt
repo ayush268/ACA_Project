@@ -1,0 +1,14 @@
+Roll No - 15107272
+Name - NARENDRA  SINGH
+Gender - Male
+Dept. - CHEMISTRY
+Program - PhD
+Address - HALL4, D-210
+E-mail - nrsingh@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15107272_0.jpg
+																	

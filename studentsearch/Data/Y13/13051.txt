@@ -1,0 +1,14 @@
+Roll No - 13051
+Name - AJAJ  AHMED
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL9, F-318
+E-mail - ajaj@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13051_0.jpg
+																	

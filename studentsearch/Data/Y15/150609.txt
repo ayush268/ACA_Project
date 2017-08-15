@@ -1,0 +1,14 @@
+Roll No - 150609
+Name - SAGAR  GOYAL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL2, 204
+E-mail - sagarg@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150609_0.jpg
+																	

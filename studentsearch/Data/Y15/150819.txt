@@ -1,0 +1,14 @@
+Roll No - 150819
+Name - VISHAL SINGH GHUNAWAT
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 348
+E-mail - vishalsg@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150819_0.jpg
+																	

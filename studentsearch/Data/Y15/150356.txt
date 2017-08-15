@@ -1,0 +1,14 @@
+Roll No - 150356
+Name - KUSHAGRA  TIWARI
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL3, 158
+E-mail - kushagra@iitk.ac.in
+Blood Group - O-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150356_0.jpg
+																	

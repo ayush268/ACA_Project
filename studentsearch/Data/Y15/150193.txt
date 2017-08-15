@@ -1,0 +1,14 @@
+Roll No - 150193
+Name - BISHAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, A-344
+E-mail - bishal@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150193_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150617
+Name - SAKET  HARSH
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL3, 254
+E-mail - sharsh@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150617_0.jpg
+																	

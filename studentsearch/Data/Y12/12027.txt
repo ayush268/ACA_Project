@@ -1,0 +1,14 @@
+Roll No - 12027
+Name - ABHISHEK  MALIK
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL9, A-111
+E-mail - amalik@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12027_0.jpg
+																	

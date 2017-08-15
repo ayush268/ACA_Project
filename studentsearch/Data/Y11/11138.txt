@@ -1,0 +1,14 @@
+Roll No - 11138
+Name - ANURAG  KUMAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL12, F-412
+E-mail - kranurag@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11138_0.jpg
+																	

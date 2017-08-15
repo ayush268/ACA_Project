@@ -1,0 +1,14 @@
+Roll No - 12283
+Name - HARSH  FAUJDAR
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, C-108
+E-mail - harshf@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12283_0.jpg
+																	

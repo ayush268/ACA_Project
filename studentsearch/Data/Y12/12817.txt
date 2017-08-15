@@ -1,0 +1,14 @@
+Roll No - 12817
+Name - VIRENDRA KUMAR
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, C-317
+E-mail - kviren@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12817_0.jpg
+																	

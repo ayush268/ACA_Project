@@ -1,0 +1,14 @@
+Roll No - 11009
+Name - ABHAY  MALVIYA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, A-307
+E-mail - abhaymlv@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11009_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13711
+Name - SPARSH
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL9, E-116
+E-mail - sparsh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13711_0.jpg
+																	

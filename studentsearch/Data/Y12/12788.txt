@@ -1,0 +1,14 @@
+Roll No - 12788
+Name - VEMULA SUNEEL CHANDRA REDDY
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL1, B-320
+E-mail - suneel@iitk.ac.in
+Blood Group - B-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12788_0.jpg
+																	

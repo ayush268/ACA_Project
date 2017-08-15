@@ -1,0 +1,14 @@
+Roll No - 13627
+Name - SASWAT KUMAR PANDA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, H-119
+E-mail - saswatkp@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13627_0.jpg
+																	

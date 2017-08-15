@@ -1,0 +1,14 @@
+Roll No - 12315
+Name - JATIN VIKRAM SINGH
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, F-107
+E-mail - jatinvs@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12315_0.jpg
+																	

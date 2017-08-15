@@ -1,0 +1,14 @@
+Roll No - 13275
+Name - GAURAV
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, E-318
+E-mail - sgaurav@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13275_0.jpg
+																	

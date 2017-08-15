@@ -1,0 +1,14 @@
+Roll No - 12438
+Name - NEERAJ  RASTOGI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, G-107
+E-mail - neerajr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12438_0.jpg
+																	

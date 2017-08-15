@@ -1,0 +1,14 @@
+Roll No - 15111003
+Name - ABHISHEK  ROSE
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL8, D-305
+E-mail - abhir@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15111003_0.jpg
+																	

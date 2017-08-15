@@ -1,0 +1,14 @@
+Roll No - 11096
+Name - ANIRUDDHA  BARAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, A308
+E-mail - aniru@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11096_0.jpg
+																	

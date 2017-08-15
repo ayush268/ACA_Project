@@ -1,0 +1,14 @@
+Roll No - 16104002
+Name - ABHISHEK KUMAR SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, C-430
+E-mail - ahbiks@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104002_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 14102035
+Name - SACHIN  CHHIMPA
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - MTech
+Address - HALL8, B-217
+E-mail - sachhi@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14102035_0.jpg
+																	

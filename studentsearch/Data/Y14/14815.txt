@@ -1,0 +1,14 @@
+Roll No - 14815
+Name - VISHRAM  MEENA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL5, E-106
+E-mail - vishram@iitk.ac.in
+Blood Group - AB+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14815_0.jpg
+																	

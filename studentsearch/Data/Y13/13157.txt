@@ -1,0 +1,14 @@
+Roll No - 13157
+Name - ASHISH  PANDEY
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, G-307
+E-mail - pashish@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13157_0.jpg
+																	

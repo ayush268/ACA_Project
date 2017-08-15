@@ -1,0 +1,14 @@
+Roll No - 13288
+Name - HARPREET  SINGH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, E-118
+E-mail - hsinghc@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13288_0.jpg
+																	

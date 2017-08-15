@@ -1,0 +1,14 @@
+Roll No - 150242
+Name - DUSHYANT  KUMAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, C-405
+E-mail - dushyant@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150242_0.jpg
+																	

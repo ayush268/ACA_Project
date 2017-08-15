@@ -1,0 +1,14 @@
+Roll No - 13191
+Name - BABLU  BHOI
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL9, G-206
+E-mail - bablu@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13191_0.jpg
+																	

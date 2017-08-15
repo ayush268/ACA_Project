@@ -1,0 +1,14 @@
+Roll No - 150223
+Name - DEVANG  GOYAL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL3, 354
+E-mail - devang@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150223_0.jpg
+																	

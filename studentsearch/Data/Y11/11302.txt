@@ -1,0 +1,14 @@
+Roll No - 11302
+Name - HIMANSHU  AGARWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, G-312
+E-mail - himagar@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11302_0.jpg
+																	

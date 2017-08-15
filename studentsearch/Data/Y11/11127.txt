@@ -1,0 +1,14 @@
+Roll No - 11127
+Name - ANSHUL  MISHRA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, D319
+E-mail - manshul@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11127_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150227
+Name - DEVENDRA KUMAR CHAUDHARY
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL3, 139
+E-mail - kcdev@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150227_0.jpg
+																	

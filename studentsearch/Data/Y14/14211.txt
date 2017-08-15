@@ -1,0 +1,14 @@
+Roll No - 14211
+Name - DEEPALI  GUPTA
+Gender - Female
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL6, GHTA-409
+E-mail - deepali@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14211_0.jpg
+																	

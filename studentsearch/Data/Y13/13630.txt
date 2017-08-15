@@ -1,0 +1,14 @@
+Roll No - 13630
+Name - SATYAM  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, F-310
+E-mail - satyamk@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13630_0.jpg
+																	

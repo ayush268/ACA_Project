@@ -1,0 +1,14 @@
+Roll No - 14105047
+Name - MOHIT  GOGNA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - ACES, 2076
+E-mail - mohitg@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14105047_0.jpg
+																	

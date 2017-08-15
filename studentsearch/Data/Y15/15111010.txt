@@ -1,0 +1,14 @@
+Roll No - 15111010
+Name - ANKIT  KUMAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALLXI, C-404
+E-mail - ankitk@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15111010_0.jpg
+																	

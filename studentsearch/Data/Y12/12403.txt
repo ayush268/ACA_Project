@@ -1,0 +1,14 @@
+Roll No - 12403
+Name - AKSHAY SUNIL MASARE
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, H-205
+E-mail - amasare@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12403_0.jpg
+																	

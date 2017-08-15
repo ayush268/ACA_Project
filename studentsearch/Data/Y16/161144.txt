@@ -1,0 +1,16 @@
+Roll No - 161144
+Name - NITIN
+Gender - Male
+Dept. - PHYSICS
+Program - MSc
+2
+yr
+Address - HALL12, E-609
+E-mail - nitinkmr@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/161144_0.jpg
+																	

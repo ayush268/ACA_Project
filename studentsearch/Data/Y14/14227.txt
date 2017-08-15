@@ -1,0 +1,14 @@
+Roll No - 14227
+Name - DIVYAT  MAHAJAN
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL3, 365
+E-mail - divyatm@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14227_0.jpg
+																	

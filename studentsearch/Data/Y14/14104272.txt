@@ -1,0 +1,14 @@
+Roll No - 14104272
+Name - NARENDRA KUMAR DHAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL7, E-304
+E-mail - nardhar@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104272_0.jpg
+																	

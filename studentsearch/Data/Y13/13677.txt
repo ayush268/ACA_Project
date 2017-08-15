@@ -1,0 +1,14 @@
+Roll No - 13677
+Name - SHUBHAM  GAJBHIYE
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, C-218
+E-mail - shubhug@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13677_0.jpg
+																	

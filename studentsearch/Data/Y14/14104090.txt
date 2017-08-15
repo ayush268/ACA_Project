@@ -1,0 +1,14 @@
+Roll No - 14104090
+Name - NAVEEN  GUPTA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL8, F-308
+E-mail - navengpt@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104090_0.jpg
+																	

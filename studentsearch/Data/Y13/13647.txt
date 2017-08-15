@@ -1,0 +1,14 @@
+Roll No - 13647
+Name - SHASHANK MOHIT PANDEY
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, D-217
+E-mail - smohitp@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13647_0.jpg
+																	

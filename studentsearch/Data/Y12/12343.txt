@@ -1,0 +1,14 @@
+Roll No - 12343
+Name - KARTIC  SAHU
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, G-211
+E-mail - kartic@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12343_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 15101041
+Name - DEVAL MAHESH PUROHIT
+Gender - Female
+Dept. - AEROSPACE ENGG.
+Program - MTech
+Address - GH, G-208
+E-mail - deval@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15101041_0.jpg
+																	

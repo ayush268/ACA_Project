@@ -1,0 +1,14 @@
+Roll No - 13789
+Name - VIKAS  MARMAT
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, F-209
+E-mail - vmarmat@iitk.ac.in
+Blood Group - O+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13789_0.jpg
+																	

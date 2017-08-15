@@ -1,0 +1,14 @@
+Roll No - 11222
+Name - CHINMAY  NEMA
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, C119
+E-mail - chinmay@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11222_0.jpg
+																	

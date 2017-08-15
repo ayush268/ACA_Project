@@ -1,0 +1,14 @@
+Roll No - 16111023
+Name - SUBHADIP  NANDI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALLXI, B-417
+E-mail - subhadip@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111023_0.jpg
+																	

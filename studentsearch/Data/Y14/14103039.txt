@@ -1,0 +1,14 @@
+Roll No - 14103039
+Name - RAHUL RAO SIDDHARTH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALL4, A-201
+E-mail - rraoo@iitk.ac.in
+Blood Group - AB+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14103039_0.jpg
+																	

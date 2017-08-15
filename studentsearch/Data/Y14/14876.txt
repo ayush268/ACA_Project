@@ -1,0 +1,16 @@
+Roll No - 14876
+Name - AAKASH  JAIN
+Gender - Male
+Dept. - MATHEMATICS
+Program - MSc
+2
+yr
+Address - HALL7, C-207
+E-mail - jaakash@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14876_0.jpg
+																	

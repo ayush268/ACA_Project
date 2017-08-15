@@ -1,0 +1,14 @@
+Roll No - 14749
+Name - TARUN  KUMAR
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL3, 325
+E-mail - ktarun@iitk.ac.in
+Blood Group - O+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14749_0.jpg
+																	

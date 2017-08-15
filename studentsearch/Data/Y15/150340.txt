@@ -1,0 +1,14 @@
+Roll No - 150340
+Name - KSHITIJ  JAISWAL
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, C-348
+E-mail - kjaiswal@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150340_0.jpg
+																	

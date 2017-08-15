@@ -1,0 +1,14 @@
+Roll No - 14080
+Name - AMEYA RAJGOPAL LOYA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 129
+E-mail - ameya@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14080_0.jpg
+																	

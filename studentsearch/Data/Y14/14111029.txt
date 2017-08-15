@@ -1,0 +1,14 @@
+Roll No - 14111029
+Name - RISHABH DEV SHUKLA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALLXI, C-233
+E-mail - rishdev@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14111029_0.jpg
+																	

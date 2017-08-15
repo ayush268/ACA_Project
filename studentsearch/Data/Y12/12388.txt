@@ -1,0 +1,14 @@
+Roll No - 12388
+Name - MADHAV RANCHHODBHAI SAKARIYA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, F-222
+E-mail - madhavs@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12388_0.jpg
+																	

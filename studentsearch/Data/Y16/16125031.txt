@@ -1,0 +1,14 @@
+Roll No - 16125031
+Name - R  VISHNURAJ
+Gender - Male
+Dept. - IND. & MANAGEMENT ENGG.
+Program - MBA
+Address - HALL7, G-307
+E-mail - rviz@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16125031_0.jpg
+																	

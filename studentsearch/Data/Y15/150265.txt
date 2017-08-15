@@ -1,0 +1,14 @@
+Roll No - 150265
+Name - HARSH  CHITTORA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 319
+E-mail - harshcht@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150265_0.jpg
+																	

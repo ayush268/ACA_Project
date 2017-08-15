@@ -1,0 +1,14 @@
+Roll No - 11467
+Name - NIMISH  KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, D-117
+E-mail - nimish@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11467_0.jpg
+																	

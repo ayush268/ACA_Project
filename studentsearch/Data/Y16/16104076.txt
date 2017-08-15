@@ -1,0 +1,14 @@
+Roll No - 16104076
+Name - RONAK  JAIN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL8, C-313
+E-mail - ronakj@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104076_0.jpg
+																	

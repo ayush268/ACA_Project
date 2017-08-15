@@ -1,0 +1,14 @@
+Roll No - 12808
+Name - VINAY KUMAR MADDHESHIYA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, E-113
+E-mail - vinaykm@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12808_0.jpg
+																	

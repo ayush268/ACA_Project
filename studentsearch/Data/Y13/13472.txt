@@ -1,0 +1,14 @@
+Roll No - 13472
+Name - PESHAL  AGARWAL
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, G-105
+E-mail - peshal@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13472_0.jpg
+																	

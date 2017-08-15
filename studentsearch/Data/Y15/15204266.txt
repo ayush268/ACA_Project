@@ -1,0 +1,14 @@
+Roll No - 15204266
+Name - BADITA AJAY KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL8, A-309
+E-mail - ajaybadi@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15204266_0.jpg
+																	

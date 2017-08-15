@@ -1,0 +1,14 @@
+Roll No - 12549
+Name - RAJKUMAR  MEENA
+Gender - Male
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - BTech
+Address - HALLX, A-107
+E-mail - rajkm@iitk.ac.in
+Blood Group - O+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12549_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150725
+Name - SONI CHINTAN PRAMOD
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL5, C-201
+E-mail - cpsoni@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150725_0.jpg
+																	

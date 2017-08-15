@@ -1,0 +1,14 @@
+Roll No - 150260
+Name - HAKAM  RAM
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL5, C-209
+E-mail - hakam@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150260_0.jpg
+																	

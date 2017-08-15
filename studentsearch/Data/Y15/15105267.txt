@@ -1,0 +1,14 @@
+Roll No - 15105267
+Name - MANISH  BHENDURA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - PhD
+Address - HALL4, B-301
+E-mail - mann@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15105267_0.jpg
+																	

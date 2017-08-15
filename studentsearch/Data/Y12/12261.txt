@@ -1,0 +1,14 @@
+Roll No - 12261
+Name - GANESWAR  MARDI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, A-111
+E-mail - ganeswar@iitk.ac.in
+Blood Group - A+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12261_0.jpg
+																	

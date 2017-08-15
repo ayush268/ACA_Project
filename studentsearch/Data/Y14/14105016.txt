@@ -1,0 +1,14 @@
+Roll No - 14105016
+Name - Arindam  PAUL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLX, A-126
+E-mail - arinpaul@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14105016_0.jpg
+																	

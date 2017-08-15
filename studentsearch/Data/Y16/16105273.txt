@@ -1,0 +1,14 @@
+Roll No - 16105273
+Name - MAHAVIR  SINGH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - PhD
+Address - HALL4, C-102
+E-mail - mahavir@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105273_0.jpg
+																	

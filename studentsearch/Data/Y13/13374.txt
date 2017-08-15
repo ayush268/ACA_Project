@@ -1,0 +1,14 @@
+Roll No - 13374
+Name - LAVANYA  BATHWAL
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, G-308
+E-mail - lavanyab@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13374_0.jpg
+																	

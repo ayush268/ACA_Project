@@ -1,0 +1,14 @@
+Roll No - 13531
+Name - RAHUL  GUPTA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, F-113
+E-mail - rahgup@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13531_0.jpg
+																	

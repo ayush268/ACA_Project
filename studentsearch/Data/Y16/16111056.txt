@@ -1,0 +1,14 @@
+Roll No - 16111056
+Name - Vishak Prasad C
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL4, C-301
+E-mail - pcvishak@iitk.ac.in
+Blood Group - A+
+Category - ON
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111056_0.jpg
+																	

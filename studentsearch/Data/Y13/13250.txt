@@ -1,0 +1,14 @@
+Roll No - 13250
+Name - DHONDIP  BASUMATARY
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, F-103
+E-mail - dhondip@iitk.ac.in
+Blood Group - A+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13250_0.jpg
+																	

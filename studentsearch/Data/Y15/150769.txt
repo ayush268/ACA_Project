@@ -1,0 +1,14 @@
+Roll No - 150769
+Name - TSERING  NORPHEL
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL5, B-215
+E-mail - tnorphel@iitk.ac.in
+Blood Group - O+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150769_0.jpg
+																	

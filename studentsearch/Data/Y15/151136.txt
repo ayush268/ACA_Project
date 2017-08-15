@@ -1,0 +1,16 @@
+Roll No - 151136
+Name - BHUVNESH
+Gender - Male
+Dept. - PHYSICS
+Program - MSc
+2
+yr
+Address - HALLXI, B-407
+E-mail - bhuvnesh@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/151136_0.jpg
+																	

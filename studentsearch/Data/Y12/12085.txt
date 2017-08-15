@@ -1,0 +1,14 @@
+Roll No - 12085
+Name - AMAN  KUMAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D-110
+E-mail - amanku@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12085_0.jpg
+																	

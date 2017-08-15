@@ -1,0 +1,14 @@
+Roll No - 12662
+Name - SHASHANK KAMDAR
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, F-108
+E-mail - skamdar@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12662_0.jpg
+																	

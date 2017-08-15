@@ -1,0 +1,14 @@
+Roll No - 13685
+Name - SHUBHAM  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, C-204
+E-mail - kumarshu@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13685_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12585
+Name - ROHIT  ANURAG
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D-302
+E-mail - ranurag@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12585_0.jpg
+																	

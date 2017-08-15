@@ -1,0 +1,14 @@
+Roll No - 12509
+Name - PRAVEEN  KUMAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, D-312
+E-mail - kpraveen@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12509_0.jpg
+																	

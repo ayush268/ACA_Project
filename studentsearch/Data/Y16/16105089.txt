@@ -1,0 +1,14 @@
+Roll No - 16105089
+Name - SANJAY  PAL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, B-412
+E-mail - sunjay@iitk.ac.in
+Blood Group - A+
+Category - ON
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105089_0.jpg
+																	

@@ -1,0 +1,16 @@
+Roll No - 14895
+Name - PARTHA  SIL
+Gender - Male
+Dept. - MATHEMATICS
+Program - MSc
+2
+yr
+Address - HALL7, E-113
+E-mail - parthas@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14895_0.jpg
+																	

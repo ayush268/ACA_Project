@@ -1,0 +1,14 @@
+Roll No - 14549
+Name - RISHABH  GOYAL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALLX, B-203
+E-mail - risgoyal@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14549_0.jpg
+																	

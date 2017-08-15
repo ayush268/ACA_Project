@@ -1,0 +1,14 @@
+Roll No - 150271
+Name - HARSHBIR SINGH SANDHU
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL12, C-402
+E-mail - sandhu@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150271_0.jpg
+																	

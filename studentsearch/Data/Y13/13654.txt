@@ -1,0 +1,14 @@
+Roll No - 13654
+Name - SHILPI  AGRAWAL
+Gender - Female
+Dept. - MATHEMATICS
+Program - BS
+Address - GH, GHTA-211
+E-mail - shilpiag@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13654_0.jpg
+																	

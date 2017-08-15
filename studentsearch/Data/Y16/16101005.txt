@@ -1,0 +1,14 @@
+Roll No - 16101005
+Name - AVINASH  SHET
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - MTech
+Address - HALL12, D-405
+E-mail - avinashs@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16101005_0.jpg
+																	

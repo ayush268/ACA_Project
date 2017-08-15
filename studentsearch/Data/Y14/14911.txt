@@ -1,0 +1,16 @@
+Roll No - 14911
+Name - SUMIT  KUMAR
+Gender - Male
+Dept. - MATHEMATICS
+Program - MSc
+2
+yr
+Address - HALL7, D-106
+E-mail - sumkr@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14911_0.jpg
+																	

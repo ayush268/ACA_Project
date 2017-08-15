@@ -1,0 +1,14 @@
+Roll No - 13083
+Name - AMAN  CHAUDHARY
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, D-224
+E-mail - amanc@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13083_0.jpg
+																	

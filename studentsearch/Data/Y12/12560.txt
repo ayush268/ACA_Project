@@ -1,0 +1,14 @@
+Roll No - 12560
+Name - RATNESH  JAMIDAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, C-205
+E-mail - ratnesh@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12560_0.jpg
+																	

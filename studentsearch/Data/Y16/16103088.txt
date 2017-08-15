@@ -1,0 +1,14 @@
+Roll No - 16103088
+Name - SIBASANKAR  DAS
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALLXI, B-430
+E-mail - ssankar@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103088_0.jpg
+																	

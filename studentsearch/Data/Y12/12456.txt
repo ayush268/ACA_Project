@@ -1,0 +1,14 @@
+Roll No - 12456
+Name - NITISH KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5
+E-mail - nitishk@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12456_0.jpg
+																	

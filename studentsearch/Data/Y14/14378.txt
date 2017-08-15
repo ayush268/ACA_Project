@@ -1,0 +1,14 @@
+Roll No - 14378
+Name - MAYANK  SINGOUR
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL2, 316
+E-mail - mayanks@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14378_0.jpg
+																	

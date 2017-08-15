@@ -1,0 +1,14 @@
+Roll No - 14104
+Name - ANKIT  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, B-305
+E-mail - ankitkur@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104_0.jpg
+																	

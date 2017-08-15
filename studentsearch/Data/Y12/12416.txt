@@ -1,0 +1,14 @@
+Roll No - 12416
+Name - MOHIT  MAHORE
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, D-104
+E-mail - mmahore@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12416_0.jpg
+																	

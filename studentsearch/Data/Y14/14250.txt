@@ -1,0 +1,14 @@
+Roll No - 14250
+Name - GORANTLA SAI TEJA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, G-308
+E-mail - saiteja@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14250_0.jpg
+																	

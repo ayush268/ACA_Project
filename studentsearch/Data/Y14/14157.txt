@@ -1,0 +1,14 @@
+Roll No - 14157
+Name - AVESH  SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALLX, C-422
+E-mail - avesh@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14157_0.jpg
+																	

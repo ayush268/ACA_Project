@@ -1,0 +1,14 @@
+Roll No - 15105029
+Name - NAVNEET  YADAV
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, B-303
+E-mail - navneety@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15105029_0.jpg
+																	

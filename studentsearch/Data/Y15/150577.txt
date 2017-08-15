@@ -1,0 +1,14 @@
+Roll No - 150577
+Name - RIA  SHARMA
+Gender - Female
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - BTech
+Address - HALL6, GHTB-611
+E-mail - riash@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150577_0.jpg
+																	

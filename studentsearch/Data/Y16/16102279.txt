@@ -1,0 +1,14 @@
+Roll No - 16102279
+Name - SHIVAM KUMAR GAUTAM
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - PhD
+Address - HALL7, H-110
+E-mail - skgautam@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16102279_0.jpg
+																	

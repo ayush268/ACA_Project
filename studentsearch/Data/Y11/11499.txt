@@ -1,0 +1,14 @@
+Roll No - 11499
+Name - POWAR  SADANAND
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL2, 325
+E-mail - powars@iitk.ac.in
+Blood Group - O+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11499_0.jpg
+																	

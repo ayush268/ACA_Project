@@ -1,0 +1,14 @@
+Roll No - 150102
+Name - ANKIT  KUMAR
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL5, C-103
+E-mail - krankit@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150102_0.jpg
+																	

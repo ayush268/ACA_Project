@@ -1,0 +1,14 @@
+Roll No - 11802
+Name - VIKAS KUMAR BHARTI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, H-205
+E-mail - vikkubh@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11802_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150424
+Name - MOOLCHAND
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALLX, C-241
+E-mail - mchand@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150424_0.jpg
+																	

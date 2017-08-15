@@ -1,0 +1,14 @@
+Roll No - 13077
+Name - AKSHIT  AGARWAL
+Gender - Male
+Dept. - ECONOMICS
+Program - BS
+Address - HALL1, G-206
+E-mail - akshitag@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13077_0.jpg
+																	

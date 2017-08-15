@@ -1,0 +1,14 @@
+Roll No - 13801
+Name - VITHULAMUDI SANJEEV BABU
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL1, D-204
+E-mail - sanjeevv@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13801_0.jpg
+																	

@@ -1,0 +1,16 @@
+Roll No - 151142
+Name - KAMAL  DAS
+Gender - Male
+Dept. - PHYSICS
+Program - MSc
+2
+yr
+Address - HALLXI, B-402
+E-mail - kamaldas@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/151142_0.jpg
+																	

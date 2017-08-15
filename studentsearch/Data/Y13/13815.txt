@@ -1,0 +1,14 @@
+Roll No - 13815
+Name - YOGESH  SHARMA
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, B-302
+E-mail - yogeshsh@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13815_0.jpg
+																	

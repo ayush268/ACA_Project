@@ -1,0 +1,14 @@
+Roll No - 15105009
+Name - ASHISH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, B-214
+E-mail - ashibir@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15105009_0.jpg
+																	

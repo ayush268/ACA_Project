@@ -1,0 +1,14 @@
+Roll No - 15104064
+Name - VEDANSH  SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, A-406
+E-mail - vedansh@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104064_0.jpg
+																	

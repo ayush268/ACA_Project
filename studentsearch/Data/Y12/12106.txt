@@ -1,0 +1,14 @@
+Roll No - 12106
+Name - ANAND KAUSHAL
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, A-313
+E-mail - akaushal@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12106_0.jpg
+																	

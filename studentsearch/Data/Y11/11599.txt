@@ -1,0 +1,14 @@
+Roll No - 11599
+Name - RISHIKA  GARG
+Gender - Female
+Dept. - MATHEMATICS
+Program - BS
+Address - GH, D-301
+E-mail - rishika@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11599_0.jpg
+																	

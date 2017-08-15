@@ -1,0 +1,14 @@
+Roll No - 12339
+Name - KAMESH  AZAD
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, G-212
+E-mail - kazad@iitk.ac.in
+Blood Group - AB+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12339_0.jpg
+																	

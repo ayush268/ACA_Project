@@ -1,0 +1,14 @@
+Roll No - 12001
+Name - AAHITAGNI  MUKHERJEE
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, A-220
+E-mail - ahitagni@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12001_0.jpg
+																	

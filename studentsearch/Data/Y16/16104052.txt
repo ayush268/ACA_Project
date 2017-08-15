@@ -1,0 +1,14 @@
+Roll No - 16104052
+Name - MITALI  SAMANT
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL6, A-203
+E-mail - mitalis@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104052_0.jpg
+																	

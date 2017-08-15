@@ -1,0 +1,14 @@
+Roll No - 150294
+Name - HOMANGA  BHARADHWAJ
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, B-302
+E-mail - homangab@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150294_0.jpg
+																	

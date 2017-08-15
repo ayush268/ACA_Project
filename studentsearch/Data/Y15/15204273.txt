@@ -1,0 +1,14 @@
+Roll No - 15204273
+Name - SHYAM A B
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL8, F-201
+E-mail - shyamab@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15204273_0.jpg
+																	

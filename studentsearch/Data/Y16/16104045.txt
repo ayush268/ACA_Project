@@ -1,0 +1,14 @@
+Roll No - 16104045
+Name - KULDEEP  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL8, E-207
+E-mail - kldp@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104045_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13035
+Name - ABHISHEK RAI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, E-210
+E-mail - abrai@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13035_0.jpg
+																	

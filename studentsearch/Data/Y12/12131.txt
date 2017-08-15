@@ -1,0 +1,14 @@
+Roll No - 12131
+Name - ANKUSH  KOTHARI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, D-310
+E-mail - ankupc@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12131_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150527
+Name - PRINCE  SAROJ
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, D-114
+E-mail - psaroj@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150527_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 13404
+Name - MEKA  PRASANTH
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, C-219
+E-mail - prasanth@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13404_0.jpg
+																	

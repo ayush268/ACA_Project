@@ -1,0 +1,14 @@
+Roll No - 11079
+Name - AMIT  ANAND
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, A-102
+E-mail - amitand@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11079_0.jpg
+																	

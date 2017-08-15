@@ -1,0 +1,14 @@
+Roll No - 14103048
+Name - SUVRA  SAMAL
+Gender - Female
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - GH, GHTA-311
+E-mail - suvra@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14103048_0.jpg
+																	

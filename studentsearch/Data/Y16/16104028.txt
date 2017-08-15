@@ -1,0 +1,14 @@
+Roll No - 16104028
+Name - DEEPAK  SHARMA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - ACES, 2090
+E-mail - deepaksh@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104028_0.jpg
+																	

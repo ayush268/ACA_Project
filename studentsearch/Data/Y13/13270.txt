@@ -1,0 +1,14 @@
+Roll No - 13270
+Name - GAGAN  MEENA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, F-122
+E-mail - gaganm@iitk.ac.in
+Blood Group - A+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13270_0.jpg
+																	

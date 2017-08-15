@@ -1,0 +1,14 @@
+Roll No - 12205
+Name - CHAHAT  BAJPAI
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - GH, D-309
+E-mail - chahatb@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12205_0.jpg
+																	

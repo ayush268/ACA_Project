@@ -1,0 +1,14 @@
+Roll No - 16104082
+Name - SHASHI KALA KUMARI
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL6, GHTA-213
+E-mail - shashi@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104082_0.jpg
+																	

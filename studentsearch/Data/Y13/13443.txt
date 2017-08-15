@@ -1,0 +1,15 @@
+Roll No - 13443
+Name - NIMIT  JAIN
+Gender - Male
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - BTech
+Address - HALL9, G-302
+E-mail - nimit@iitk.ac.in
+Blood Group - Not
+Available
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13443_0.jpg
+																	

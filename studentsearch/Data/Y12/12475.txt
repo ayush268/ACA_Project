@@ -1,0 +1,14 @@
+Roll No - 12475
+Name - PEEYUSH  AGARWAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, F-311
+E-mail - peeyusha@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12475_0.jpg
+																	

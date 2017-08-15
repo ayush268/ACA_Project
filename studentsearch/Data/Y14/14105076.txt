@@ -1,0 +1,14 @@
+Roll No - 14105076
+Name - SHUBHAM  AGARWAL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALL8, C-320
+E-mail - shubagra@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14105076_0.jpg
+																	

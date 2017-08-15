@@ -1,0 +1,14 @@
+Roll No - 160502
+Name - PRATEEK
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, B-346
+E-mail - prateeki@iitk.ac.in
+Blood Group - B+
+Category - null
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160502_0.jpg
+																	

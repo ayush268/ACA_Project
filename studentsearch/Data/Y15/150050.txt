@@ -1,0 +1,14 @@
+Roll No - 150050
+Name - ADITYA  JHAWAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL3, 164
+E-mail - adjhawar@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150050_0.jpg
+																	

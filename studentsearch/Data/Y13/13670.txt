@@ -1,0 +1,14 @@
+Roll No - 13670
+Name - SHREYANSH  MRIDUL
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, B-319
+E-mail - smridul@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13670_0.jpg
+																	

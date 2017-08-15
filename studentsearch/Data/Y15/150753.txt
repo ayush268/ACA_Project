@@ -1,0 +1,14 @@
+Roll No - 150753
+Name - SWAPNIL  DUTT
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL2, 110
+E-mail - swapnild@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150753_0.jpg
+																	

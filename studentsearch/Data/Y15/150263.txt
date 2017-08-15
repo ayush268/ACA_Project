@@ -1,0 +1,14 @@
+Roll No - 150263
+Name - HARIOM  PANTHI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL3, 135
+E-mail - phari@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150263_0.jpg
+																	

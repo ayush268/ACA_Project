@@ -1,0 +1,14 @@
+Roll No - 16111026
+Name - Aditi Yashwant Patil
+Gender - Female
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL6, GHTA-609
+E-mail - aditiyp@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16111026_0.jpg
+																	

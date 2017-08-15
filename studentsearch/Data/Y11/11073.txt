@@ -1,0 +1,14 @@
+Roll No - 11073
+Name - AMANDEEP  CHANDRA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL12, F-309
+E-mail - amand@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11073_0.jpg
+																	

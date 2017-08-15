@@ -1,0 +1,14 @@
+Roll No - 11326
+Name - ABHISHEK  JADAV
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, G-216
+E-mail - abhija@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11326_0.jpg
+																	

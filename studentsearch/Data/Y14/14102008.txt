@@ -1,0 +1,14 @@
+Roll No - 14102008
+Name - ANJALI  SONI
+Gender - Female
+Dept. - CHEMICAL ENGG.
+Program - MTech
+Address - HALL6, A-204
+E-mail - sanjali@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14102008_0.jpg
+																	

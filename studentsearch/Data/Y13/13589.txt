@@ -1,0 +1,14 @@
+Roll No - 13589
+Name - ROOPAL  SINGH
+Gender - Female
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - GH, GHTA-603
+E-mail - roopal@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13589_0.jpg
+																	

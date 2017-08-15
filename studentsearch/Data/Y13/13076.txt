@@ -1,0 +1,14 @@
+Roll No - 13076
+Name - AKSHAY RAJ SINGH
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, G-111
+E-mail - srakshay@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13076_0.jpg
+																	

@@ -1,0 +1,15 @@
+Roll No - 161160
+Name - ANKIT  KUMAR
+Gender - Male
+Dept. - PHYSICS
+Program - PhD
+Dual
+Address - HALL12, C-412
+E-mail - ankt@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/161160_0.jpg
+																	

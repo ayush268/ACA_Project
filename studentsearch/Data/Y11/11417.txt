@@ -1,0 +1,14 @@
+Roll No - 11417
+Name - MD IMRAN
+Gender - Male
+Dept. - BIOL.SCI. AND BIO.ENGG.
+Program - BTech
+Address - HALL1, E317
+E-mail - mdimran@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11417_0.jpg
+																	

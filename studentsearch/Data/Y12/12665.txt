@@ -1,0 +1,14 @@
+Roll No - 12665
+Name - SHEALLIKA  SINGH
+Gender - Female
+Dept. - MATHEMATICS
+Program - BS
+Address - GH, E-307
+E-mail - shealika@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12665_0.jpg
+																	

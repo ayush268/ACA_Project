@@ -1,0 +1,14 @@
+Roll No - 15104021
+Name - KAPIL KUMAR AGRAWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL8, F-319
+E-mail - kkagrwl@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104021_0.jpg
+																	

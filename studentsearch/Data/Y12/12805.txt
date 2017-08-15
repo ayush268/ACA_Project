@@ -1,0 +1,14 @@
+Roll No - 12805
+Name - VIKRANT SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, C-304
+E-mail - vikrsing@iitk.ac.in
+Blood Group - O-
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12805_0.jpg
+																	

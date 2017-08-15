@@ -1,0 +1,14 @@
+Roll No - 11328
+Name - JADHAV SHIV KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, D-316
+E-mail - skjadhav@iitk.ac.in
+Blood Group - B-
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11328_0.jpg
+																	

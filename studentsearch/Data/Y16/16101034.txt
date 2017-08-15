@@ -1,0 +1,14 @@
+Roll No - 16101034
+Name - RAHUL  RANJAN
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - MTech
+Address - HALL7, A-307
+E-mail - rrahul@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16101034_0.jpg
+																	

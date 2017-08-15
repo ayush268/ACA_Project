@@ -1,0 +1,14 @@
+Roll No - 12806
+Name - VINAY  KUMAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, C-438
+E-mail - vinay@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12806_0.jpg
+																	

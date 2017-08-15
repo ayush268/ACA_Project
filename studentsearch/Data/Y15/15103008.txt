@@ -1,0 +1,14 @@
+Roll No - 15103008
+Name - ASHISH  KHATTRI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - DAY, DEF
+E-mail - khattri@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15103008_0.jpg
+																	

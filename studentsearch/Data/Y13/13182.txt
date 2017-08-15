@@ -1,0 +1,14 @@
+Roll No - 13182
+Name - AYUSH  ANAND
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, A-111
+E-mail - ayushstf@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13182_0.jpg
+																	

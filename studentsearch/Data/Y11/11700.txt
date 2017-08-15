@@ -1,0 +1,14 @@
+Roll No - 11700
+Name - SHRUTI  OJHA
+Gender - Female
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - GH, A-310
+E-mail - shrutio@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11700_0.jpg
+																	

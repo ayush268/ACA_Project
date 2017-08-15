@@ -1,0 +1,14 @@
+Roll No - 12729
+Name - SRIKANT  SINGH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, E-210
+E-mail - srikants@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12729_0.jpg
+																	

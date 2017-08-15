@@ -1,0 +1,14 @@
+Roll No - 16103272
+Name - PIYUSH  PARIK
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - PhD
+Address - HALL8, E-318
+E-mail - ppparik@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103272_0.jpg
+																	

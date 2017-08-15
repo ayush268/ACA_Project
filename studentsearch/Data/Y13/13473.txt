@@ -1,0 +1,14 @@
+Roll No - 13473
+Name - PIYUSH KUMAR SINGH
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, E-310
+E-mail - piyushs@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13473_0.jpg
+																	

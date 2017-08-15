@@ -1,0 +1,14 @@
+Roll No - 14313
+Name - KAUSHAL  AGRAWAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL5, F-109
+E-mail - kaushala@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14313_0.jpg
+																	

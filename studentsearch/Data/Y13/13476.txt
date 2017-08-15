@@ -1,0 +1,14 @@
+Roll No - 13476
+Name - PIYUSH  PRASHANT
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL9, F-307
+E-mail - piyushp@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13476_0.jpg
+																	

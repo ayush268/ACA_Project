@@ -1,0 +1,14 @@
+Roll No - 11688
+Name - SHIVANSHU  AGRAWAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, H-307
+E-mail - agrawals@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11688_0.jpg
+																	

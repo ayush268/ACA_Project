@@ -1,0 +1,14 @@
+Roll No - 14703
+Name - SONKUL NIKHIL AVINASH
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALLX, A-432
+E-mail - sonkul@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14703_0.jpg
+																	

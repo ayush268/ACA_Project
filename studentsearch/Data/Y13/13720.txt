@@ -1,0 +1,14 @@
+Roll No - 13720
+Name - SUMIT  KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, G-320
+E-mail - sumitsk@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13720_0.jpg
+																	

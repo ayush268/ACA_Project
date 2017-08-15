@@ -1,0 +1,14 @@
+Roll No - 15105027
+Name - MOODE NARESH NAIK
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALLXI, A-222
+E-mail - moode@iitk.ac.in
+Blood Group - B+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15105027_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 15123004
+Name - ESHAAN  SRIVASTAVA
+Gender - Male
+Dept. - EARTH SCIENCES
+Program - MTech
+Address - HALLXI, B-436
+E-mail - eshaan@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15123004_0.jpg
+																	

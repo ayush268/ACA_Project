@@ -1,0 +1,14 @@
+Roll No - 14429
+Name - NIKHIL  VANJANI
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL3, 252
+E-mail - nihkilv@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14429_0.jpg
+																	

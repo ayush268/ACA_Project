@@ -1,0 +1,14 @@
+Roll No - 14255
+Name - GOVIND KUMAR JHA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL3, 202
+E-mail - govindj@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14255_0.jpg
+																	

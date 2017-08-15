@@ -1,0 +1,14 @@
+Roll No - 12745
+Name - SUYASH  DWIVEDI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, E-110
+E-mail - dsuyash@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12745_0.jpg
+																	

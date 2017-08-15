@@ -1,0 +1,14 @@
+Roll No - 11502
+Name - PRADEEP KUMAR MEENA
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, G302
+E-mail - pkmeena@iitk.ac.in
+Blood Group - O+
+Category - ST
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11502_0.jpg
+																	

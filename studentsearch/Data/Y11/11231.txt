@@ -1,0 +1,14 @@
+Roll No - 11231
+Name - DANA RAM MEGHWAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, A120
+E-mail - danaram@iitk.ac.in
+Blood Group - O+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11231_0.jpg
+																	

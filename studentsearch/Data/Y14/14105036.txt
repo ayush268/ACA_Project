@@ -1,0 +1,14 @@
+Roll No - 14105036
+Name - HR LOHIT KUMAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - ACES, -2058
+E-mail - hrlohitk@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14105036_0.jpg
+																	

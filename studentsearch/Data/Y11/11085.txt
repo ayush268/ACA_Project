@@ -1,0 +1,14 @@
+Roll No - 11085
+Name - ANAM  SIDDIQUI
+Gender - Female
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - GH, A-316
+E-mail - anamsid@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11085_0.jpg
+																	

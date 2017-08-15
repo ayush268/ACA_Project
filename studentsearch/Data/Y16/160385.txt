@@ -1,0 +1,14 @@
+Roll No - 160385
+Name - MANISHA
+Gender - Female
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL6, A-113
+E-mail - manisham@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160385_0.jpg
+																	

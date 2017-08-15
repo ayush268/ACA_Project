@@ -1,0 +1,14 @@
+Roll No - 13527
+Name - RAGHVENDRA  KUSHWAHA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, E-217
+E-mail - raghv@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13527_0.jpg
+																	

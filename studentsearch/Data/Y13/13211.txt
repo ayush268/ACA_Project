@@ -1,0 +1,14 @@
+Roll No - 13211
+Name - BYRISETTY SHASHANK MOHAN
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, A-203
+E-mail - bsmohan@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13211_0.jpg
+																	

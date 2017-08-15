@@ -1,0 +1,15 @@
+Roll No - 14451
+Name - PATIL  LUKESH
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, C-415
+E-mail - lukesh@iitk.ac.in
+Blood Group - Not
+Available
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14451_0.jpg
+																	

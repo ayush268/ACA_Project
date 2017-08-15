@@ -1,0 +1,14 @@
+Roll No - 14780
+Name - UTKARSH  VERMA
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL5, B-212
+E-mail - vermau@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14780_0.jpg
+																	

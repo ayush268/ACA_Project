@@ -1,0 +1,14 @@
+Roll No - 13465
+Name - PATEL JEET SHAILESHKUMAR
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, F-212
+E-mail - jeetp@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13465_0.jpg
+																	

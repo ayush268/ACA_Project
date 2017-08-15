@@ -1,0 +1,14 @@
+Roll No - 12646
+Name - SHAFEEQUL  ISLAM
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, E-319
+E-mail - shafeeq@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12646_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11243
+Name - DEVENDRA  AGARWAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, G-311
+E-mail - devag@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11243_0.jpg
+																	

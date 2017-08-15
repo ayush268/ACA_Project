@@ -1,0 +1,16 @@
+Roll No - 161080
+Name - TEJBIR
+Gender - Male
+Dept. - MATHEMATICS
+Program - MSc
+2
+yr
+Address - HALL12, D-313
+E-mail - tejbir@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/161080_0.jpg
+																	

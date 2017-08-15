@@ -1,0 +1,15 @@
+Roll No - 151165
+Name - NEHA  GUPTA
+Gender - Female
+Dept. - PHYSICS
+Program - PhD
+Dual
+Address - GH, A-107
+E-mail - nhgupta@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/151165_0.jpg
+																	

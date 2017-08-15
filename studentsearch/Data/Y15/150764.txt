@@ -1,0 +1,14 @@
+Roll No - 150764
+Name - TARUN  SHARMA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL2, 328
+E-mail - tarunsha@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150764_0.jpg
+																	

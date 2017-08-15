@@ -1,0 +1,14 @@
+Roll No - 15107280
+Name - SAGHIR  ALI
+Gender - Male
+Dept. - CHEMISTRY
+Program - PhD
+Address - HALL7, A-209
+E-mail - saghira@iitk.ac.in
+Blood Group - A-
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15107280_0.jpg
+																	

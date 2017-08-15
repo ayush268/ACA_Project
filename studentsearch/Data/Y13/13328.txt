@@ -1,0 +1,14 @@
+Roll No - 13328
+Name - JITIN  BASETIA
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, F-213
+E-mail - jitin@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13328_0.jpg
+																	

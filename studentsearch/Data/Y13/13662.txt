@@ -1,0 +1,14 @@
+Roll No - 13662
+Name - SHIVAM  SINGH
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, H-312
+E-mail - shivms@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13662_0.jpg
+																	

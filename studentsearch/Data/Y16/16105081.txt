@@ -1,0 +1,14 @@
+Roll No - 16105081
+Name - RAJAT  GARG
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - MTech
+Address - HALL8, H-310
+E-mail - rajatg@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16105081_0.jpg
+																	

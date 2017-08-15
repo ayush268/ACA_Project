@@ -1,0 +1,14 @@
+Roll No - 11617
+Name - ROHIT PRAKASH BARNWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, B-215
+E-mail - rbarnwal@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11617_0.jpg
+																	

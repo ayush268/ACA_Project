@@ -1,0 +1,14 @@
+Roll No - 12469
+Name - PATEL ATISHKUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, C-201
+E-mail - atspatel@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12469_0.jpg
+																	

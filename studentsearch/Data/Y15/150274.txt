@@ -1,0 +1,14 @@
+Roll No - 150274
+Name - HARSHIT  AWASTHI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 218
+E-mail - harshitw@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150274_0.jpg
+																	

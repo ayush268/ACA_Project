@@ -1,0 +1,14 @@
+Roll No - 12335
+Name - KALE ABHISHEK PRADEEP
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL5, I-312
+E-mail - apkale@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12335_0.jpg
+																	

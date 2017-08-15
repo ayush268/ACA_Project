@@ -1,0 +1,16 @@
+Roll No - 14866
+Name - SANDIP  GHATAK
+Gender - Male
+Dept. - CHEMISTRY
+Program - MSc
+2
+yr
+Address - HALL7, B-107
+E-mail - sandipg@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14866_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150696
+Name - SHUBHAM
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL2, 230
+E-mail - kshubham@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150696_0.jpg
+																	

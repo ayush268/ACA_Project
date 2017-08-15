@@ -1,0 +1,16 @@
+Roll No - 14907
+Name - SHUBHAM  SINGH
+Gender - Male
+Dept. - MATHEMATICS
+Program - MSc
+2
+yr
+Address - HALL7, G-101
+E-mail - shubhsg@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14907_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150808
+Name - VIPIN  SHARMA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, B-412
+E-mail - vipinsh@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150808_0.jpg
+																	

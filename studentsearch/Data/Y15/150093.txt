@@ -1,0 +1,14 @@
+Roll No - 150093
+Name - ANAND  PATEL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL5, B-115
+E-mail - anandp@iitk.ac.in
+Blood Group - AB+
+Category - OP
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150093_0.jpg
+																	

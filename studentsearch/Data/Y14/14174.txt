@@ -1,0 +1,14 @@
+Roll No - 14174
+Name - BHANU  GARG
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL5, A-310
+E-mail - bhanug@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14174_0.jpg
+																	

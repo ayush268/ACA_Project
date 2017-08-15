@@ -1,0 +1,14 @@
+Roll No - 13819
+Name - Atanu  Chakraborty
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, G-211
+E-mail - atanu@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13819_0.jpg
+																	

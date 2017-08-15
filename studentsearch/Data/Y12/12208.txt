@@ -1,0 +1,14 @@
+Roll No - 12208
+Name - CHANDRAKANT  TIWARI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL9, D-115
+E-mail - cktiwari@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12208_0.jpg
+																	

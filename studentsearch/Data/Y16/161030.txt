@@ -1,0 +1,16 @@
+Roll No - 161030
+Name - SALMAN  HASAN
+Gender - Male
+Dept. - CHEMISTRY
+Program - MSc
+2
+yr
+Address - HALL12, E-310
+E-mail - hasan@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/161030_0.jpg
+																	

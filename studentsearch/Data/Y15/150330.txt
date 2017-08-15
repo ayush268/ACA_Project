@@ -1,0 +1,14 @@
+Roll No - 150330
+Name - KHANDELWAL UJJWAL PRADEEP
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALLX, C-424
+E-mail - kujjwal@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150330_0.jpg
+																	

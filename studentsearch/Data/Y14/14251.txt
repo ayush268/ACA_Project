@@ -1,0 +1,14 @@
+Roll No - 14251
+Name - PRABHU VAMSI YADAV
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 204
+E-mail - prabhu@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14251_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150369
+Name - MADHUKAR  BHARTI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 301
+E-mail - madhukar@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150369_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12714
+Name - SIDDHANT  MANOCHA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, C-215
+E-mail - smanocha@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12714_0.jpg
+																	

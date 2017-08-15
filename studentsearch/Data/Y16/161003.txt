@@ -1,0 +1,16 @@
+Roll No - 161003
+Name - ANITA
+Gender - Female
+Dept. - CHEMISTRY
+Program - MSc
+2
+yr
+Address - HALL6, A-208
+E-mail - anita@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/161003_0.jpg
+																	

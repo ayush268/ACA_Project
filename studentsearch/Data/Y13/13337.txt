@@ -1,0 +1,14 @@
+Roll No - 13337
+Name - KANHAYA  NAMDHAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, A-105
+E-mail - knamdhar@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13337_0.jpg
+																	

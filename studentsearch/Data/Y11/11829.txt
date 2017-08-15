@@ -1,0 +1,14 @@
+Roll No - 11829
+Name - YASH  SHAHI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, E-319
+E-mail - yashahi@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11829_0.jpg
+																	

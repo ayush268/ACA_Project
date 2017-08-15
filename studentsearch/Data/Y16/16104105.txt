@@ -1,0 +1,14 @@
+Roll No - 16104105
+Name - Durgendra  Pandey
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - ACES, -2083
+E-mail - dpandey@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16104105_0.jpg
+																	

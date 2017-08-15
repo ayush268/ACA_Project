@@ -1,0 +1,14 @@
+Roll No - 14117
+Name - ANUPRIYA  MEENA
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL6, GHTB-305
+E-mail - anupriya@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14117_0.jpg
+																	

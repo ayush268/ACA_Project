@@ -1,0 +1,14 @@
+Roll No - 12567
+Name - RAVI PRAKASH MEENA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, A-321
+E-mail - ravip@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12567_0.jpg
+																	

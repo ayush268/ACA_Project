@@ -1,0 +1,14 @@
+Roll No - 150672
+Name - SHIVAM
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL3, 355
+E-mail - shivamkc@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150672_0.jpg
+																	

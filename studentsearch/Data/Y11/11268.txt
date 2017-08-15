@@ -1,0 +1,14 @@
+Roll No - 11268
+Name - GANESH KUMAR BASKAR
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL9, D-105
+E-mail - ganeshkb@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11268_0.jpg
+																	

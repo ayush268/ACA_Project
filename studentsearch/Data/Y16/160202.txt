@@ -1,0 +1,14 @@
+Roll No - 160202
+Name - BHUWAN  SWAMI
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, C-239
+E-mail - bhuwan@iitk.ac.in
+Blood Group - O+
+Category - ON
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160202_0.jpg
+																	

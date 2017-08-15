@@ -1,0 +1,14 @@
+Roll No - 11104
+Name - ANKIT  JALAN
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, G-313
+E-mail - ajalan@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11104_0.jpg
+																	

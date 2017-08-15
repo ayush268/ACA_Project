@@ -1,0 +1,14 @@
+Roll No - 12650
+Name - Khaja Mohiddin Shaik
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, E-309
+E-mail - mkhaja@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12650_0.jpg
+																	

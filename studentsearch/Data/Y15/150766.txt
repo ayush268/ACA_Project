@@ -1,0 +1,14 @@
+Roll No - 150766
+Name - THENGANE AKSHAY NAMDEO
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALLX, B-401
+E-mail - akshayt@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150766_0.jpg
+																	

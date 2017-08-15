@@ -1,0 +1,14 @@
+Roll No - 14107281
+Name - MANENDRA SINGH CHAUHAN
+Gender - Male
+Dept. - CHEMISTRY
+Program - PhD
+Address - HALL7, D-101
+E-mail - manend@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14107281_0.jpg
+																	

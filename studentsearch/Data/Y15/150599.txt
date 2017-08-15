@@ -1,0 +1,14 @@
+Roll No - 150599
+Name - ROHITH  KOKKULA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL2, 217
+E-mail - kokkula@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150599_0.jpg
+																	

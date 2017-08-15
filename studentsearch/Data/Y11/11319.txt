@@ -1,0 +1,14 @@
+Roll No - 11319
+Name - IRFAN  HUDDA
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, F-314
+E-mail - irfanh@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11319_0.jpg
+																	

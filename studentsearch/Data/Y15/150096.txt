@@ -1,0 +1,14 @@
+Roll No - 150096
+Name - ANIKET  AGRAWAL
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL3, 241
+E-mail - aaniket@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150096_0.jpg
+																	

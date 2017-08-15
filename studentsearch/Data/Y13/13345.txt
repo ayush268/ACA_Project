@@ -1,0 +1,14 @@
+Roll No - 13345
+Name - KESHAV  KANT
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL9, G-207
+E-mail - keshavk@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13345_0.jpg
+																	

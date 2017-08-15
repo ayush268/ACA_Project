@@ -1,0 +1,14 @@
+Roll No - 150219
+Name - DEEPANSHU  BANSAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, B-119
+E-mail - dbansal@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150219_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11344
+Name - VIGNESH  REDDY
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D-212
+E-mail - vigneshj@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11344_0.jpg
+																	

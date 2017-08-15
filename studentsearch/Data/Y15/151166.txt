@@ -1,0 +1,15 @@
+Roll No - 151166
+Name - RAHUL  BHARDWAJ
+Gender - Male
+Dept. - PHYSICS
+Program - PhD
+Dual
+Address - HALLXI, C-420
+E-mail - rahulbh@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/151166_0.jpg
+																	

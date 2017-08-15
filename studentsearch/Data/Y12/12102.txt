@@ -1,0 +1,14 @@
+Roll No - 12102
+Name - AMRENDRA  RAJAN
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, A-211
+E-mail - amrendra@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12102_0.jpg
+																	

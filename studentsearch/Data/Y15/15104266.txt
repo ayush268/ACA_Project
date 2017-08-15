@@ -1,0 +1,14 @@
+Roll No - 15104266
+Name - DILEEP  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL8, G-318
+E-mail - dlpkmr@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15104266_0.jpg
+																	

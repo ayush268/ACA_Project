@@ -1,0 +1,14 @@
+Roll No - 14474
+Name - PRAFUL  KUMAR
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL5, C-303
+E-mail - praful@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14474_0.jpg
+																	

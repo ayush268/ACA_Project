@@ -1,0 +1,14 @@
+Roll No - 12251
+Name - EERLAPALLY  RAJU
+Gender - Male
+Dept. - CHEMISTRY
+Program - BS
+Address - HALL1, C-315
+E-mail - eraju@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12251_0.jpg
+																	

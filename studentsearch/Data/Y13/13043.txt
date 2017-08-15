@@ -1,0 +1,14 @@
+Roll No - 13043
+Name - ADITYA  AGARWAL
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL9, F-213
+E-mail - agaditya@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13043_0.jpg
+																	

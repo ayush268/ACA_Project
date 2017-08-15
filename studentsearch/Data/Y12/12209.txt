@@ -1,0 +1,14 @@
+Roll No - 12209
+Name - CHANDRAKANTA
+Gender - Female
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - GH, F-202
+E-mail - chandrak@iitk.ac.in
+Blood Group - O+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12209_0.jpg
+																	

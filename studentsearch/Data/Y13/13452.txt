@@ -1,0 +1,14 @@
+Roll No - 13452
+Name - NITIN  SANGWAN
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, B-104
+E-mail - nitinc@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13452_0.jpg
+																	

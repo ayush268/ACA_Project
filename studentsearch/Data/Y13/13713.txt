@@ -1,0 +1,14 @@
+Roll No - 13713
+Name - SRITAY  MISTRY
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL9, H-113
+E-mail - sritay@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13713_0.jpg
+																	

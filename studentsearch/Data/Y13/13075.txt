@@ -1,0 +1,14 @@
+Roll No - 13075
+Name - AKSHAY KUMAR SANGHI
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, G-313
+E-mail - aksanghi@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13075_0.jpg
+																	

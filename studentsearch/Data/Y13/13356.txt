@@ -1,0 +1,14 @@
+Roll No - 13356
+Name - KRISHNA  KUMAR
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, D-315
+E-mail - krishnak@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13356_0.jpg
+																	

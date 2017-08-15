@@ -1,0 +1,14 @@
+Roll No - 14104263
+Name - AVIRUP  DASGUPTA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - PhD
+Address - HALL7, I-211
+E-mail - avirup@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104263_0.jpg
+																	

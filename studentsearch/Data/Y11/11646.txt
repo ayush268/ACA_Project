@@ -1,0 +1,14 @@
+Roll No - 11646
+Name - SANJAY  MOUDGALYA
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL1, D-120
+E-mail - sanjaym@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11646_0.jpg
+																	

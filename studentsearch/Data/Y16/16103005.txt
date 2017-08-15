@@ -1,0 +1,14 @@
+Roll No - 16103005
+Name - ADITYA  KUMAR
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALL7, D-301
+E-mail - kraditya@iitk.ac.in
+Blood Group - A+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103005_0.jpg
+																	

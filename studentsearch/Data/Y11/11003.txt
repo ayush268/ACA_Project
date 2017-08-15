@@ -1,0 +1,14 @@
+Roll No - 11003
+Name - AASHISH  GUPTA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, E-301
+E-mail - aashishg@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11003_0.jpg
+																	

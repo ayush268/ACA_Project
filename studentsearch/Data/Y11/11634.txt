@@ -1,0 +1,14 @@
+Roll No - 11634
+Name - SANDEEP  CHARAN
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL1, C-204
+E-mail - spcharan@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11634_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 11291
+Name - HARIOM  MEENA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, F-301
+E-mail - omhari@iitk.ac.in
+Blood Group - B+
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11291_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150841
+Name - YASHASWI  SINHA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL3, 333
+E-mail - ysinha@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150841_0.jpg
+																	

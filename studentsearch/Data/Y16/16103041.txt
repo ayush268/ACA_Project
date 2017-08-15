@@ -1,0 +1,14 @@
+Roll No - 16103041
+Name - MANU RANJAN NAGARKOTI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALLXI, C-434
+E-mail - manur@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103041_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 14104169
+Name - SUMAN  MANDAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL4, B-116
+E-mail - smandal@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104169_0.jpg
+																	

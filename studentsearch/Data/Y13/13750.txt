@@ -1,0 +1,14 @@
+Roll No - 13750
+Name - UDDIPAN  BANIK
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL9, F-306
+E-mail - uddipan@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13750_0.jpg
+																	

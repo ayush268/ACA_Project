@@ -1,0 +1,14 @@
+Roll No - 11230
+Name - DAKSH  LANGAN
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL1, B207
+E-mail - daksh@iitk.ac.in
+Blood Group - O+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11230_0.jpg
+																	

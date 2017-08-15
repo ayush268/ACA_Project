@@ -1,0 +1,14 @@
+Roll No - 14104103
+Name - OMPRAKASH  SHARMA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALLXI, C-302
+E-mail - omsharma@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104103_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 150329
+Name - KESHAV  VERMA
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL2, 313
+E-mail - vkeshav@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150329_0.jpg
+																	

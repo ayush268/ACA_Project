@@ -1,0 +1,14 @@
+Roll No - 160155
+Name - ARYAN  JETHOO
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL3, 127
+E-mail - ajethoo@iitk.ac.in
+Blood Group - A+
+Category - null
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/160155_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 15123009
+Name - RIMALI  MITRA
+Gender - Female
+Dept. - EARTH SCIENCES
+Program - MTech
+Address - HALL6, RAT-S525
+E-mail - rimali@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15123009_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 16108265
+Name - FIROJ  SK
+Gender - Male
+Dept. - MATHEMATICS
+Program - PhD
+Address - HALL8, H-103
+E-mail - firoj@iitk.ac.in
+Blood Group - A+
+Category - null
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16108265_0.jpg
+																	

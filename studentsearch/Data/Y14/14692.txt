@@ -1,0 +1,14 @@
+Roll No - 14692
+Name - SIDDHARTH  LAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL3, 151
+E-mail - sidlal@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14692_0.jpg
+																	

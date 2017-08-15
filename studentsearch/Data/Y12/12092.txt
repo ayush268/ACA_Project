@@ -1,0 +1,14 @@
+Roll No - 12092
+Name - AMBIKESH  GUPTA
+Gender - Male
+Dept. - CHEMISTRY
+Program - BTech
+Address - HALL12, D-101
+E-mail - ambikesh@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12092_0.jpg
+																	

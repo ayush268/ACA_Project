@@ -1,0 +1,14 @@
+Roll No - 15111018
+Name - GAURAV  MAMGAIN
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - MTech
+Address - HALL8, C-219
+E-mail - mamgain@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/15111018_0.jpg
+																	

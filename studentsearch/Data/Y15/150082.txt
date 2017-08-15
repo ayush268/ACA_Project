@@ -1,0 +1,14 @@
+Roll No - 150082
+Name - ALAJANGI ROHAN SATVIK
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, A-329
+E-mail - arsatvik@iitk.ac.in
+Blood Group - AB+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150082_0.jpg
+																	

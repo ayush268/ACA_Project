@@ -1,0 +1,14 @@
+Roll No - 12828
+Name - VISHWAS  BHARGAV
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL1, G-310
+E-mail - vishb@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12828_0.jpg
+																	

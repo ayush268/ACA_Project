@@ -1,0 +1,14 @@
+Roll No - 11307
+Name - HIMANSHU KUMAR VERMA
+Gender - Male
+Dept. - PHYSICS
+Program - BS
+Address - HALL1, E211
+E-mail - hkverma@iitk.ac.in
+Blood Group - B+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11307_0.jpg
+																	

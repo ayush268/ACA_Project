@@ -1,0 +1,14 @@
+Roll No - 12319
+Name - JAY PANDYA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, H-110
+E-mail - jpandya@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12319_0.jpg
+																	

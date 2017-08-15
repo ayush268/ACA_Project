@@ -1,0 +1,14 @@
+Roll No - 150825
+Name - VIVEK  SINGH
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALLX, C-412
+E-mail - sviveks@iitk.ac.in
+Blood Group - B+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150825_0.jpg
+																	

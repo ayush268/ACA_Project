@@ -1,0 +1,14 @@
+Roll No - 150024
+Name - ABHINAY  KUMAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 127
+E-mail - kabhinay@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150024_0.jpg
+																	

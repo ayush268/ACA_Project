@@ -1,0 +1,14 @@
+Roll No - 150401
+Name - MEET  RAJVANSHI
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL2, 322
+E-mail - meetraj@iitk.ac.in
+Blood Group - A+
+Category - SC
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150401_0.jpg
+																	

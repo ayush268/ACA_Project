@@ -1,0 +1,14 @@
+Roll No - 11726
+Name - SONU AGARWAL
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL1, F-103
+E-mail - sonuagr@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11726_0.jpg
+																	

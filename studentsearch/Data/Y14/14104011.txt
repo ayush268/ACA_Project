@@ -1,0 +1,14 @@
+Roll No - 14104011
+Name - AKANCHHA  AGARWAL
+Gender - Female
+Dept. - ELECTRICAL ENGG.
+Program - MTech
+Address - HALL6, B-214
+E-mail - akanchha@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14104011_0.jpg
+																	

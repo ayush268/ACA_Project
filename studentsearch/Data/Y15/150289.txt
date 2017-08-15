@@ -1,0 +1,14 @@
+Roll No - 150289
+Name - HIMANSHU  DWIVEDI
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALL5, C-209
+E-mail - hdwivedi@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150289_0.jpg
+																	

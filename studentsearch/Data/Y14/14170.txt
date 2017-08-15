@@ -1,0 +1,14 @@
+Roll No - 14170
+Name - BAJAJ RAHI DILIP
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL2, 269
+E-mail - rahi@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/14170_0.jpg
+																	

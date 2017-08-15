@@ -1,0 +1,14 @@
+Roll No - 11140
+Name - ANURAG  PRABHAKAR
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, H-111
+E-mail - aprabha@iitk.ac.in
+Blood Group - A+
+Category - SC*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11140_0.jpg
+																	

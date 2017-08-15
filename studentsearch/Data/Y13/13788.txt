@@ -1,0 +1,14 @@
+Roll No - 13788
+Name - VIKAS  JAIN
+Gender - Male
+Dept. - COMPUTER SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D-118
+E-mail - vikasj@iitk.ac.in
+Blood Group - O+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/13788_0.jpg
+																	

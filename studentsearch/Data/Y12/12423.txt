@@ -1,0 +1,14 @@
+Roll No - 12423
+Name - MUKESH  E
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALLX, A-106
+E-mail - mukeshe@iitk.ac.in
+Blood Group - B+
+Category - OB
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12423_0.jpg
+																	

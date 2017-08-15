@@ -1,0 +1,14 @@
+Roll No - 11555
+Name - RAGHAV  GOYAL
+Gender - Male
+Dept. - AEROSPACE ENGG.
+Program - BTech
+Address - HALL1, B219
+E-mail - rgoyal@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/11555_0.jpg
+																	

@@ -1,0 +1,14 @@
+Roll No - 12246
+Name - DIVYA PRATAP  SINGH
+Gender - Male
+Dept. - CHEMICAL ENGG.
+Program - BTech
+Address - HALL9, H-111
+E-mail - pratapd@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12246_0.jpg
+																	

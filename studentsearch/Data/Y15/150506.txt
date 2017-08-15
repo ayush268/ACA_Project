@@ -1,0 +1,14 @@
+Roll No - 150506
+Name - PRANJAL  GUPTA
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - BTech
+Address - HALLX, C-336
+E-mail - pgupta@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150506_0.jpg
+																	

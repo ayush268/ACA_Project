@@ -1,0 +1,14 @@
+Roll No - 12316
+Name - JAWAN  SINGH MEENA
+Gender - Male
+Dept. - ELECTRICAL ENGG.
+Program - BTech
+Address - HALL9, H-301
+E-mail - jawan@iitk.ac.in
+Blood Group - O-
+Category - ST*
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12316_0.jpg
+																	

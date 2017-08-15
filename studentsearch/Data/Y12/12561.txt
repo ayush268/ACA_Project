@@ -1,0 +1,14 @@
+Roll No - 12561
+Name - RAUNAK  RAJ
+Gender - Male
+Dept. - MECHANICAL ENGINEERING
+Program - BTech
+Address - HALL1, A-319
+E-mail - raunakrj@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12561_0.jpg
+																	

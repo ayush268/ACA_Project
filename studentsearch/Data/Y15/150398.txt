@@ -1,0 +1,14 @@
+Roll No - 150398
+Name - MAYUR KUMAR GUPTA
+Gender - Male
+Dept. - MATHEMATICS
+Program - BS
+Address - HALL5, C-304
+E-mail - mayurgpt@iitk.ac.in
+Blood Group - A+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/150398_0.jpg
+																	

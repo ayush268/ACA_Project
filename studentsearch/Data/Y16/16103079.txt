@@ -1,0 +1,14 @@
+Roll No - 16103079
+Name - SHIVAM  PANDE
+Gender - Male
+Dept. - CIVIL ENGG.
+Program - MTech
+Address - HALLXI, C-415
+E-mail - panshi@iitk.ac.in
+Blood Group - B+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/16103079_0.jpg
+																	

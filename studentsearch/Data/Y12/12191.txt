@@ -1,0 +1,14 @@
+Roll No - 12191
+Name - BALENDU  SHEKHAR
+Gender - Male
+Dept. - MATERIALS SCIENCE & ENGG.
+Program - BTech
+Address - HALL1, D-214
+E-mail - balendu@iitk.ac.in
+Blood Group - AB+
+Category - GN
+
+
+
+Image - http://oa.cc.iitk.ac.in:80/Oa/Jsp/Photo/12191_0.jpg
+																	
