@@ -23,10 +23,10 @@ if [ $mynum = 1 ] ; then
 	echo -n "Please enter the ROLL NO: ";
 	read roll_no;
 	while [ true ] ; do
-		grep -w -q -r -P -rl -i "Roll\s*No\s*-\s*$roll_no"  ./Data/;
+		grep -w -q -r -P -rl -i "Roll\s*No\s*-\s*$roll_no"  ./Student_Search_Data/;
 		if [[ $? = 0 && $roll_no != '.' && $roll_no = *[!\ ]* ]] ; then
 			 clear;
-			 sed -n 1,12p $(grep -i -w -r -P -rl "$roll_no"  ./Data/);
+			 sed -n 1,12p $(grep -i -w -r -P -rl "$roll_no"  ./Student_Search_Data/);
 				
 			 cowthink "Hmm... I think You Got it.."
 			
@@ -34,7 +34,7 @@ if [ $mynum = 1 ] ; then
 			 read num;
 			 clear
 			 if [ $num = 1 ] ; then
-				link=$(cat $(grep -i -w -r -P -rl "$roll_no" ./Data/) | grep -P -o "http\S+\.jpg")
+				link=$(cat $(grep -i -w -r -P -rl "$roll_no" ./Student_Search_Data/) | grep -P -o "http\S+\.jpg")
 				wget $link
 				clear
 				link=$(echo "$link" | grep -o -P "\d+_\d\.jpg")
@@ -134,7 +134,7 @@ if [ $mynum = 2 ] ; then
     fi;
 
 	clear;
-	info=$(grep -r -P -rl -i "1" ./Data/)
+	info=$(grep -r -P -rl -i "1" ./Student_Search_Data/)
 	if [[ $name = *[!\ ]* && $name != '.' ]] ; then
 		name=$(echo "${name// /  }")	
 		info=$(grep -r -P -rl -i "Name - .*$name" $info)
